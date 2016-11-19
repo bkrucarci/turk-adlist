@@ -8,14 +8,15 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 ## Nasıl kullanabilirim?
 Öncelikle Android telefonunuzda kök (root) erişim iznini almanız gerekmektedir.
 Root işlemini yapmanız telefonunuzu garanti kapsamı dışına çıkarabilir! Eğer hala garantili bir telefonunuz varsa ve çok fazla teknik bilgi sahibi birisi değilseniz. Adguard Android uygulamasını öneririm. Türkçe filtresi bulunmaktadır ve gayet başarılıdır. (https://adguard.com/apk)  
-AdAway uygulaması host dosyanızı değiştiremez ve reklamlar engellenemez. Root işlemini nasıl yapacağınızı internetten öğrenin. (KingoRoot programını kullanabilirsiniz)  
-Daha sonra AdAway uygulaması ile bu işlem adımlarını uygulayın. AdAway özgür ve açık kaynka kodlu, host dosyaları ile reklam engelleyen bir uygulamadır. https://adaway.org/
+Root işlemini nasıl yapacağınızı internetten öğrenin. (KingoRoot programını bilgisayarınıza indirip, yapabilirsiniz).  
+Root işlemini yaptıysanız AdAway uygulaması artık host dosyanızı değiştirme iznine sahip olacaktır. 
+Daha sonra AdAway uygulaması ile aşağıdaki işlem adımlarını uygulayın. AdAway özgür ve açık kaynka kodlu, host dosyaları ile reklam engelleyen bir uygulamadır. https://adaway.org/
 
 ## İşlem Adımları
 - AdAway uygulamasını indirin (https://f-droid.org/repo/org.adaway_57.apk)
 - Uygulamayı telefonunuza ve ya tabletinize kurun.
-- Uygulamayı açın ve menüden "Host kaynakları" sekmesine ilerleyin.
-- Sağ üst köşedeki '+' işaretine dokunun.
+- Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
+- Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
 - () adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
 - Ana menüye dönün güncellemeri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
 
