@@ -3,12 +3,15 @@ Açıklama:       Türkçe sitelerde reklamları engellemek için reklam sunucul
 Explanation:    Ad servers list to block ads on Turkish websites (for use with hosts files)
 
 ## Neden bu listeyi oluşturdum?
-Reklam engelleme amaçlı oluşturdum. Türkçe içerikli siteler ve reklamverenleri engelleyen filtre olmadığı için bu filtreyi oluşturmak istedim. Android telefonumda kullandığım AdAway uygulaması için oluşturduğum listeyi paylaşmak istedim. Tek başına bu liste tüm reklamları engelleyemez zaten öyle bir amacımız yok, yalnızca Türkçe içerikli sitelerdeki reklamları engellemek için kullanın. Diğer büyük listelerle birlikte kullanıldığında daha etkin bir sonuç alabilirsiniz.
+Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve reklamverenleri engelleyen filtre olmadığı için bu filtreyi oluşturmak istedim. Tek başına bu liste tüm reklamları engelleyemez zaten öyle bir amacımız yok, yalnızca Türkçe içerikli sitelerdeki reklamları engellemek için kullanın. Diğer büyük listelerle birlikte kullanıldığında daha etkin bir sonuç alabilirsiniz.
 
 ## Nasıl kullanabilirim?
-Öncelikle Android telefonunuzda kök (root) erişim iznini almanız gerekmektedir. Bu zorunludur. Aksi halde AdAway uygulaması host dosyanızı değiştiremez ve reklamlar engellenemez. Root işlemini nasıl yapacağınızı internetten öğrenin. (KingoRoot programını kullanabilirsiniz)  
+Öncelikle Android telefonunuzda kök (root) erişim iznini almanız gerekmektedir.
+Root işlemini yapmanız telefonunuzu garanti kapsamı dışına çıkarabilir! Eğer hala garantili bir telefonunuz varsa ve çok fazla teknik bilgi sahibi birisi değilseniz. Adguard Android uygulamasını öneririm. Türkçe filtresi bulunmaktadır ve gayet başarılıdır. (https://adguard.com/apk)  
+AdAway uygulaması host dosyanızı değiştiremez ve reklamlar engellenemez. Root işlemini nasıl yapacağınızı internetten öğrenin. (KingoRoot programını kullanabilirsiniz)  
 Daha sonra AdAway uygulaması ile bu işlem adımlarını uygulayın. AdAway özgür ve açık kaynka kodlu, host dosyaları ile reklam engelleyen bir uygulamadır. https://adaway.org/
 
+## İşlem Adımları
 - AdAway uygulamasını indirin (https://f-droid.org/repo/org.adaway_57.apk)
 - Uygulamayı telefonunuza ve ya tabletinize kurun.
 - Uygulamayı açın ve menüden "Host kaynakları" sekmesine ilerleyin.
