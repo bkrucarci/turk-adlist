@@ -4,7 +4,7 @@
 # Explanation:    Ad servers list to block ads on Turkish websites (for use with hosts files)
 # -----------------------------------------------------------------------------------------------
 #
-# Last update:    19 Nov 2016
+# Last update:    21 Nov 2016 - 00.22
 # Format:         Hosts (host dosya formatı)
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
@@ -91,15 +91,16 @@
 127.0.0.1 adsniper.ru
 127.0.0.1 adsonflags.com
 127.0.0.1 adsp.ciner.com.tr
+127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adtech.com
 127.0.0.1 adtech.de
 127.0.0.1 adv.letitbit.net
 127.0.0.1 advoly.com
+127.0.0.1 advrstcdn.com
 127.0.0.1 adwods.com
 127.0.0.1 adworkmedia.com
 127.0.0.1 adworld.com.tr
 127.0.0.1 adworldmedia.com
-127.0.0.1 adzerk.net
 127.0.0.1 adzerk.net
 127.0.0.1 aff.indirdik.com
 127.0.0.1 aff.tamvakti.com
@@ -128,6 +129,7 @@
 127.0.0.1 b.cdn.md
 127.0.0.1 bambar.net
 127.0.0.1 banner.kanald.com.tr
+127.0.0.1 bannerflow.com
 127.0.0.1 banners.tempobet.com
 127.0.0.1 bbelements.com
 127.0.0.1 bcvc.mobi
@@ -143,6 +145,7 @@
 127.0.0.1 bounceexchange.com
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
 127.0.0.1 buzzreklam.com
+127.0.0.1 casalemedia.com
 127.0.0.1 cdn.marjmedya.com
 127.0.0.1 cdn.smartclick.io
 127.0.0.1 chartbeat.com
@@ -152,6 +155,7 @@
 127.0.0.1 clicktale.net
 127.0.0.1 cmt.setrowid.com
 127.0.0.1 cntadvertising.com
+127.0.0.1 codeonclick.com
 127.0.0.1 connextra.com
 127.0.0.1 contextweb.com
 127.0.0.1 coremetrics.com
@@ -173,6 +177,7 @@
 127.0.0.1 dtscout.com
 127.0.0.1 effectivemeasure.net
 127.0.0.1 engageya.com
+127.0.0.1 eqads.com
 127.0.0.1 ero-advertising.com
 127.0.0.1 escinteractive.com
 127.0.0.1 etracker.com
@@ -184,6 +189,7 @@
 127.0.0.1 flixcar.com
 127.0.0.1 flixfacts.com
 127.0.0.1 fvbaffiliate.com
+127.0.0.1 gemius.pl
 127.0.0.1 getshar.es
 127.0.0.1 gigya.com
 127.0.0.1 go-mpulse.net
@@ -197,6 +203,7 @@
 127.0.0.1 grimex.net
 127.0.0.1 happilyswitching.net
 127.0.0.1 histats.com
+127.0.0.1 hit.8digits.com
 127.0.0.1 hit.dogannet.tv
 127.0.0.1 hit.gemius.pl
 127.0.0.1 hitgelsin.com
@@ -215,7 +222,6 @@
 127.0.0.1 indirdirek.org
 127.0.0.1 indisancal.com
 127.0.0.1 infolinks.com
-127.0.0.1 inrool.com
 127.0.0.1 inrool.com
 127.0.0.1 installads.net
 127.0.0.1 installads2.com
@@ -337,9 +343,9 @@
 127.0.0.1 reklamstore.cubecdn.net
 127.0.0.1 reklamtrk.com
 127.0.0.1 reklamz.com
+127.0.0.1 rekmob.com
 127.0.0.1 reviveservers.com
 127.0.0.1 revotas.com
-127.0.0.1 revsci.net
 127.0.0.1 revsci.net
 127.0.0.1 rs.chip.com.tr
 127.0.0.1 rubiconproject.com
@@ -356,7 +362,6 @@
 127.0.0.1 serving-sys.com
 127.0.0.1 skinected.com
 127.0.0.1 smaclick.com
-127.0.0.1 smartadserver.com
 127.0.0.1 smartadserver.com
 127.0.0.1 sociomantic.com
 127.0.0.1 softreklam.com
@@ -382,6 +387,7 @@
 127.0.0.1 tracking.redirect.pub
 127.0.0.1 tracking.vitringez.com
 127.0.0.1 trackocean.com
+127.0.0.1 tradeadexchange.com
 127.0.0.1 triggit.com
 127.0.0.1 truvacdn.com
 127.0.0.1 turkeyrank.com
