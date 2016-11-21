@@ -29,7 +29,7 @@ NOT: Adguard Android ücretsiz olarak kullanılabilir ancak uygulamaların için
 Eğer ücretsiz bir çözüm isterseniz [Seven Adclear](https://www.seven.com/android-adblocker-download.php) uygulamasını deneyebilirsiniz.
 
 ### İşlem Adımları - ANDROİD (Cihaz 'ROOTLU' ise)
-Telefonunuzda kö erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
+Telefonunuzda kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
 
 - AdAway uygulamasını [buradan](https://f-droid.org/repo/org.adaway_57.apk) indirin.
 - Uygulamayı telefonunuza ve ya tabletinize kurun.
@@ -37,9 +37,6 @@ Telefonunuzda kö erişim (root) izniniz varsa AdAway uygulamasını kullanabili
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
 - https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
 - Ana menüye dönün güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
-
-## Sorunuz mu var?
-Sorunuz, sorununuz ve ya talebiniz varsa [Issues](https://github.com/bkrcrc/turk-adlist/issues) bölümünde yeni başlık açabilirsiniz. Teşekkürler!
 
 ## Uyarı - Disclaimer
 Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz! Bu makaleyi kopyalayabilir, istediğiniz gibi düzenleyip yeniden paylaşabilirsiniz.
