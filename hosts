@@ -5,7 +5,7 @@
 #                 I collected these ad servers from Turkish websites
 # -----------------------------------------------------------------------------------------------
 #
-# Last update:    21 Nov 2016 - 00.22
+# Last update:    21 Nov 2016 - 20.00
 # Format:         Hosts (host dosya formatı)
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
@@ -51,6 +51,7 @@
 127.0.0.1 admatic.com.tr
 127.0.0.1 admax.com.tr
 127.0.0.1 admdspc.com
+127.0.0.1 admitlead.ru
 127.0.0.1 admost.com
 127.0.0.1 adnet.com.tr
 127.0.0.1 adnetworkperformance.com
@@ -89,13 +90,17 @@
 127.0.0.1 adserver.adklik.com.tr
 127.0.0.1 adshare3.freedocast.com
 127.0.0.1 adslidango.com
+127.0.0.1 adsnative.com
 127.0.0.1 adsniper.ru
 127.0.0.1 adsonflags.com
 127.0.0.1 adsp.ciner.com.tr
+127.0.0.1 adsp.haberturk.com
 127.0.0.1 adsrv.eacdn.com
+127.0.0.1 adsymptotic.com
 127.0.0.1 adtech.com
 127.0.0.1 adtech.de
 127.0.0.1 adv.letitbit.net
+127.0.0.1 advertising.com
 127.0.0.1 advoly.com
 127.0.0.1 advrstcdn.com
 127.0.0.1 adwods.com
@@ -150,6 +155,7 @@
 127.0.0.1 cdn.marjmedya.com
 127.0.0.1 cdn.smartclick.io
 127.0.0.1 chartbeat.com
+127.0.0.1 cinerreklam.com.tr
 127.0.0.1 citireklam.com
 127.0.0.1 clickmerkez.com
 127.0.0.1 clicks.hurriyet.com.tr
@@ -184,6 +190,7 @@
 127.0.0.1 escinteractive.com
 127.0.0.1 etracker.com
 127.0.0.1 exelator.com
+127.0.0.1 eyeviewads.com
 127.0.0.1 faggrim.com
 127.0.0.1 fitanalytics.com
 127.0.0.1 flashtalking.com
@@ -225,6 +232,8 @@
 127.0.0.1 indisancal.com
 127.0.0.1 infolinks.com
 127.0.0.1 inrool.com
+127.0.0.1 inspectlet.com
+127.0.0.1 installadpro.com
 127.0.0.1 installads.net
 127.0.0.1 installads2.com
 127.0.0.1 istatistik.milliyet.com.tr
@@ -235,6 +244,7 @@
 127.0.0.1 kurulum.xyz
 127.0.0.1 leetmedia.com
 127.0.0.1 liftdna.com
+127.0.0.1 ligadx.com
 127.0.0.1 ligatus.com
 127.0.0.1 lijit.com
 127.0.0.1 likebtn.com
@@ -315,6 +325,7 @@
 127.0.0.1 pradma.com
 127.0.0.1 prfct.co
 127.0.0.1 pro-market.net
+127.0.0.1 programattik.com
 127.0.0.1 projeanaliz.com
 127.0.0.1 promoviral.com
 127.0.0.1 pub2srv.com
@@ -330,6 +341,7 @@
 127.0.0.1 reklam.bahisanaliz.com
 127.0.0.1 reklam.emlakkulisi.com
 127.0.0.1 reklam7.com
+127.0.0.1 reklam9.com
 127.0.0.1 reklamaction.com
 127.0.0.1 reklamagaci.com
 127.0.0.1 reklamalan.com
