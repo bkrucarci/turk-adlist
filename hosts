@@ -2,6 +2,7 @@
 # -----------------------------------------------------------------------------------------------
 # Açıklama:       Türkçe sitelerde reklamları engellemek için reklam sunucuları listesi
 # Explanation:    Ad servers list to block ads on Turkish websites (for use with hosts files)
+#                 I collected these ad servers from Turkish websites
 # -----------------------------------------------------------------------------------------------
 #
 # Last update:    21 Nov 2016 - 00.22
@@ -166,6 +167,7 @@
 127.0.0.1 criteo.net
 127.0.0.1 crowdynews.com
 127.0.0.1 crwdcntrl.net
+127.0.0.1 csi.gstatic.com
 127.0.0.1 cxense.com
 127.0.0.1 d.haberler.com
 127.0.0.1 da-ads.com
@@ -261,7 +263,9 @@
 127.0.0.1 mobilup.com
 127.0.0.1 mobisla.com
 127.0.0.1 mobytrks.com
+127.0.0.1 mookie1.com
 127.0.0.1 msads.net
+127.0.0.1 mtburn.com
 127.0.0.1 mynativeads.com
 127.0.0.1 myswitchads.com
 127.0.0.1 netaffiliation.com
@@ -304,6 +308,7 @@
 127.0.0.1 phorm.com.tr
 127.0.0.1 pingdom.net
 127.0.0.1 pixenka.com
+127.0.0.1 plista.com
 127.0.0.1 pmelon.com
 127.0.0.1 popads.net
 127.0.0.1 popmarker.com
@@ -369,6 +374,7 @@
 127.0.0.1 spoods.rce.veeseo.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 statcounter.com
+127.0.0.1 stickyadstv.com
 127.0.0.1 strands.com
 127.0.0.1 stroeerdigitalmedia.de
 127.0.0.1 struq.com
@@ -386,11 +392,13 @@
 127.0.0.1 tracking.rce.veeseo.com
 127.0.0.1 tracking.redirect.pub
 127.0.0.1 tracking.vitringez.com
+127.0.0.1 trackingapi.cloudapp.net
 127.0.0.1 trackocean.com
 127.0.0.1 tradeadexchange.com
 127.0.0.1 triggit.com
 127.0.0.1 truvacdn.com
 127.0.0.1 turkeyrank.com
+127.0.0.1 turn.com
 127.0.0.1 tynt.com
 127.0.0.1 uzmanreklam.com
 127.0.0.1 uzreklam.com
@@ -404,6 +412,7 @@
 127.0.0.1 webtemsilcisi.com
 127.0.0.1 widengle.com
 127.0.0.1 winaffiliates.com
+127.0.0.1 ww3.smartadserver.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 x.ligatus.com
 127.0.0.1 xyztanitim.com
