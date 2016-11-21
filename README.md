@@ -10,9 +10,18 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 Root işlemini yapmanız telefonunuzu garanti kapsamı dışına çıkarabilir! Eğer hala garantili bir telefonunuz varsa ve çok fazla teknik bilgi sahibi birisi değilseniz. Adguard Android uygulamasını öneririm. Türkçe filtresi bulunmaktadır ve gayet başarılıdır. (https://adguard.com/apk)  
 Root işlemini nasıl yapacağınızı internetten öğrenin. (KingoRoot programını bilgisayarınıza indirip, yapabilirsiniz).  
 Root işlemini yaptıysanız AdAway uygulaması artık host dosyanızı değiştirme iznine sahip olacaktır. 
-Daha sonra AdAway uygulaması ile aşağıdaki işlem adımlarını uygulayın. AdAway özgür ve açık kaynka kodlu, host dosyaları ile reklam engelleyen bir uygulamadır. https://adaway.org/
+Daha sonra AdAway uygulaması ile aşağıdaki işlem adımlarını uygulayın. AdAway özgür ve açık kaynka kodlu, host dosyaları ile reklam engelleyen bir uygulamadır. https://adaway.org/  
+Eğer isterseniz bilgisayarınızda da bu listeyi kullanabilirsiniz.
 
-## İşlem Adımları
+## İşlem Adımları - WINDOWS
+- https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts adresinden listenin tamamını kopyalayın.
+- Bilgisayarınızda C:\Windows\System32\drivers\etc konumuna ilerleyin ve hosts dosyasını bulun.
+- hosts dosyasını notepad ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
+- Bilgisayarınızı yeniden başlatın.
+
+NOT: Listemiz tüm reklamları engelleyemeyecektir, diğer listeler ile birlikte kullanınız ya da tarayıcınızda reklam engelleyici kullanın.
+
+## İşlem Adımları - ANDROİD
 - AdAway uygulamasını indirin (https://f-droid.org/repo/org.adaway_57.apk)
 - Uygulamayı telefonunuza ve ya tabletinize kurun.
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
