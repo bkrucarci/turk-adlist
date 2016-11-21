@@ -28,7 +28,7 @@ Eklentiyi kurduktan sonra eklenti ayarlarından Sosyal Ağ Araçları, Casus Eng
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
 - https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
-- Ana menüye dönün güncellemeri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
+- Ana menüye dönün güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
 
 Tebrikler! Artık Türkçe reklam verenler listemiz ile engellenecektir. 
 
