@@ -24,7 +24,6 @@ Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu gar
 - [Adguard Android](https://adguard.com/apk) uygulamasını indirin.
 - Uygulamayı telefonunuza ve ya tabletinize kurun. Tam sürüm için deneme talep edin, bu şekilde 14 gün boyunca tam sürümü ücretsiz kullabilirsiniz.
 - Uygulamayı açın ve düğmeye dokunarak korumayı etkinleştirin.
-- Yukarıdaki adımları gösteren görsellerine [buradan](https://bilenlerkabilesi.com/adaway-android-icin-en-iyi-reklam-engelleme-uygulamasi/) gözatabilirsiniz.
 
 NOT: Adguard Android ücretsiz olarak kullanılabilir ancak uygulamaların içindeki reklamları engelleme özelliği ücretlidir! Satın alabilecek gücünüz varsa mobil cihazlarda mevcut en iyi uygulamadır, beğenirseniz alabilirsiniz.
 Eğer ücretsiz bir çözüm isterseniz [Seven Adclear](https://www.seven.com/android-adblocker-download.php) uygulamasını deneyebilirsiniz.
@@ -38,6 +37,7 @@ Telefonunuzda kök erişim (root) izniniz varsa AdAway uygulamasını kullanabil
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
 - https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
 - Ana menüye dönün güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
+- Android için yukarıdaki sıraladığım adımları anlatan görsellere [buradan](https://bilenlerkabilesi.com/adaway-android-icin-en-iyi-reklam-engelleme-uygulamasi/) gözatabilirsiniz. Sadece yeni Host ekleme kısmında https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts adresini kullanın.
 
 ## Uyarı - Disclaimer
 Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz! Bu makaleyi kopyalayabilir, istediğiniz gibi düzenleyip yeniden paylaşabilirsiniz.
