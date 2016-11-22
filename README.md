@@ -24,6 +24,7 @@ Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu gar
 - [Adguard Android](https://adguard.com/apk) uygulamasını indirin.
 - Uygulamayı telefonunuza ve ya tabletinize kurun. Tam sürüm için deneme talep edin, bu şekilde 14 gün boyunca tam sürümü ücretsiz kullabilirsiniz.
 - Uygulamayı açın ve düğmeye dokunarak korumayı etkinleştirin.
+- Yukarıdaki adımları gösteren görsellerine [buradan](https://bilenlerkabilesi.com/adaway-android-icin-en-iyi-reklam-engelleme-uygulamasi/) gözatabilirsiniz.
 
 NOT: Adguard Android ücretsiz olarak kullanılabilir ancak uygulamaların içindeki reklamları engelleme özelliği ücretlidir! Satın alabilecek gücünüz varsa mobil cihazlarda mevcut en iyi uygulamadır, beğenirseniz alabilirsiniz.
 Eğer ücretsiz bir çözüm isterseniz [Seven Adclear](https://www.seven.com/android-adblocker-download.php) uygulamasını deneyebilirsiniz.
