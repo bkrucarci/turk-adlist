@@ -11,6 +11,10 @@
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # Homepage:       https://github.com/bkrcrc/turk-adlist
 # 
+
+127.0.0.1  localhost
+::1  localhost
+
 # -----------------------------------------------------------------------------------------------
 # --- [ Turkish Ad Networks ] --- #
 # -----------------------------------------------------------------------------------------------
@@ -70,6 +74,7 @@
 127.0.0.1 adrecover.com
 127.0.0.1 adroll.com
 127.0.0.1 adrttt.com
+127.0.0.1 ads-hl.noktamedya.com.tr
 127.0.0.1 ads-rouge.haber7.com
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads.finzoom.com.tr
@@ -80,15 +85,19 @@
 127.0.0.1 ads.oyungemisi.com
 127.0.0.1 ads.sabah.com.tr
 127.0.0.1 ads.sharepi.com
+127.0.0.1 ads.skorfikstur.com
 127.0.0.1 ads.videonap.com
 127.0.0.1 ads.webme.com
 127.0.0.1 ads.zamunda.net
 127.0.0.1 ads1-adnow.com
 127.0.0.1 ads2-adnow.com
+127.0.0.1 ads5.sabah.com.tr
 127.0.0.1 adsbetkoy.com
 127.0.0.1 adscale.de
 127.0.0.1 adserver.adklik.com.tr
+127.0.0.1 adserver1.adtech.com.tr
 127.0.0.1 adshare3.freedocast.com
+127.0.0.1 adsim.sabah.com.tr
 127.0.0.1 adslidango.com
 127.0.0.1 adsnative.com
 127.0.0.1 adsniper.ru
@@ -149,6 +158,7 @@
 127.0.0.1 bnc.lt
 127.0.0.1 bo.facesbet.com
 127.0.0.1 bounceexchange.com
+127.0.0.1 bumerang.hurriyet.com.tr
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
 127.0.0.1 buzzreklam.com
 127.0.0.1 casalemedia.com
@@ -157,6 +167,7 @@
 127.0.0.1 chartbeat.com
 127.0.0.1 cinerreklam.com.tr
 127.0.0.1 citireklam.com
+127.0.0.1 clck.yandex.com.tr
 127.0.0.1 clickmerkez.com
 127.0.0.1 clicks.hurriyet.com.tr
 127.0.0.1 clicktale.net
@@ -264,7 +275,9 @@
 127.0.0.1 medyaklik.com
 127.0.0.1 medyanetads.com
 127.0.0.1 metaffiliation.com
+127.0.0.1 metrica.yandex.com.tr
 127.0.0.1 metrics34.com
+127.0.0.1 metrika.yandex.com.tr
 127.0.0.1 mgid.com
 127.0.0.1 minireklam.com
 127.0.0.1 mkazanc.com
@@ -308,6 +321,7 @@
 127.0.0.1 orjinalshop.net
 127.0.0.1 oxcdn.com
 127.0.0.1 p.milliyet.com.tr
+127.0.0.1 pagead.l.google.com
 127.0.0.1 parse.ly
 127.0.0.1 parsely.com
 127.0.0.1 partnermatrix.com
@@ -328,6 +342,10 @@
 127.0.0.1 programattik.com
 127.0.0.1 projeanaliz.com
 127.0.0.1 promoviral.com
+127.0.0.1 ptreklam.com
+127.0.0.1 ptreklam.com.tr
+127.0.0.1 ptreklamcrv.com.tr
+127.0.0.1 ptreklamssp.com.tr
 127.0.0.1 pub2srv.com
 127.0.0.1 pubmatic.com
 127.0.0.1 pxlad.io
@@ -338,8 +356,18 @@
 127.0.0.1 realist.gen.tr
 127.0.0.1 regadsgx.com
 127.0.0.1 rek.mobi
+127.0.0.1 rek2.tascatlasa.com
+127.0.0.1 reklam.arabul.com
 127.0.0.1 reklam.bahisanaliz.com
 127.0.0.1 reklam.emlakkulisi.com
+127.0.0.1 reklam.memurlar.net
+127.0.0.1 reklam.milliyet.com.tr
+127.0.0.1 reklam.misli.com
+127.0.0.1 reklam.mynet.com
+127.0.0.1 reklam.softreklam.com
+127.0.0.1 reklam.star.com.tr
+127.0.0.1 reklam.vogel.com.tr
+127.0.0.1 reklam.yonlendir.com
 127.0.0.1 reklam7.com
 127.0.0.1 reklam9.com
 127.0.0.1 reklamaction.com
@@ -371,6 +399,7 @@
 127.0.0.1 sail-horizon.com
 127.0.0.1 savoy.storage.cubecdn.net
 127.0.0.1 say.ac
+127.0.0.1 sayac.hurriyet.com.tr
 127.0.0.1 sayyac.net
 127.0.0.1 scarabresearch.com
 127.0.0.1 scorecardresearch.com
