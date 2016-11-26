@@ -13,8 +13,11 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 - hosts dosyasını notepad ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
 
-NOT: Listemiz tüm reklamları engelleyemeyecektir, diğer listeler ile birlikte kullanınız ya da tarayıcınızda reklam engelleyici kullanın. Önerdiğim engelleyici uBlock Origin eklentisidir. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) ve [Opera](https://addons.opera.com/extensions/details/ublock/) tarayıcılarınıza ekleyerek kullanabilirsiniz.
-Eklentiyi kurduktan sonra uBlock Origin ayarlarından "3. taraf süzgeçler > Özel" konumuna https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts adresini yapıştırın ve "Değişiklikleri Uygula" diyerek ayarları kapatın.
+NOT: Listemiz yapısı host yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve birçok durumda bu filtreleme yeterli olur. İnternet tarayıcınızda reklam engelleyici kullanın. 
+
+  Önerdiğim engelleyici uBlock Origin eklentisidir. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) ve [Opera](https://addons.opera.com/extensions/details/ublock/) tarayıcılarınıza ekleyerek kullanabilirsiniz.
+
+  Eklentiyi kurduktan sonra uBlock Origin ayarlarından "3. taraf süzgeçler > Özel" konumuna https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts adresini yapıştırın ve "Değişiklikleri Uygula" diyerek ayarları kapatın.
 
 Artık tarayıcınızda reklamsız gezinebilirsiniz.
 
