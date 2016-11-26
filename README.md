@@ -13,7 +13,7 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 - hosts dosyasını notepad ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
 
-NOT: Listemiz yapısı host yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve birçok durumda bu filtreleme yeterli olur. İnternet tarayıcınızda reklam engelleyici kullanın. 
+NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda reklam engelleyici kullanarak etkin bir şekilde element filtrelemesi de yapabilirsiniz. 
 
   Önerdiğim engelleyici uBlock Origin eklentisidir. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) ve [Opera](https://addons.opera.com/extensions/details/ublock/) tarayıcılarınıza ekleyerek kullanabilirsiniz.
 
