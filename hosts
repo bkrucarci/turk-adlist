@@ -5,12 +5,12 @@
 #                 I collected these ad servers from Turkish websites
 # -----------------------------------------------------------------------------------------------
 #
-# Last update:    26 Nov 2016 - 14.00
+# Homepage:       https://github.com/bkrcrc/turk-adlist
 # Format:         Hosts (host dosya formatı)
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
-# Homepage:       https://github.com/bkrcrc/turk-adlist
-# 
+#
+# Last update:    28 Nov 2016 - 18.20
 
 127.0.0.1  localhost
 ::1  localhost
@@ -40,6 +40,7 @@
 127.0.0.1 ad.reklamport.com
 127.0.0.1 ad.webservis.gen.tr
 127.0.0.1 ad.wslinx.com
+127.0.0.1 ad.yemeksepeti.com
 127.0.0.1 ad.zaman.com.tr
 127.0.0.1 ad01.tmgrup.com.tr
 127.0.0.1 ad4game.sharingcentre.net
@@ -166,6 +167,7 @@
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
 127.0.0.1 buzzreklam.com
 127.0.0.1 casalemedia.com
+127.0.0.1 cdn.html5maker.com
 127.0.0.1 cdn.marjmedya.com
 127.0.0.1 cdn.smartclick.io
 127.0.0.1 chartbeat.com
@@ -470,6 +472,3 @@
 127.0.0.1 ycreklam.com
 127.0.0.1 yenimedya.com.tr
 127.0.0.1 yx-ads6.com
-# -----------------------------------------------------------------------------------------------
-# --- [ Turkish Ad Networks ] --- #
-# -----------------------------------------------------------------------------------------------
