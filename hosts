@@ -1,23 +1,17 @@
 # bkrcrc turk-adlist
-# -----------------------------------------------------------------------------------------------
-# Açıklama:       Türkçe sitelerde reklamları engellemek için reklam sunucuları listesi
-# Explanation:    Ad servers list to block ads on Turkish websites (for use with hosts files)
-#                 I collected these ad servers from Turkish websites
-# -----------------------------------------------------------------------------------------------
-#
+# ------------------------------------------------------------------------
 # Homepage:       https://github.com/bkrcrc/turk-adlist
 # Format:         Hosts (host dosya formatı)
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
-#
-# Last update:    28 Nov 2016 - 18.20
+# ------------------------------------------------------------------------
+# Last update:    01 Dec 2016 - 17.20
+# ------------------------------------------------------------------------
 
 127.0.0.1  localhost
 ::1  localhost
 
-# -----------------------------------------------------------------------------------------------
-# --- [ Turkish Ad Networks ] --- #
-# -----------------------------------------------------------------------------------------------
+# --- [ Ad Networks on Turkish Sites ] --- #
 127.0.0.1 0638.info
 127.0.0.1 109.73.75.29
 127.0.0.1 109.73.75.3
@@ -79,10 +73,12 @@
 127.0.0.1 ads-hl.noktamedya.com.tr
 127.0.0.1 ads-rouge.haber7.com
 127.0.0.1 ads-twitter.com
+127.0.0.1 ads.dt.mydas.mobi
 127.0.0.1 ads.finzoom.com.tr
 127.0.0.1 ads.garga.biz
 127.0.0.1 ads.gercekgundem.com
 127.0.0.1 ads.ihaberadserver.com
+127.0.0.1 ads.mp.mydas.mobi
 127.0.0.1 ads.o-networkaffiliates.com
 127.0.0.1 ads.oyungemisi.com
 127.0.0.1 ads.sabah.com.tr
@@ -94,6 +90,7 @@
 127.0.0.1 ads.zamunda.net
 127.0.0.1 ads1-adnow.com
 127.0.0.1 ads2-adnow.com
+127.0.0.1 ads2.mynet.com
 127.0.0.1 ads5.sabah.com.tr
 127.0.0.1 adsbetkoy.com
 127.0.0.1 adscale.de
@@ -169,6 +166,7 @@
 127.0.0.1 casalemedia.com
 127.0.0.1 cdn.html5maker.com
 127.0.0.1 cdn.marjmedya.com
+127.0.0.1 cdn.popcash.net
 127.0.0.1 cdn.smartclick.io
 127.0.0.1 chartbeat.com
 127.0.0.1 cinerreklam.com.tr
@@ -270,6 +268,7 @@
 127.0.0.1 liveadexchanger.com
 127.0.0.1 liverail.com
 127.0.0.1 load.sumome.com
+127.0.0.1 logo.webservis.gen.tr
 127.0.0.1 m6r.eu
 127.0.0.1 mads.com
 127.0.0.1 madserv.net
@@ -278,6 +277,7 @@
 127.0.0.1 marinsm.com
 127.0.0.1 marketo.net
 127.0.0.1 med4ad.com
+127.0.0.1 media.marsaffiliates.com
 127.0.0.1 mediaplex.com
 127.0.0.1 medyaklik.com
 127.0.0.1 medyanetads.com
@@ -460,6 +460,7 @@
 127.0.0.1 visilabs.com
 127.0.0.1 visilabs.net
 127.0.0.1 visit.hepsiburada.com
+127.0.0.1 webservis.gen.tr
 127.0.0.1 webspectator.com
 127.0.0.1 webtemsilcisi.com
 127.0.0.1 widengle.com
