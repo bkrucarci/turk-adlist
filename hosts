@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    01 Dec 2016 - 17.20
+# Last update:    01 Dec 2016 - 20.00
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -40,6 +40,7 @@
 127.0.0.1 ad4game.sharingcentre.net
 127.0.0.1 adadvisor.net
 127.0.0.1 adasist.com
+127.0.0.1 adbers.com
 127.0.0.1 adbuzz.com.tr
 127.0.0.1 adcash.com
 127.0.0.1 adcater.com
@@ -116,6 +117,7 @@
 127.0.0.1 adworkmedia.com
 127.0.0.1 adworld.com.tr
 127.0.0.1 adworldmedia.com
+127.0.0.1 adx.ligadx.com
 127.0.0.1 adzerk.net
 127.0.0.1 aff.indirdik.com
 127.0.0.1 aff.tamvakti.com
@@ -160,6 +162,7 @@
 127.0.0.1 bo.facesbet.com
 127.0.0.1 boomads.com
 127.0.0.1 bounceexchange.com
+127.0.0.1 bs.serving-sys.com
 127.0.0.1 bumerang.hurriyet.com.tr
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
 127.0.0.1 buzzreklam.com
@@ -192,6 +195,7 @@
 127.0.0.1 csi.gstatic.com
 127.0.0.1 cxense.com
 127.0.0.1 d.haberler.com
+127.0.0.1 d.turn.com
 127.0.0.1 da-ads.com
 127.0.0.1 demdex.net
 127.0.0.1 dimml.io
@@ -403,6 +407,7 @@
 127.0.0.1 rs.chip.com.tr
 127.0.0.1 rubiconproject.com
 127.0.0.1 s.adklik.com.tr
+127.0.0.1 s3.adbers.com
 127.0.0.1 sadecereklam.net
 127.0.0.1 sail-horizon.com
 127.0.0.1 savoy.storage.cubecdn.net
@@ -441,6 +446,7 @@
 127.0.0.1 top10.yazete.com
 127.0.0.1 tr.hit.gemius.pl
 127.0.0.1 track.vitringez.com
+127.0.0.1 tracking-rce.veeseo.com
 127.0.0.1 tracking.rce.veeseo.com
 127.0.0.1 tracking.redirect.pub
 127.0.0.1 tracking.vitringez.com
