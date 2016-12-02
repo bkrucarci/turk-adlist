@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    01 Dec 2016 - 20.00
+# Last update:    02 Dec 2016 - 14.05
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -41,6 +41,7 @@
 127.0.0.1 adadvisor.net
 127.0.0.1 adasist.com
 127.0.0.1 adbers.com
+127.0.0.1 adbetnet.advertserve.com
 127.0.0.1 adbuzz.com.tr
 127.0.0.1 adcash.com
 127.0.0.1 adcater.com
@@ -96,6 +97,7 @@
 127.0.0.1 adsbetkoy.com
 127.0.0.1 adscale.de
 127.0.0.1 adserver.adklik.com.tr
+127.0.0.1 adserver.advrstcdn.com
 127.0.0.1 adserver1.adtech.com.tr
 127.0.0.1 adshare3.freedocast.com
 127.0.0.1 adsim.sabah.com.tr
@@ -446,6 +448,7 @@
 127.0.0.1 top10.yazete.com
 127.0.0.1 tr.hit.gemius.pl
 127.0.0.1 track.vitringez.com
+127.0.0.1 tracker-pm2.erosaffiliates.com
 127.0.0.1 tracking-rce.veeseo.com
 127.0.0.1 tracking.rce.veeseo.com
 127.0.0.1 tracking.redirect.pub
