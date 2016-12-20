@@ -24,7 +24,7 @@ Artık tarayıcınızda reklamsız gezinebilirsiniz.
 ### İşlem Adımları - ANDROİD (Cihaz 'ROOTSUZ' ise)
 Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu garanti kapsamı dışına çıkarabilir. Bu gibi durumda aşağıdaki adımlarla reklamları engelleyebilirsiniz.
 
-- [DNS66](https://github.com/julian-klode/dns66/releases) uygulamasını indirin.
+- [DNS66](https://github.com/julian-klode/dns66/releases) uygulamasını (.apk uzantılı dosyayı) indirin.
 - Bilinmeyen kaynaklar uyarısına izin verin. Uygulamayı telefonunuza ve ya tabletinize kurun.
 - Uygulamayı açın, alt bölümde "Domain Filters" sekmesine dokunun.
 - Sağ alt taraftaki "+" artı ikonuna dokunun ve aşağıdaki değerleri yazın.
