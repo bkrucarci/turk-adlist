@@ -24,13 +24,16 @@ Artık tarayıcınızda reklamsız gezinebilirsiniz.
 ### İşlem Adımları - ANDROİD (Cihaz 'ROOTSUZ' ise)
 Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu garanti kapsamı dışına çıkarabilir. Bu gibi durumda aşağıdaki adımlarla reklamları engelleyebilirsiniz.
 
-- [Adguard Android](https://adguard.com/apk) uygulamasını indirin.
-- Uygulamayı telefonunuza ve ya tabletinize kurun. Tam sürüm için deneme talep edin, bu şekilde 14 gün boyunca tam sürümü ücretsiz kullabilirsiniz.
-- Uygulamayı açın ve düğmeye dokunarak korumayı etkinleştirin.
-
-NOT: Adguard Android ücretsiz olarak kullanılabilir ancak uygulamaların içindeki reklamları engelleme özelliği ücretlidir! Satın alabilecek gücünüz varsa mobil cihazlarda mevcut en iyi uygulamadır, beğenirseniz alabilirsiniz.
-Eğer ücretsiz bir çözüm isterseniz [Block This](https://block-this.com/) uygulamasını deneyebilirsiniz.
-Block This > [Direkt indirme Adresi](https://block-this.com/block-this-latest.apk)
+- [DNS66](https://github.com/julian-klode/dns66/releases) uygulamasını indirin.
+- Bilinmeyen kaynaklar uyarısına izin verin. Uygulamayı telefonunuza ve ya tabletinize kurun.
+- Uygulamayı açın, alt bölümde "Domain Filters" sekmesine dokunun.
+- Sağ alt taraftaki "+" artı ikonuna dokunun ve aşağıdaki değerleri yazın.
+- Title: bkrcrc turk adlist
+- Location: https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts
+- Action: Deny
+- Sağ üstten "Save" diyerek bu ayarları kaydedin. Yukarıdaki yenile butonuna dokunarak güncellemeleri indirin.
+- Start/Stop menüsüne geçin ve ekrana uzunca dokunun ve filtrelemeyi etkinleştirin.
+- Eğer bildirim alanında anahtar işareti görüyorsanız, filtrelerimiz etkindir. Reklamsız gezinebilirsiniz.
 
 ### İşlem Adımları - ANDROİD (Cihaz 'ROOTLU' ise)
 Telefonunuzda kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
