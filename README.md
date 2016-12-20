@@ -29,7 +29,8 @@ Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu gar
 - Uygulamayı açın ve düğmeye dokunarak korumayı etkinleştirin.
 
 NOT: Adguard Android ücretsiz olarak kullanılabilir ancak uygulamaların içindeki reklamları engelleme özelliği ücretlidir! Satın alabilecek gücünüz varsa mobil cihazlarda mevcut en iyi uygulamadır, beğenirseniz alabilirsiniz.
-Eğer ücretsiz bir çözüm isterseniz [Seven Adclear](https://www.seven.com/android-adblocker-download.php) uygulamasını deneyebilirsiniz.
+Eğer ücretsiz bir çözüm isterseniz [Block This](https://block-this.com/) uygulamasını deneyebilirsiniz.
+Block This > [Direkt indirme Adresi](https://block-this.com/block-this-latest.apk)
 
 ### İşlem Adımları - ANDROİD (Cihaz 'ROOTLU' ise)
 Telefonunuzda kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
