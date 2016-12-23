@@ -1,11 +1,11 @@
 # bkrcrc turk-adlist
 # ------------------------------------------------------------------------
 # Homepage:       https://github.com/bkrcrc/turk-adlist
-# Format:         Hosts (host dosya formatı)
+# Format:         Hosts (host dosya format�)
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    15 Dec 2016 - 01.20
+# Last update:    23 Dec 2016 - 12.50
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -32,6 +32,7 @@
 127.0.0.1 ad.ntvmsnbc.com
 127.0.0.1 ad.reklam.xyz
 127.0.0.1 ad.reklamport.com
+127.0.0.1 ad.sacitaslan.com
 127.0.0.1 ad.webservis.gen.tr
 127.0.0.1 ad.wslinx.com
 127.0.0.1 ad.yemeksepeti.com
@@ -127,6 +128,7 @@
 127.0.0.1 aff2.gittigidiyor.com
 127.0.0.1 aff3.gittigidiyor.com
 127.0.0.1 affiliates.babylon.com
+127.0.0.1 affiliates.scorbet12.com
 127.0.0.1 affiliateserver.hangikredi.com
 127.0.0.1 affsnetwork.com
 127.0.0.1 afyonturkreklam.com
@@ -172,6 +174,7 @@
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
 127.0.0.1 buzzreklam.com
 127.0.0.1 casalemedia.com
+127.0.0.1 cdn.hiperadverts.com
 127.0.0.1 cdn.html5maker.com
 127.0.0.1 cdn.marjmedya.com
 127.0.0.1 cdn.popcash.net
@@ -199,6 +202,7 @@
 127.0.0.1 crowdynews.com
 127.0.0.1 crwdcntrl.net
 127.0.0.1 csi.gstatic.com
+127.0.0.1 cstkk.720pizle.com
 127.0.0.1 cxense.com
 127.0.0.1 d.haberler.com
 127.0.0.1 d.turn.com
@@ -308,6 +312,7 @@
 127.0.0.1 mobilpop.com
 127.0.0.1 mobilup.com
 127.0.0.1 mobisla.com
+127.0.0.1 mobon.com
 127.0.0.1 mobytrks.com
 127.0.0.1 mookie1.com
 127.0.0.1 msads.net
@@ -349,6 +354,7 @@
 127.0.0.1 parse.ly
 127.0.0.1 parsely.com
 127.0.0.1 partnermatrix.com
+127.0.0.1 partnersapi.bilio.com
 127.0.0.1 perabetads.com
 127.0.0.1 perfectaudience.com
 127.0.0.1 permato.com
@@ -422,6 +428,7 @@
 127.0.0.1 s3.adbers.com
 127.0.0.1 sadecereklam.net
 127.0.0.1 sail-horizon.com
+127.0.0.1 savoy.cubecdn.net
 127.0.0.1 savoy.storage.cubecdn.net
 127.0.0.1 say.ac
 127.0.0.1 sayac.hurriyet.com.tr
@@ -475,6 +482,7 @@
 127.0.0.1 tynt.com
 127.0.0.1 uzmanreklam.com
 127.0.0.1 uzreklam.com
+127.0.0.1 vdaffiliates.com
 127.0.0.1 veeseo.com
 127.0.0.1 videoustu.com
 127.0.0.1 virgul.com
