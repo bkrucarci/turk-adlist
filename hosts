@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    23 Dec 2016 - 12.50
+# Last update:    30 Dec 2016 - 17.30
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -444,6 +444,7 @@
 127.0.0.1 smartadserver.com
 127.0.0.1 sociomantic.com
 127.0.0.1 softreklam.com
+127.0.0.1 sohbetpaneli.xyz
 127.0.0.1 sonobi.com
 127.0.0.1 spoods.rce.veeseo.com
 127.0.0.1 ssl.google-analytics.com
@@ -455,6 +456,7 @@
 127.0.0.1 stroeerdigitalmedia.de
 127.0.0.1 struq.com
 127.0.0.1 studads.com
+127.0.0.1 sunucu7.com
 127.0.0.1 supert.ag
 127.0.0.1 sw1block.com
 127.0.0.1 swbdds.com
