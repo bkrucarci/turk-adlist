@@ -38,7 +38,7 @@ Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu gar
 ### İşlem Adımları - ANDROİD (Cihaz 'ROOTLU' ise)
 Telefonunuzda kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
 
-- AdAway uygulamasını [buradan](https://f-droid.org/repo/org.adaway_57.apk) indirin.
+- AdAway uygulamasını [buradan](https://f-droid.org/repo/org.adaway_60.apk) indirin.
 - Uygulamayı telefonunuza ve ya tabletinize kurun.
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
