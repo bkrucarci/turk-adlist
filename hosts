@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    03 Jan 2017 - 19.55
+# Last update:    12 Jan 2017 - 22.30
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -27,10 +27,16 @@
 127.0.0.1 3444.deeplink.mobileapptracking.com
 127.0.0.1 3444.engine.mobileapptracking.com
 127.0.0.1 8digits.com
+127.0.0.1 a.ads1.msads.net
+127.0.0.1 a.ads1.msn.com
+127.0.0.1 a.ads2.msads.net
+127.0.0.1 a.ads2.msn.com
 127.0.0.1 a1.mzstatic.com
 127.0.0.1 aadserving.com
+127.0.0.1 ac3.msn.com
 127.0.0.1 acc-hd.de
 127.0.0.1 action.adzcore.com
+127.0.0.1 ad.afftrck.com
 127.0.0.1 ad.arklm.com
 127.0.0.1 ad.atdmt.com
 127.0.0.1 ad.bestsportstream.com
@@ -57,6 +63,7 @@
 127.0.0.1 adbuzz.com.tr
 127.0.0.1 adcash.com
 127.0.0.1 adcater.com
+127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 add.f5haber.com
 127.0.0.1 adform.net
 127.0.0.1 adfox.ru
@@ -65,6 +72,7 @@
 127.0.0.1 admatic.com.tr
 127.0.0.1 admax.com.tr
 127.0.0.1 admdspc.com
+127.0.0.1 admeld.com
 127.0.0.1 admitlead.ru
 127.0.0.1 admost.com
 127.0.0.1 adnet.com.tr
@@ -88,16 +96,20 @@
 127.0.0.1 ads-hl.noktamedya.com.tr
 127.0.0.1 ads-rouge.haber7.com
 127.0.0.1 ads-twitter.com
+127.0.0.1 ads.ak.facebook.com.edgesuite.net
 127.0.0.1 ads.creative-serving.com
 127.0.0.1 ads.dt.mydas.mobi
+127.0.0.1 ads.eu.msn.com
+127.0.0.1 ads.facebook.com
 127.0.0.1 ads.finzoom.com.tr
 127.0.0.1 ads.flurry.com
 127.0.0.1 ads.garga.biz
 127.0.0.1 ads.gercekgundem.com
+127.0.0.1 ads.google.com
 127.0.0.1 ads.ihaberadserver.com
 127.0.0.1 ads.mopub.com
 127.0.0.1 ads.mp.mydas.mobi
-127.0.0.1 ads.mp.mydas.mobi
+127.0.0.1 ads.msn.com
 127.0.0.1 ads.nexage.com
 127.0.0.1 ads.nordcurrent.com
 127.0.0.1 ads.o-networkaffiliates.com
@@ -108,8 +120,11 @@
 127.0.0.1 ads.videonap.com
 127.0.0.1 ads.webme.com
 127.0.0.1 ads.wordego.com
+127.0.0.1 ads.youtube.com
 127.0.0.1 ads.zamunda.net
 127.0.0.1 ads1-adnow.com
+127.0.0.1 ads1.msads.net
+127.0.0.1 ads1.msn.com
 127.0.0.1 ads2-adnow.com
 127.0.0.1 ads2.mynet.com
 127.0.0.1 ads3.fingersoft.net
@@ -132,6 +147,7 @@
 127.0.0.1 adsymptotic.com
 127.0.0.1 adtech.com
 127.0.0.1 adtech.de
+127.0.0.1 adtrack.king.com
 127.0.0.1 adv.letitbit.net
 127.0.0.1 advertising.com
 127.0.0.1 advoly.com
@@ -150,6 +166,7 @@
 127.0.0.1 affiliates.scorbet12.com
 127.0.0.1 affiliateserver.hangikredi.com
 127.0.0.1 affsnetwork.com
+127.0.0.1 afs.googlesyndication.com
 127.0.0.1 afyonturkreklam.com
 127.0.0.1 ajansreklam.net
 127.0.0.1 alephd.com
@@ -214,6 +231,7 @@
 127.0.0.1 clickmerkez.com
 127.0.0.1 clicks.hurriyet.com.tr
 127.0.0.1 clicktale.net
+127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cmsbetconstruct.com
 127.0.0.1 cmt.setrowid.com
 127.0.0.1 cntadvertising.com
@@ -268,10 +286,12 @@
 127.0.0.1 getshar.es
 127.0.0.1 gez.io
 127.0.0.1 gigya.com
+127.0.0.1 global.msads.net
 127.0.0.1 go-mpulse.net
 127.0.0.1 go.spaceshipads.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 googleads2.g.doubleclick.net
 127.0.0.1 googleadservices.com
 127.0.0.1 googlesyndication.com
 127.0.0.1 gorselcdn.com
@@ -292,6 +312,7 @@
 127.0.0.1 hotjar.com
 127.0.0.1 htpanel.com
 127.0.0.1 hyprshr.com
+127.0.0.1 i.kissmetrics.com
 127.0.0.1 ibillboard.com
 127.0.0.1 ifddigital.com
 127.0.0.1 ilividnewtab.com
@@ -336,6 +357,7 @@
 127.0.0.1 marinsm.com
 127.0.0.1 marketo.net
 127.0.0.1 med4ad.com
+127.0.0.1 media.fastclick.net
 127.0.0.1 media.marsaffiliates.com
 127.0.0.1 mediaplex.com
 127.0.0.1 medyaklik.com
@@ -396,6 +418,8 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 parse.ly
 127.0.0.1 parsely.com
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 partnerad.l.google.com
 127.0.0.1 partnermatrix.com
 127.0.0.1 partnersapi.bilio.com
 127.0.0.1 perabetads.com
@@ -412,6 +436,7 @@
 127.0.0.1 popads.net
 127.0.0.1 popmarker.com
 127.0.0.1 pradma.com
+127.0.0.1 pre.footprintpredict.com
 127.0.0.1 prfct.co
 127.0.0.1 pro-market.net
 127.0.0.1 programattik.com
@@ -422,6 +447,7 @@
 127.0.0.1 ptreklamcrv.com.tr
 127.0.0.1 ptreklamssp.com.tr
 127.0.0.1 pub2srv.com
+127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 pubmatic.com
 127.0.0.1 pxlad.io
 127.0.0.1 qservz.com
@@ -503,7 +529,6 @@
 127.0.0.1 sonobi.com
 127.0.0.1 spoods.rce.veeseo.com
 127.0.0.1 ssl.google-analytics.com
-127.0.0.1 ssl.google-analytics.com
 127.0.0.1 statcounter.com
 127.0.0.1 static.everyplay.com
 127.0.0.1 stats.appsflyer.com
@@ -567,8 +592,10 @@
 127.0.0.1 ww3.smartadserver.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
+127.0.0.1 www.youtube-nocookie.com
 127.0.0.1 x.ligatus.com
 127.0.0.1 xyztanitim.com
 127.0.0.1 ycreklam.com
 127.0.0.1 yenimedya.com.tr
+127.0.0.1 youtube.2cnt.net
 127.0.0.1 yx-ads6.com
