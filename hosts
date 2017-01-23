@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    20 Jan 2017 - 21.30
+# Last update:    24 Jan 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -308,6 +308,7 @@
 127.0.0.1 hit.gemius.pl
 127.0.0.1 hit.mynet.com
 127.0.0.1 hitgelsin.com
+127.0.0.1 hits.acunn.com
 127.0.0.1 hizlipop.com
 127.0.0.1 hizlireklam.com
 127.0.0.1 hotjar.com
@@ -376,6 +377,7 @@
 127.0.0.1 mobile.logs.roku.com
 127.0.0.1 mobilpop.com
 127.0.0.1 mobilup.com
+127.0.0.1 mobilure.com
 127.0.0.1 mobisla.com
 127.0.0.1 mobon.com
 127.0.0.1 mobytrks.com
@@ -533,6 +535,7 @@
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 statcounter.com
 127.0.0.1 static.everyplay.com
+127.0.0.1 stats.acunn.com
 127.0.0.1 stats.appsflyer.com
 127.0.0.1 stats.unity3d.com
 127.0.0.1 stats.videoseyredin.net
