@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    24 Jan 2017
+# Last update:    19 Feb 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -333,6 +333,7 @@
 127.0.0.1 installads2.com
 127.0.0.1 iosexy.com
 127.0.0.1 istatistik.milliyet.com.tr
+127.0.0.1 istatistik.skorer.tv
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 junbi-tracker.com
 127.0.0.1 jwpltx.com
@@ -570,6 +571,7 @@
 127.0.0.1 trackocean.com
 127.0.0.1 tradeadexchange.com
 127.0.0.1 traffic.libsyn.com
+127.0.0.1 trafficfactory.biz
 127.0.0.1 trbetmedia.com
 127.0.0.1 triggit.com
 127.0.0.1 truvacdn.com
