@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    19 Feb 2017
+# Last update:    01 Mar 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -426,6 +426,7 @@
 127.0.0.1 partnerad.l.google.com
 127.0.0.1 partnermatrix.com
 127.0.0.1 partnersapi.bilio.com
+127.0.0.1 paykasasitesi.com
 127.0.0.1 perabetads.com
 127.0.0.1 perf.mmstat.com
 127.0.0.1 perfectaudience.com
@@ -460,6 +461,8 @@
 127.0.0.1 rdrtr.com
 127.0.0.1 reali.st
 127.0.0.1 realist.gen.tr
+127.0.0.1 refbanners.website
+127.0.0.1 refpa.top
 127.0.0.1 regadsgx.com
 127.0.0.1 rek.mobi
 127.0.0.1 rek2.tascatlasa.com
