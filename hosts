@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    01 Mar 2017
+# Last update:    07 Mar 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -433,6 +433,7 @@
 127.0.0.1 permato.com
 127.0.0.1 petametrics.com
 127.0.0.1 phorm.com.tr
+127.0.0.1 piaads.com
 127.0.0.1 pingdom.net
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixenka.com
