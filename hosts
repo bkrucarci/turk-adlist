@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    12 Mar 2017
+# Last update:    17 Mar 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -264,6 +264,7 @@
 127.0.0.1 dmtracking2.alibaba.com
 127.0.0.1 doubleclick.net
 127.0.0.1 downads.com
+127.0.0.1 dskfv.de
 127.0.0.1 dtscout.com
 127.0.0.1 e.crashlytics.com
 127.0.0.1 effectivemeasure.net
@@ -427,6 +428,7 @@
 127.0.0.1 parse.ly
 127.0.0.1 parsely.com
 127.0.0.1 partner.googleadservices.com
+127.0.0.1 partner.superbahisaffiliates248.com
 127.0.0.1 partnerad.l.google.com
 127.0.0.1 partnermatrix.com
 127.0.0.1 partnersapi.bilio.com
@@ -435,6 +437,7 @@
 127.0.0.1 perf.mmstat.com
 127.0.0.1 perfectaudience.com
 127.0.0.1 permato.com
+127.0.0.1 permutive.com
 127.0.0.1 petametrics.com
 127.0.0.1 phorm.com.tr
 127.0.0.1 piaads.com
