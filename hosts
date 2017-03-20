@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    17 Mar 2017
+# Last update:    20 Mar 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -70,6 +70,7 @@
 127.0.0.1 adform.net
 127.0.0.1 adfox.ru
 127.0.0.1 adhood.com
+127.0.0.1 adimg.rekmob.com
 127.0.0.1 adlure.net
 127.0.0.1 admatic.com.tr
 127.0.0.1 admax.com.tr
@@ -256,6 +257,7 @@
 127.0.0.1 d.applovin.com
 127.0.0.1 d.haberler.com
 127.0.0.1 d.turn.com
+127.0.0.1 d3alqb8vzo7fun.cloudfront.net
 127.0.0.1 da-ads.com
 127.0.0.1 demdex.net
 127.0.0.1 device-metrics-us-2.amazon.com
