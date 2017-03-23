@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    22 Mar 2017
+# Last update:    23 Mar 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -61,6 +61,7 @@
 127.0.0.1 adasist.com
 127.0.0.1 adbers.com
 127.0.0.1 adbetnet.advertserve.com
+127.0.0.1 adbreak.cdn.ubeei.com
 127.0.0.1 adbreak.ubeei.com
 127.0.0.1 adbuzz.com.tr
 127.0.0.1 adcash.com
@@ -120,6 +121,7 @@
 127.0.0.1 ads.sabah.com.tr
 127.0.0.1 ads.sharepi.com
 127.0.0.1 ads.skorfikstur.com
+127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.videonap.com
 127.0.0.1 ads.webme.com
 127.0.0.1 ads.wordego.com
@@ -136,6 +138,7 @@
 127.0.0.1 adscale.de
 127.0.0.1 adserver.adklik.com.tr
 127.0.0.1 adserver.advrstcdn.com
+127.0.0.1 adserver.snapads.com
 127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adserver1.adtech.com.tr
 127.0.0.1 adshare3.freedocast.com
@@ -357,6 +360,7 @@
 127.0.0.1 liveadexchanger.com
 127.0.0.1 liverail.com
 127.0.0.1 load.sumome.com
+127.0.0.1 logger-03.vty.dailymotion.com
 127.0.0.1 logo.webservis.gen.tr
 127.0.0.1 m6r.eu
 127.0.0.1 mads.com
@@ -436,6 +440,7 @@
 127.0.0.1 partners.betbooaffiliates.com
 127.0.0.1 partnersapi.bilio.com
 127.0.0.1 paykasasitesi.com
+127.0.0.1 pebed.dm.gg
 127.0.0.1 perabetads.com
 127.0.0.1 perf.mmstat.com
 127.0.0.1 perfectaudience.com
@@ -529,6 +534,7 @@
 127.0.0.1 sayac.hurriyet.com.tr
 127.0.0.1 sayac.onlinewebstat.com
 127.0.0.1 sayyac.net
+127.0.0.1 sc-analytics.appshot.com
 127.0.0.1 scarabresearch.com
 127.0.0.1 scorecardresearch.com
 127.0.0.1 sdk.adincube.com
