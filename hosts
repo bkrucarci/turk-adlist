@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    23 Mar 2017
+# Last update:    24 Mar 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -360,7 +360,15 @@
 127.0.0.1 liveadexchanger.com
 127.0.0.1 liverail.com
 127.0.0.1 load.sumome.com
+127.0.0.1 logger-01.vty.dailymotion.com
+127.0.0.1 logger-02.vty.dailymotion.com
 127.0.0.1 logger-03.vty.dailymotion.com
+127.0.0.1 logger-04.vty.dailymotion.com
+127.0.0.1 logger-05.vty.dailymotion.com
+127.0.0.1 logger-06.vty.dailymotion.com
+127.0.0.1 logger-07.vty.dailymotion.com
+127.0.0.1 logger-08.vty.dailymotion.com
+127.0.0.1 logger-09.vty.dailymotion.com
 127.0.0.1 logo.webservis.gen.tr
 127.0.0.1 m6r.eu
 127.0.0.1 mads.com
