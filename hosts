@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    29 Mar 2017
+# Last update:    31 Mar 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -51,6 +51,7 @@
 127.0.0.1 ad.ntvmsnbc.com
 127.0.0.1 ad.reklam.xyz
 127.0.0.1 ad.reklamport.com
+127.0.0.1 ad.reyazilim.com
 127.0.0.1 ad.sacitaslan.com
 127.0.0.1 ad.webservis.gen.tr
 127.0.0.1 ad.wslinx.com
@@ -338,6 +339,7 @@
 127.0.0.1 indirads.work
 127.0.0.1 indirdirek.org
 127.0.0.1 indisancal.com
+127.0.0.1 inegolreklam.net
 127.0.0.1 infolinks.com
 127.0.0.1 init.supersonicads.com
 127.0.0.1 inrool.com
@@ -628,6 +630,7 @@
 127.0.0.1 webspectator.com
 127.0.0.1 webtemsilcisi.com
 127.0.0.1 webtrekk.net
+127.0.0.1 webview.unityads.unity3d.com
 127.0.0.1 widengle.com
 127.0.0.1 widget.boomads.com
 127.0.0.1 winaffiliates.com
