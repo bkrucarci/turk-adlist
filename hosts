@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    31 Mar 2017
+# Last update:    01 Apr 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -46,6 +46,7 @@
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.eglenced.com
 127.0.0.1 ad.emlakeki.com
+127.0.0.1 ad.gt
 127.0.0.1 ad.logro.com.tr
 127.0.0.1 ad.mygamesol.com
 127.0.0.1 ad.ntvmsnbc.com
@@ -351,6 +352,7 @@
 127.0.0.1 istatistik.milliyet.com.tr
 127.0.0.1 istatistik.skorer.tv
 127.0.0.1 js-agent.newrelic.com
+127.0.0.1 juicyads.com
 127.0.0.1 junbi-tracker.com
 127.0.0.1 jwpltx.com
 127.0.0.1 kiosked.com
