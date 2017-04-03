@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    01 Apr 2017
+# Last update:    04 Apr 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -189,6 +189,7 @@
 127.0.0.1 ams-ads-cornerstone-creatives.s3.amazonaws.com
 127.0.0.1 amung.us
 127.0.0.1 analytic.piri.net
+127.0.0.1 analytics.edgekey.net
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.live.com
 127.0.0.1 analytics.mobile.walmart.com
@@ -251,6 +252,7 @@
 127.0.0.1 cmt.setrowid.com
 127.0.0.1 cntadvertising.com
 127.0.0.1 codeonclick.com
+127.0.0.1 collector.puhutv.com
 127.0.0.1 connextra.com
 127.0.0.1 contextweb.com
 127.0.0.1 coremetrics.com
