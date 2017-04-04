@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    04 Apr 2017
+# Last update:    05 Apr 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -70,12 +70,15 @@
 127.0.0.1 adcash.com
 127.0.0.1 adcater.com
 127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 adcy.net
 127.0.0.1 add.f5haber.com
 127.0.0.1 adform.net
 127.0.0.1 adformdsp.net
 127.0.0.1 adfox.ru
 127.0.0.1 adhood.com
+127.0.0.1 adhunter.media
 127.0.0.1 adimg.rekmob.com
+127.0.0.1 adkernel.com
 127.0.0.1 adlure.net
 127.0.0.1 admatic.com.tr
 127.0.0.1 admax.com.tr
@@ -106,6 +109,7 @@
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads.ak.facebook.com.edgesuite.net
 127.0.0.1 ads.bluelithium.com
+127.0.0.1 ads.converge-digital.com
 127.0.0.1 ads.creative-serving.com
 127.0.0.1 ads.dt.mydas.mobi
 127.0.0.1 ads.eu.msn.com
@@ -236,6 +240,7 @@
 127.0.0.1 cdn-highwinds.unityads.unity3d.com
 127.0.0.1 cdn.hiperadverts.com
 127.0.0.1 cdn.html5maker.com
+127.0.0.1 cdn.klasseo.com
 127.0.0.1 cdn.marjmedya.com
 127.0.0.1 cdn.popcash.net
 127.0.0.1 cdn.smartclick.io
@@ -621,6 +626,7 @@
 127.0.0.1 ua.supersonicads.com
 127.0.0.1 udm.scorecardresearch.com
 127.0.0.1 ulife17yeter.com
+127.0.0.1 usabilla.com
 127.0.0.1 uzmanreklam.com
 127.0.0.1 uzreklam.com
 127.0.0.1 vdaffiliates.com
