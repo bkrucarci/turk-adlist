@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    05 Apr 2017
+# Last update:    08 Apr 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -134,6 +134,7 @@
 127.0.0.1 ads.videonap.com
 127.0.0.1 ads.webme.com
 127.0.0.1 ads.wordego.com
+127.0.0.1 ads.yenimedya.com.tr
 127.0.0.1 ads.youtube.com
 127.0.0.1 ads.zamunda.net
 127.0.0.1 ads1-adnow.com
@@ -193,6 +194,7 @@
 127.0.0.1 ams-ads-cornerstone-creatives.s3.amazonaws.com
 127.0.0.1 amung.us
 127.0.0.1 analytic.piri.net
+127.0.0.1 analytics.cervellio.com
 127.0.0.1 analytics.edgekey.net
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.live.com
@@ -245,6 +247,7 @@
 127.0.0.1 cdn.popcash.net
 127.0.0.1 cdn.smartclick.io
 127.0.0.1 cdn.teads.tv
+127.0.0.1 cedexis.com
 127.0.0.1 chartbeat.com
 127.0.0.1 cinerreklam.com.tr
 127.0.0.1 citireklam.com
@@ -546,6 +549,7 @@
 127.0.0.1 rrx68giz-06777725bc636d43e50625eef1c38c822ba0ceea-mob.d.aa.online-metrix.net
 127.0.0.1 rrx68giz-474f4415ad616d50d5fca57649d097ad94f4f069-mob.d.aa.online-metrix.net
 127.0.0.1 rs.chip.com.tr
+127.0.0.1 rtb.adjux.com
 127.0.0.1 rubiconproject.com
 127.0.0.1 s.adklik.com.tr
 127.0.0.1 s.webtrends.com
