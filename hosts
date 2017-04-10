@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    08 Apr 2017
+# Last update:    10 Apr 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -42,6 +42,7 @@
 127.0.0.1 ad.atdmt.com
 127.0.0.1 ad.bestsportstream.com
 127.0.0.1 ad.bilgin.pro
+127.0.0.1 ad.doganburda.com
 127.0.0.1 ad.donanimhaber.com
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.eglenced.com
@@ -120,6 +121,7 @@
 127.0.0.1 ads.gercekgundem.com
 127.0.0.1 ads.google.com
 127.0.0.1 ads.ihaberadserver.com
+127.0.0.1 ads.linksrequest.com
 127.0.0.1 ads.mopub.com
 127.0.0.1 ads.mp.mydas.mobi
 127.0.0.1 ads.msn.com
@@ -146,9 +148,11 @@
 127.0.0.1 ads5.sabah.com.tr
 127.0.0.1 adsbetkoy.com
 127.0.0.1 adscale.de
+127.0.0.1 adserve.donanimhaber.com
 127.0.0.1 adserver.adklik.com.tr
 127.0.0.1 adserver.advrstcdn.com
 127.0.0.1 adserver.snapads.com
+127.0.0.1 adserver.tutkusunucu.com
 127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adserver1.adtech.com.tr
 127.0.0.1 adshare3.freedocast.com
@@ -259,6 +263,7 @@
 127.0.0.1 cmsbetconstruct.com
 127.0.0.1 cmt.setrowid.com
 127.0.0.1 cntadvertising.com
+127.0.0.1 code.createjs.com
 127.0.0.1 codeonclick.com
 127.0.0.1 collector.puhutv.com
 127.0.0.1 connextra.com
@@ -277,6 +282,7 @@
 127.0.0.1 d.applovin.com
 127.0.0.1 d.haberler.com
 127.0.0.1 d.turn.com
+127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d3alqb8vzo7fun.cloudfront.net
 127.0.0.1 da-ads.com
 127.0.0.1 demdex.net
@@ -289,6 +295,7 @@
 127.0.0.1 dskfv.de
 127.0.0.1 dtscout.com
 127.0.0.1 e.crashlytics.com
+127.0.0.1 edgead.woomedya.com
 127.0.0.1 effectivemeasure.net
 127.0.0.1 engageya.com
 127.0.0.1 ensighten.com
@@ -359,6 +366,7 @@
 127.0.0.1 installads.net
 127.0.0.1 installads2.com
 127.0.0.1 iosexy.com
+127.0.0.1 ip-api.com
 127.0.0.1 istatistik.milliyet.com.tr
 127.0.0.1 istatistik.skorer.tv
 127.0.0.1 js-agent.newrelic.com
@@ -565,6 +573,7 @@
 127.0.0.1 sc-analytics.appshot.com
 127.0.0.1 scarabresearch.com
 127.0.0.1 scorecardresearch.com
+127.0.0.1 scripts.sophus3.com
 127.0.0.1 sdk.adincube.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 segmentify.com
