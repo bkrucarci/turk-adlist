@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    10 Apr 2017
+# Last update:    14 Apr 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -121,6 +121,7 @@
 127.0.0.1 ads.gercekgundem.com
 127.0.0.1 ads.google.com
 127.0.0.1 ads.ihaberadserver.com
+127.0.0.1 ads.ilbetaff.com
 127.0.0.1 ads.linksrequest.com
 127.0.0.1 ads.mopub.com
 127.0.0.1 ads.mp.mydas.mobi
@@ -481,6 +482,7 @@
 127.0.0.1 perfectaudience.com
 127.0.0.1 permato.com
 127.0.0.1 permutive.com
+127.0.0.1 perr.h-cdn.com
 127.0.0.1 petametrics.com
 127.0.0.1 phorm.com.tr
 127.0.0.1 piaads.com
@@ -566,6 +568,7 @@
 127.0.0.1 sail-horizon.com
 127.0.0.1 savoy.cubecdn.net
 127.0.0.1 savoy.storage.cubecdn.net
+127.0.0.1 savoybettingcustomer.com
 127.0.0.1 say.ac
 127.0.0.1 sayac.hurriyet.com.tr
 127.0.0.1 sayac.onlinewebstat.com
