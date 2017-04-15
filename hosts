@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    14 Apr 2017
+# Last update:    16 Apr 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -26,6 +26,7 @@
 127.0.0.1 2o7.net
 127.0.0.1 3444.deeplink.mobileapptracking.com
 127.0.0.1 3444.engine.mobileapptracking.com
+127.0.0.1 82o9v830.com
 127.0.0.1 8digits.com
 127.0.0.1 a.ads1.msads.net
 127.0.0.1 a.ads1.msn.com
@@ -55,6 +56,7 @@
 127.0.0.1 ad.reklamport.com
 127.0.0.1 ad.reyazilim.com
 127.0.0.1 ad.sacitaslan.com
+127.0.0.1 ad.setrowid.com
 127.0.0.1 ad.webservis.gen.tr
 127.0.0.1 ad.wslinx.com
 127.0.0.1 ad.yemeksepeti.com
@@ -179,6 +181,7 @@
 127.0.0.1 adworld.com.tr
 127.0.0.1 adworldmedia.com
 127.0.0.1 adx.ligadx.com
+127.0.0.1 adxpremium.com
 127.0.0.1 adzerk.net
 127.0.0.1 aff.indirdik.com
 127.0.0.1 aff.tamvakti.com
@@ -227,6 +230,7 @@
 127.0.0.1 banners.tempobet.com
 127.0.0.1 bbelements.com
 127.0.0.1 bcvc.mobi
+127.0.0.1 beacon.securestudies.com
 127.0.0.1 beelert.com
 127.0.0.1 betburdaaffiliates.com
 127.0.0.1 betendads.com
@@ -315,9 +319,11 @@
 127.0.0.1 flix360.com
 127.0.0.1 flixcar.com
 127.0.0.1 flixfacts.com
+127.0.0.1 freegeoip.net
 127.0.0.1 fsuseaad1.blob.core.windows.net
 127.0.0.1 fvbaffiliate.com
 127.0.0.1 gemius.pl
+127.0.0.1 geolocation.performgroup.com
 127.0.0.1 getshar.es
 127.0.0.1 gez.io
 127.0.0.1 gigya.com
@@ -494,6 +500,7 @@
 127.0.0.1 popads.net
 127.0.0.1 popmarker.com
 127.0.0.1 portalciyiz.biz
+127.0.0.1 postaffiliatepro.com
 127.0.0.1 pradma.com
 127.0.0.1 pre.footprintpredict.com
 127.0.0.1 prfct.co
@@ -612,6 +619,7 @@
 127.0.0.1 supert.ag
 127.0.0.1 sw1block.com
 127.0.0.1 swbdds.com
+127.0.0.1 t1.clipkit.com
 127.0.0.1 tagon.co
 127.0.0.1 tanidigital.com
 127.0.0.1 tapfiliate.com
@@ -652,6 +660,7 @@
 127.0.0.1 visilabs.com
 127.0.0.1 visilabs.net
 127.0.0.1 visit.hepsiburada.com
+127.0.0.1 webanalyzer.bussion.com
 127.0.0.1 webservis.gen.tr
 127.0.0.1 webspectator.com
 127.0.0.1 webtemsilcisi.com
