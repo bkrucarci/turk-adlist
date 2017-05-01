@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    26 Apr 2017
+# Last update:    01 May 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -280,6 +280,7 @@
 127.0.0.1 connextra.com
 127.0.0.1 contextweb.com
 127.0.0.1 coremetrics.com
+127.0.0.1 cp.pushwoosh.com
 127.0.0.1 cpatrendreklam.com
 127.0.0.1 crazyegg.com
 127.0.0.1 creativecdn.com
@@ -298,6 +299,7 @@
 127.0.0.1 d3alqb8vzo7fun.cloudfront.net
 127.0.0.1 da-ads.com
 127.0.0.1 demdex.net
+127.0.0.1 dev.appboy.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 dimml.io
 127.0.0.1 directrev.com
@@ -437,6 +439,7 @@
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-crash.newrelic.com
 127.0.0.1 mobile.logs.roku.com
+127.0.0.1 mobile.smartadserver.com
 127.0.0.1 mobilpop.com
 127.0.0.1 mobilup.com
 127.0.0.1 mobilure.com
@@ -567,6 +570,7 @@
 127.0.0.1 reklamtrk.com
 127.0.0.1 reklamz.com
 127.0.0.1 rekmob.com
+127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 reviveservers.com
 127.0.0.1 revotas.com
@@ -628,6 +632,7 @@
 127.0.0.1 supert.ag
 127.0.0.1 sw1block.com
 127.0.0.1 swbdds.com
+127.0.0.1 t.appsflyer.com
 127.0.0.1 t1.clipkit.com
 127.0.0.1 tagon.co
 127.0.0.1 tanidigital.com
