@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    05 Jun 2017
+# Last update:    10 Jun 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -137,6 +137,7 @@
 127.0.0.1 ads.sharepi.com
 127.0.0.1 ads.skorfikstur.com
 127.0.0.1 ads.stickyadstv.com
+127.0.0.1 ads.usa-media.net
 127.0.0.1 ads.videonap.com
 127.0.0.1 ads.webme.com
 127.0.0.1 ads.wordego.com
@@ -384,6 +385,7 @@
 127.0.0.1 installads2.com
 127.0.0.1 iosexy.com
 127.0.0.1 ip-api.com
+127.0.0.1 istatistik.gazetevatan.com
 127.0.0.1 istatistik.milliyet.com.tr
 127.0.0.1 istatistik.skorer.tv
 127.0.0.1 js-agent.newrelic.com
@@ -536,6 +538,7 @@
 127.0.0.1 refbanners.website
 127.0.0.1 refpa.top
 127.0.0.1 regadsgx.com
+127.0.0.1 rek.hepaffiliates.com
 127.0.0.1 rek.mobi
 127.0.0.1 rek2.tascatlasa.com
 127.0.0.1 reklam.arabul.com
@@ -647,6 +650,7 @@
 127.0.0.1 track.vitringez.com
 127.0.0.1 tracker-pm2.erosaffiliates.com
 127.0.0.1 tracking-rce.veeseo.com
+127.0.0.1 tracking.content-recommendation.net
 127.0.0.1 tracking.rce.veeseo.com
 127.0.0.1 tracking.redirect.pub
 127.0.0.1 tracking.rodimobi.com
@@ -684,6 +688,7 @@
 127.0.0.1 widengle.com
 127.0.0.1 widget.boomads.com
 127.0.0.1 winaffiliates.com
+127.0.0.1 wlgtaffiliates.eacdn.com
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 ww3.smartadserver.com
 127.0.0.1 www.google-analytics.com
