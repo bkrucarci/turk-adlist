@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    10 Jun 2017
+# Last update:    18 Jun 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -360,6 +360,7 @@
 127.0.0.1 hit.mynet.com
 127.0.0.1 hitgelsin.com
 127.0.0.1 hits.acunn.com
+127.0.0.1 hits.tv8.com.tr
 127.0.0.1 hizlipop.com
 127.0.0.1 hizlireklam.com
 127.0.0.1 hotjar.com
@@ -621,6 +622,7 @@
 127.0.0.1 static.everyplay.com
 127.0.0.1 stats.acunn.com
 127.0.0.1 stats.appsflyer.com
+127.0.0.1 stats.tv8.com.tr
 127.0.0.1 stats.unity3d.com
 127.0.0.1 stats.videoseyredin.net
 127.0.0.1 stats.wp.com
