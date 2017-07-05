@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    18 Jun 2017
+# Last update:    05 July 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -348,6 +348,7 @@
 127.0.0.1 googlesyndication.com
 127.0.0.1 gorselcdn.com
 127.0.0.1 gorselpanel.com
+127.0.0.1 grand-ads.com
 127.0.0.1 gravityrd-services.com
 127.0.0.1 grimex.net
 127.0.0.1 h.online-metrix.net
