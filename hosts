@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    05 July 2017
+# Last update:    14 July 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -66,6 +66,7 @@
 127.0.0.1 adadvisor.net
 127.0.0.1 adasist.com
 127.0.0.1 adbers.com
+127.0.0.1 adbetclickin.pink
 127.0.0.1 adbetnet.advertserve.com
 127.0.0.1 adbreak.cdn.ubeei.com
 127.0.0.1 adbreak.ubeei.com
@@ -126,6 +127,7 @@
 127.0.0.1 ads.ihaberadserver.com
 127.0.0.1 ads.ilbetaff.com
 127.0.0.1 ads.linksrequest.com
+127.0.0.1 ads.modabetaff.com
 127.0.0.1 ads.mopub.com
 127.0.0.1 ads.mp.mydas.mobi
 127.0.0.1 ads.msn.com
@@ -473,6 +475,7 @@
 127.0.0.1 onatbilisim.com
 127.0.0.1 onclasrv.com
 127.0.0.1 onclickads.net
+127.0.0.1 onedmp.com
 127.0.0.1 onlinewebstat.com
 127.0.0.1 onlinewebstats.com
 127.0.0.1 onroll.com
