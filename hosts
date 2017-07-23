@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    14 July 2017
+# Last update:    23 July 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -652,6 +652,7 @@
 127.0.0.1 tm.zedo.com
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 top10.yazete.com
+127.0.0.1 toroadvertisingmedia.com
 127.0.0.1 tr.hit.gemius.pl
 127.0.0.1 track.vitringez.com
 127.0.0.1 tracker-pm2.erosaffiliates.com
