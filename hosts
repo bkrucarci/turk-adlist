@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    23 July 2017
+# Last update:    24 July 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -37,6 +37,7 @@
 127.0.0.1 ac3.msn.com
 127.0.0.1 acc-hd.de
 127.0.0.1 action.adzcore.com
+127.0.0.1 ad-cdn.bilgin.pro
 127.0.0.1 ad.afftrck.com
 127.0.0.1 ad.antventure.com
 127.0.0.1 ad.arklm.com
@@ -138,6 +139,7 @@
 127.0.0.1 ads.sabah.com.tr
 127.0.0.1 ads.sharepi.com
 127.0.0.1 ads.skorfikstur.com
+127.0.0.1 ads.sondakika.com
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.usa-media.net
 127.0.0.1 ads.videonap.com
@@ -258,6 +260,7 @@
 127.0.0.1 buzzreklam.com
 127.0.0.1 casalemedia.com
 127.0.0.1 cdn-highwinds.unityads.unity3d.com
+127.0.0.1 cdn.elasticad.net
 127.0.0.1 cdn.hiperadverts.com
 127.0.0.1 cdn.html5maker.com
 127.0.0.1 cdn.klasseo.com
@@ -641,6 +644,7 @@
 127.0.0.1 supert.ag
 127.0.0.1 sw1block.com
 127.0.0.1 swbdds.com
+127.0.0.1 sync.adaptv.advertising.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 t1.clipkit.com
 127.0.0.1 tagon.co
