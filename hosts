@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    31 July 2017
+# Last update:    09 Aug 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -38,6 +38,7 @@
 127.0.0.1 acc-hd.de
 127.0.0.1 action.adzcore.com
 127.0.0.1 ad-cdn.bilgin.pro
+127.0.0.1 ad.360yield.com
 127.0.0.1 ad.afftrck.com
 127.0.0.1 ad.antventure.com
 127.0.0.1 ad.arklm.com
@@ -127,6 +128,7 @@
 127.0.0.1 ads.google.com
 127.0.0.1 ads.ihaberadserver.com
 127.0.0.1 ads.ilbetaff.com
+127.0.0.1 ads.kiosked.com
 127.0.0.1 ads.linksrequest.com
 127.0.0.1 ads.modabetaff.com
 127.0.0.1 ads.mopub.com
