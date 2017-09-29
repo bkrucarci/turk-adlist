@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    14 Sep 2017
+# Last update:    30 Sep 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -78,6 +78,7 @@
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 adcy.net
 127.0.0.1 add.f5haber.com
+127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adform.net
 127.0.0.1 adformdsp.net
 127.0.0.1 adfox.ru
@@ -111,6 +112,7 @@
 127.0.0.1 adrecover.com
 127.0.0.1 adroll.com
 127.0.0.1 adrttt.com
+127.0.0.1 ads-fa.spotify.com
 127.0.0.1 ads-hl.noktamedya.com.tr
 127.0.0.1 ads-rouge.haber7.com
 127.0.0.1 ads-twitter.com
@@ -221,6 +223,7 @@
 127.0.0.1 analytics.mopub.com
 127.0.0.1 analytics.olay.com.tr
 127.0.0.1 analytics.query.yahoo.com
+127.0.0.1 analytics.spotify.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 api.adintext.net
@@ -230,10 +233,12 @@
 127.0.0.1 artemisaffiliates.com
 127.0.0.1 assoc-amazon.com
 127.0.0.1 atemda.com
+127.0.0.1 audio2.spotify.com
 127.0.0.1 axbet20.com
 127.0.0.1 axbetb.com
 127.0.0.1 axbetb2.com
 127.0.0.1 b.cdn.md
+127.0.0.1 b.scorecardresearch.com
 127.0.0.1 b6roqgi.com
 127.0.0.1 bahisciler.co
 127.0.0.1 bam.nr-data.net
@@ -287,10 +292,13 @@
 127.0.0.1 codeonclick.com
 127.0.0.1 collector.puhutv.com
 127.0.0.1 connextra.com
+127.0.0.1 content.bitsontherun.com
 127.0.0.1 contextweb.com
+127.0.0.1 core.insightexpressai.com
 127.0.0.1 coremetrics.com
 127.0.0.1 cp.pushwoosh.com
 127.0.0.1 cpatrendreklam.com
+127.0.0.1 crashdump.spotify.com
 127.0.0.1 crazyegg.com
 127.0.0.1 creativecdn.com
 127.0.0.1 criteo.com
@@ -304,10 +312,13 @@
 127.0.0.1 d.haberler.com
 127.0.0.1 d.turn.com
 127.0.0.1 d1d8vn0fpluuz7.cloudfront.net
+127.0.0.1 d2gi7ultltnc2u.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d3alqb8vzo7fun.cloudfront.net
+127.0.0.1 d3rt1990lpmkn.cloudfront.net
 127.0.0.1 da-ads.com
 127.0.0.1 demdex.net
+127.0.0.1 desktop.spotify.com
 127.0.0.1 dev.appboy.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 dimml.io
@@ -315,6 +326,7 @@
 127.0.0.1 dmtracking2.alibaba.com
 127.0.0.1 doubleclick.net
 127.0.0.1 downads.com
+127.0.0.1 ds.serving-sys.com
 127.0.0.1 dskfv.de
 127.0.0.1 dtscout.com
 127.0.0.1 e.crashlytics.com
@@ -360,6 +372,7 @@
 127.0.0.1 grand-ads.com
 127.0.0.1 gravityrd-services.com
 127.0.0.1 grimex.net
+127.0.0.1 gtssl2-ocsp.geotrust.com
 127.0.0.1 h.online-metrix.net
 127.0.0.1 happilyswitching.net
 127.0.0.1 hepsiburada01.webtrekk.net
@@ -400,6 +413,7 @@
 127.0.0.1 istatistik.milliyet.com.tr
 127.0.0.1 istatistik.skorer.tv
 127.0.0.1 js-agent.newrelic.com
+127.0.0.1 js.moatads.com
 127.0.0.1 juicyads.com
 127.0.0.1 junbi-tracker.com
 127.0.0.1 jwpltx.com
@@ -417,6 +431,7 @@
 127.0.0.1 liveadexchanger.com
 127.0.0.1 liverail.com
 127.0.0.1 load.sumome.com
+127.0.0.1 log.spotify.com
 127.0.0.1 logger-01.vty.dailymotion.com
 127.0.0.1 logger-02.vty.dailymotion.com
 127.0.0.1 logger-03.vty.dailymotion.com
@@ -436,6 +451,7 @@
 127.0.0.1 marketing.modalife.com
 127.0.0.1 marketo.net
 127.0.0.1 med4ad.com
+127.0.0.1 media-match.com
 127.0.0.1 media.fastclick.net
 127.0.0.1 media.marsaffiliates.com
 127.0.0.1 mediaplex.com
@@ -477,6 +493,7 @@
 127.0.0.1 oclaserver.com
 127.0.0.1 oclasrv.com
 127.0.0.1 oix.net
+127.0.0.1 omaze.com
 127.0.0.1 oms.eu
 127.0.0.1 omtrdc.net
 127.0.0.1 onatbilisim.com
@@ -489,6 +506,7 @@
 127.0.0.1 onscroll.com
 127.0.0.1 ontek-serv.com
 127.0.0.1 onthe.io
+127.0.0.1 open.spotify.com
 127.0.0.1 openx.net
 127.0.0.1 optimizely.com
 127.0.0.1 oringmedia.com
@@ -499,6 +517,7 @@
 127.0.0.1 p.milliyet.com.tr
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 parse.ly
 127.0.0.1 parsely.com
 127.0.0.1 partner.googleadservices.com
@@ -547,6 +566,7 @@
 127.0.0.1 rdrtr.com
 127.0.0.1 reali.st
 127.0.0.1 realist.gen.tr
+127.0.0.1 redirector.gvt1.com
 127.0.0.1 refbanners.website
 127.0.0.1 refpa.top
 127.0.0.1 regadsgx.com
@@ -600,6 +620,7 @@
 127.0.0.1 rubiconproject.com
 127.0.0.1 s.adklik.com.tr
 127.0.0.1 s.webtrends.com
+127.0.0.1 s0.2mdn.net
 127.0.0.1 s3.adbers.com
 127.0.0.1 sadecereklam.net
 127.0.0.1 sail-horizon.com
@@ -629,6 +650,7 @@
 127.0.0.1 sohbetpaneli.xyz
 127.0.0.1 soma.smaato.net
 127.0.0.1 sonobi.com
+127.0.0.1 spclient.wg.spotify.com
 127.0.0.1 spoods.rce.veeseo.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 statcounter.com
@@ -663,6 +685,7 @@
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 top10.yazete.com
 127.0.0.1 toroadvertisingmedia.com
+127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 tr.hit.gemius.pl
 127.0.0.1 track.vitringez.com
 127.0.0.1 tracker-pm2.erosaffiliates.com
@@ -689,14 +712,17 @@
 127.0.0.1 usabilla.com
 127.0.0.1 uzmanreklam.com
 127.0.0.1 uzreklam.com
+127.0.0.1 v.jwpcdn.com
 127.0.0.1 vdaffiliates.com
 127.0.0.1 veeseo.com
+127.0.0.1 video-ad-stats.googlesyndication.com
 127.0.0.1 videoustu.com
 127.0.0.1 virgul.com
 127.0.0.1 visilabs.com
 127.0.0.1 visilabs.net
 127.0.0.1 visit.hepsiburada.com
 127.0.0.1 webanalyzer.bussion.com
+127.0.0.1 weblb-wg.gslb.spotify.com
 127.0.0.1 webservis.gen.tr
 127.0.0.1 webspectator.com
 127.0.0.1 webtemsilcisi.com
@@ -710,7 +736,7 @@
 127.0.0.1 ww3.smartadserver.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
-127.0.0.1 www.youtube-nocookie.com
+127.0.0.1 www.omaze.com
 127.0.0.1 x.ligatus.com
 127.0.0.1 xyztanitim.com
 127.0.0.1 ycreklam.com
