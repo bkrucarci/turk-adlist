@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    30 Sep 2017
+# Last update:    04 Oct 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -743,3 +743,46 @@
 127.0.0.1 yenimedya.com.tr
 127.0.0.1 youtube.2cnt.net
 127.0.0.1 yx-ads6.com
+#
+# --- [ Following rules added to prevent adware intallation modules ] --- #
+#
+127.0.0.1 api.opencandy.com
+127.0.0.1 api.recommendedsw.com
+127.0.0.1 cdn.appround.biz
+127.0.0.1 cdn.bigspeedpro.com
+127.0.0.1 cdn.bispd.com
+127.0.0.1 cdn.bisrv.com
+127.0.0.1 cdn.cdndp.com
+127.0.0.1 cdn.download.sweetpacks.com
+127.0.0.1 cdn.dpdownload.com
+127.0.0.1 cdn.file2desktop.com
+127.0.0.1 cdn.goateastcach.us
+127.0.0.1 cdn.guttastatdk.us
+127.0.0.1 cdn.inskinmedia.com
+127.0.0.1 cdn.insta.oibundles2.com
+127.0.0.1 cdn.insta.playbryte.com
+127.0.0.1 cdn.llogetfastcach.us
+127.0.0.1 cdn.montiera.com
+127.0.0.1 cdn.msdwnld.com
+127.0.0.1 cdn.mypcbackup.com
+127.0.0.1 cdn.opencandy.com
+127.0.0.1 cdn.ppdownload.com
+127.0.0.1 cdn.riceateastcach.us
+127.0.0.1 cdn.shyapotato.us
+127.0.0.1 cdn.solimba.com
+127.0.0.1 cdn.tuto4pc.com
+127.0.0.1 cdn.visualbee.net
+127.0.0.1 d3oxtn1x3b8d7i.cloudfront.net
+127.0.0.1 inno.bisrv.com
+127.0.0.1 installer.betterinstaller.com
+127.0.0.1 installer.filebulldog.com
+127.0.0.1 media.opencandy.com
+127.0.0.1 nsis.bisrv.com
+127.0.0.1 os.yefeneri2.com
+127.0.0.1 os2.yefeneri2.com
+127.0.0.1 rp.yefeneri2.com
+127.0.0.1 tracking.opencandy.com
+127.0.0.1 tracking.opencandy.com.s3.amazonaws.com
+#
+# --- [ END ] --- #
+#
