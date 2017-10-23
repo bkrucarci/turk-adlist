@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    04 Oct 2017
+# Last update:    23 Oct 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -55,6 +55,7 @@
 127.0.0.1 ad.mygamesol.com
 127.0.0.1 ad.ntvmsnbc.com
 127.0.0.1 ad.reklam.xyz
+127.0.0.1 ad.reklamnative.com
 127.0.0.1 ad.reklamport.com
 127.0.0.1 ad.reyazilim.com
 127.0.0.1 ad.sacitaslan.com
@@ -254,6 +255,7 @@
 127.0.0.1 betburdaaffiliates.com
 127.0.0.1 betendads.com
 127.0.0.1 betzeplinreklam.com
+127.0.0.1 bilgibahis.com
 127.0.0.1 bizographics.com
 127.0.0.1 bkrtx.com
 127.0.0.1 block.s2block.com
@@ -350,6 +352,7 @@
 127.0.0.1 flix360.com
 127.0.0.1 flixcar.com
 127.0.0.1 flixfacts.com
+127.0.0.1 foxpush.com
 127.0.0.1 freegeoip.net
 127.0.0.1 fsuseaad1.blob.core.windows.net
 127.0.0.1 fvbaffiliate.com
@@ -417,6 +420,7 @@
 127.0.0.1 juicyads.com
 127.0.0.1 junbi-tracker.com
 127.0.0.1 jwpltx.com
+127.0.0.1 kalitereklam.com
 127.0.0.1 kiosked.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 krxd.net
