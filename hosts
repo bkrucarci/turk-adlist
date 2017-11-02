@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    30 Oct 2017
+# Last update:    02 Nov 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -77,6 +77,7 @@
 127.0.0.1 adcash.com
 127.0.0.1 adcater.com
 127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 adclicks.io
 127.0.0.1 adcy.net
 127.0.0.1 add.f5haber.com
 127.0.0.1 adeventtracker.spotify.com
@@ -451,6 +452,7 @@
 127.0.0.1 madserv.net
 127.0.0.1 madsone.com
 127.0.0.1 makroads.net
+127.0.0.1 mamydirect.com
 127.0.0.1 marinsm.com
 127.0.0.1 marketing.modalife.com
 127.0.0.1 marketo.net
@@ -618,6 +620,7 @@
 127.0.0.1 rekmob.com
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 reports.crashlytics.com
+127.0.0.1 res.cloudinary.com
 127.0.0.1 reviveservers.com
 127.0.0.1 revotas.com
 127.0.0.1 revsci.net
