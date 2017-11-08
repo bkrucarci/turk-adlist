@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    05 Nov 2017
+# Last update:    08 Nov 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -271,6 +271,7 @@
 127.0.0.1 bumerang.hurriyet.com.tr
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
 127.0.0.1 buzzreklam.com
+127.0.0.1 c.gazetevatan.com
 127.0.0.1 casalemedia.com
 127.0.0.1 cdn-highwinds.unityads.unity3d.com
 127.0.0.1 cdn.elasticad.net
