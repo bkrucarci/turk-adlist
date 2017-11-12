@@ -16,11 +16,11 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda reklam engelleyici kullanarak etkin bir şekilde element filtrelemesi de yapabilirsiniz. 
 
   Önerdiğim engelleyici uBlock Origin eklentisidir. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) ve [Opera](https://addons.opera.com/extensions/details/ublock/) tarayıcılarınıza ekleyerek kullanabilirsiniz.
-
+  
   Eklentiyi kurduktan sonra uBlock Origin ayarlarından "3. taraf süzgeçler > Özel" konumuna https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts adresini yapıştırın ve "Değişiklikleri Uygula" diyerek ayarları kapatın.
-
-Artık tarayıcınızda reklamsız gezinebilirsiniz.
-
+  
+  Sistem çapında reklam engellemek ve gizliliğinizi artırmak için, birçok faydalı özelliği barındıran ["Windows için AdGuard"](https://github.com/AdguardTeam/AdguardForWindows/releases) programını öneririm. Tüm tarayıcılar ile çalışır, her tarayıcıya eklenti kurmanız gerekmez. Windows içinde kurulu programlarınızda da (ör. Spotify) reklam ve takipçileri engeller.
+  
 ### İşlem Adımları - ANDROİD (Cihaz 'ROOTSUZ' ise)
 Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu garanti kapsamı dışına çıkarabilir. Bu gibi durumda aşağıdaki adımlarla reklamları engelleyebilirsiniz.
 
