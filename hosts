@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    08 Nov 2017
+# Last update:    21 Nov 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -163,6 +163,7 @@
 127.0.0.1 ads3.fingersoft.net
 127.0.0.1 ads5.sabah.com.tr
 127.0.0.1 adsbetkoy.com
+127.0.0.1 adsblok.com
 127.0.0.1 adscale.de
 127.0.0.1 adserve.donanimhaber.com
 127.0.0.1 adserver.adklik.com.tr
@@ -171,6 +172,7 @@
 127.0.0.1 adserver.tutkusunucu.com
 127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adserver1.adtech.com.tr
+127.0.0.1 adservice.google.com
 127.0.0.1 adshare3.freedocast.com
 127.0.0.1 adsim.sabah.com.tr
 127.0.0.1 adslidango.com
@@ -673,6 +675,7 @@
 127.0.0.1 static.everyplay.com
 127.0.0.1 stats.acunn.com
 127.0.0.1 stats.appsflyer.com
+127.0.0.1 stats.posta.com.tr
 127.0.0.1 stats.tv8.com.tr
 127.0.0.1 stats.unity3d.com
 127.0.0.1 stats.videoseyredin.net
