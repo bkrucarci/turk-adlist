@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    21 Nov 2017
+# Last update:    06 Dec 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -298,6 +298,7 @@
 127.0.0.1 cntadvertising.com
 127.0.0.1 code.createjs.com
 127.0.0.1 codeonclick.com
+127.0.0.1 collect-test.arabam.com
 127.0.0.1 collector.puhutv.com
 127.0.0.1 connextra.com
 127.0.0.1 content.bitsontherun.com
@@ -364,6 +365,7 @@
 127.0.0.1 fvbaffiliate.com
 127.0.0.1 gemius.pl
 127.0.0.1 genelajans.com
+127.0.0.1 geoloc.hurriyet.com.tr
 127.0.0.1 geolocation.performgroup.com
 127.0.0.1 getshar.es
 127.0.0.1 gez.io
@@ -451,6 +453,7 @@
 127.0.0.1 logger-07.vty.dailymotion.com
 127.0.0.1 logger-08.vty.dailymotion.com
 127.0.0.1 logger-09.vty.dailymotion.com
+127.0.0.1 logger.virgul.com
 127.0.0.1 logo.webservis.gen.tr
 127.0.0.1 m6r.eu
 127.0.0.1 mads.com
@@ -736,7 +739,6 @@
 127.0.0.1 veeseo.com
 127.0.0.1 video-ad-stats.googlesyndication.com
 127.0.0.1 videoustu.com
-127.0.0.1 virgul.com
 127.0.0.1 visilabs.com
 127.0.0.1 visilabs.net
 127.0.0.1 visit.hepsiburada.com
