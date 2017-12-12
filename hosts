@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    06 Dec 2017
+# Last update:    12 Dec 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -84,6 +84,7 @@
 127.0.0.1 adform.net
 127.0.0.1 adformdsp.net
 127.0.0.1 adfox.ru
+127.0.0.1 adgain-publisher.com
 127.0.0.1 adhood.com
 127.0.0.1 adhunter.media
 127.0.0.1 adimage.media
