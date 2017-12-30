@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    12 Dec 2017
+# Last update:    30 Dec 2017
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -342,6 +342,7 @@
 127.0.0.1 e.crashlytics.com
 127.0.0.1 edgead.woomedya.com
 127.0.0.1 effectivemeasure.net
+127.0.0.1 emarketingsuite.net
 127.0.0.1 engageya.com
 127.0.0.1 ensighten.com
 127.0.0.1 eqads.com
@@ -744,6 +745,7 @@
 127.0.0.1 visilabs.net
 127.0.0.1 visit.hepsiburada.com
 127.0.0.1 webanalyzer.bussion.com
+127.0.0.1 webinstats.com
 127.0.0.1 weblb-wg.gslb.spotify.com
 127.0.0.1 webservis.gen.tr
 127.0.0.1 webspectator.com
