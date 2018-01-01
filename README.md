@@ -10,7 +10,7 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 
 ## Reklamları Nasıl Engelleyebilirim?
 
-### İşlem Adımları - WINDOWS
+### WINDOWS
 - https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresinden listenin tamamını kopyalayın.
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumuna ilerleyin ve hosts dosyasını bulun.
 - hosts dosyasını notepad ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
@@ -18,7 +18,7 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 
 NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda reklam engelleyici kullanarak etkin bir şekilde element filtrelemesi de yapabilirsiniz.
 
-### İşlem Adımları - İNTERNET TARAYICILARI
+### İNTERNET TARAYICILARI
 
 İnternet tarayıcıları için birçok reklam engelleme eklentisi mevcut. Bu aşamada benim filtremden daha güçlü olan ve Türkçe filtresi olan [AdGuard Reklam Engelleyici Eklentisini](https://adguard.com/tr/adguard-browser-extension/overview.html) kullanmanızı tavsiye ederim. Tüm popüler tarayıcılar ile uyumludur. (Chrome - Firefox - Opera - Yandex - Edge - Safari)
 
@@ -33,8 +33,20 @@ NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. S
   + Türkçe filtreyi etkinleştirin.
 Filtreleri güncelle butonuna basın ve güle güle kullanın.
 
-### İşlem Adımları - ANDROİD (Cihaz 'ROOTSUZ' ise)
-Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu garanti kapsamı dışına çıkarabilir. Bu gibi durumda aşağıdaki adımlarla reklamları engelleyebilirsiniz.
+# ANDROİD (İşin Android kısmında ücretli ve ücretsiz 2 Seçeneğiniz Var!)
+Ücretsiz yazılımlar genelde hosts seviyesinde reklam engelleyebilmekte ve çoğu zaman uygulamalarda reklamları engelleyememektedir!
+
+## Android için AdGuard (ÜCRETLİ)
+Android için AdGuard yazılımı bu konuda en iyisi denilebilir. Ücretli (Premium) sürümde birçok filtre kullanma imkanı size sunuyor ve daha gelişmiş bir reklam engelleme teknolojisi kullanıyor. Dediğim gibi bu uygulama ücretlidir ve Google reklam politikalarının işine gelmedeği için Google Play'den kaldırılmıştır. Bkz. [Android için AdGuard](https://adguard.com/tr/adguard-android/overview.html)
++ Kurulum ve kullanımı kolaydır, ROOT gerektirmez.
++ 14 gün ücretsiz tam sürümü deneyebilirsiniz,
++ Ayarlardan istediğiniz filtreleri (yukarıdaki filtrelerin aynılarını) etkinleştirebilirsiniz.
++ Filtreleme yöntemini "Yüksek Kaliteli" yapın.
++ HTTPS kullanan reklam ağlarını ve uygulamaları (Youtube reklamları gibi) engelleyebilir.
+
+### DNS66 (ÜCRETSİZ - Cihaz 'ROOTLU' değilse)
+
+Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu garanti kapsamı dışına çıkarabilir. Telefonunuz root edilmemiş ise aşağıdaki adımlarla reklamları engelleyebilirsiniz.
 
 - [DNS66](https://github.com/julian-klode/dns66/releases) uygulamasını (.apk uzantılı dosyayı) indirin.
 - Bilinmeyen kaynaklar uyarısına izin verin. Uygulamayı telefonunuza ve ya tabletinize kurun.
@@ -47,11 +59,13 @@ Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu gar
 - Start/Stop menüsüne geçin ve ekrana uzunca dokunun ve filtrelemeyi etkinleştirin.
 - Eğer bildirim alanında anahtar işareti görüyorsanız, filtrelerimiz etkindir. Reklamsız gezinebilirsiniz.
 
-### İşlem Adımları - ANDROİD (Cihaz 'ROOTLU' ise)
-Telefonunuzda kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
+### AdAway (ÜCRETSİZ - Cihaz 'ROOTLU' ise)
+
+Yukarıdaki DNS66 uygulamasını telefonunuz rootlu olsa bile kullanabilirsiniz. Ancak root erişim izniniz varsa telefonun kendi "hosts" dosyasını değiştirmek çok daha mantıklıdır çünkü batarya ve RAM tasarrufu sağlar.
+Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
 
 - AdAway uygulamasını [buradan](https://f-droid.org/repo/org.adaway_60.apk) indirin.
-- Uygulamayı telefonunuza ve ya tabletinize kurun.
+- Uygulamayı telefonunuza veya tabletinize kurun.
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
 - https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
