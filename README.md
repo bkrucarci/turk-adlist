@@ -37,7 +37,8 @@ Filtreleri güncelle butonuna basın ve güle güle kullanın.
 Ücretsiz yazılımlar genelde hosts seviyesinde reklam engelleyebilmekte ve çoğu zaman uygulamalarda reklamları engelleyememektedir!
 
 ## Android için AdGuard (ÜCRETLİ)
-Android için AdGuard yazılımı bu konuda en iyisi denilebilir. Ücretli (Premium) sürümde birçok filtre kullanma imkanı size sunuyor ve daha gelişmiş bir reklam engelleme teknolojisi kullanıyor. Dediğim gibi bu uygulama ücretlidir ve Google reklam politikalarının işine gelmedeği için Google Play'den kaldırılmıştır. Bkz. [Android için AdGuard](https://adguard.com/tr/adguard-android/overview.html)
+Android için AdGuard yazılımı bu konuda en iyisi denilebilir. Ücretli (Premium) sürümde birçok filtre kullanma imkanı size sunuyor ve daha gelişmiş bir reklam engelleme teknolojisi kullanıyor. Dediğim gibi bu uygulama ücretlidir ve [Google reklam politikalarının işine gelmedeği için Google Play'den kaldırılmıştır](https://blog.adguard.com/en/google-removes-adguard-android-app-google-play/).
++ [Android için AdGuard](https://adguard.com/tr/adguard-android/overview.html)
 + Kurulum ve kullanımı kolaydır, ROOT gerektirmez.
 + 14 gün ücretsiz tam sürümü deneyebilirsiniz,
 + Ayarlardan istediğiniz filtreleri (yukarıdaki filtrelerin aynılarını) etkinleştirebilirsiniz.
