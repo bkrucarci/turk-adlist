@@ -3,7 +3,10 @@ Açıklama:       Türkçe sitelerde reklamları engellemek için reklam sunucul
 Explanation:    Ad servers list to block ads on Turkish websites (for use with hosts files)
 
 ## Neden bu listeyi oluşturdum?
-Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve reklamverenleri engelleyen filtre olmadığı için bu filtreyi oluşturmak istedim. Tek başına bu liste tüm reklamları engelleyemez zaten öyle bir amacımız yok, yalnızca Türkçe içerikli sitelerdeki reklamları engellemek için kullanın. Tek başına hiçbir filtre ve ya host ile tüm reklamları engelleyemezsiniz. Uzun zamandır geliştirilen listelerle birlikte kullanıldığında daha etkin bir sonuç alabilirsiniz. Aşağıdaki başlıklarda nasıl kullanacağınızı öğrenebilirsiniz.
+
+![İnternet Kullanıcısını Bezdiren Sebepler](https://vgy.me/icMIZ6.jpg)
+
+Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve reklamverenleri engelleyen filtre olmadığı için bu filtreyi oluşturmak istedim. Tek başına bu liste tüm reklamları engelleyemez zaten öyle bir amacımız yok, yalnızca Türkçe içerikli sitelerdeki reklamları engellemek için kullanın. Tek başına hiçbir filtre veya host ile tüm reklamları engelleyemezsiniz. Uzun zamandır geliştirilen listelerle birlikte kullanıldığında daha etkin bir sonuç alabilirsiniz. Aşağıdaki başlıklarda nasıl kullanacağınızı öğrenebilirsiniz.
 
 ## Reklamları Nasıl Engelleyebilirim?
 
@@ -13,14 +16,23 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 - hosts dosyasını notepad ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
 
-NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda reklam engelleyici kullanarak etkin bir şekilde element filtrelemesi de yapabilirsiniz. 
+NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda reklam engelleyici kullanarak etkin bir şekilde element filtrelemesi de yapabilirsiniz.
 
-  Önerdiğim engelleyici uBlock Origin eklentisidir. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) ve [Opera](https://addons.opera.com/extensions/details/ublock/) tarayıcılarınıza ekleyerek kullanabilirsiniz.
-  
-  Eklentiyi kurduktan sonra uBlock Origin ayarlarından "3. taraf süzgeçler > Özel" konumuna https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresini yapıştırın ve "Değişiklikleri Uygula" diyerek ayarları kapatın.
-  
-  Sistem çapında reklam engellemek ve gizliliğinizi artırmak için, birçok faydalı özelliği barındıran ["Windows için AdGuard"](https://github.com/AdguardTeam/AdguardForWindows/releases) programını öneririm. Tüm tarayıcılar ile çalışır, her tarayıcıya eklenti kurmanız gerekmez. Windows içinde kurulu programlarınızda da (ör. Spotify) reklam ve takipçileri engeller.
-  
+### İşlem Adımları - İNTERNET TARAYICILARI
+
+İnternet tarayıcıları için birçok reklam engelleme eklentisi mevcut. Bu aşamada benim filtremden daha güçlü olan ve Türkçe filtresi olan [AdGuard Reklam Engelleyici Eklentisini](https://adguard.com/tr/adguard-browser-extension/overview.html) kullanmanızı tavsiye ederim. Tüm popüler tarayıcılar ile uyumludur. (Chrome - Firefox - Opera - Yandex - Edge - Safari)
+
+- Yukarıdaki bağlantıya ilerleyin ve kullandığınız internet tarayıcısının simgesine tıklayın.
+- Tıkladıktan sonra hemen altında ortaya çıkan "İNDİR" butonuna tıklayın.
+- Tarayıcınızın eklenti mağazasından AdGuard eklentisini tarayıcınıza ekleyin ve kurulumun bitmesini bekleyin.
+- Eklenti kurulduktan sonra eklentinin ayarlar bölümüne gidin,
+  + İngilizce filtre,
+  + Casus Engelleme filtresi,
+  + Sosyal Medya filtresi,
+  + Can Sıkıcı Öğeler filtresi,
+  + Türkçe filtreyi etkinleştirin.
+Filtreleri güncelle butonuna basın ve güle güle kullanın.
+
 ### İşlem Adımları - ANDROİD (Cihaz 'ROOTSUZ' ise)
 Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu garanti kapsamı dışına çıkarabilir. Bu gibi durumda aşağıdaki adımlarla reklamları engelleyebilirsiniz.
 
