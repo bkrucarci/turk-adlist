@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    30 Dec 2017
+# Last update:    12 Jan 2018
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -80,6 +80,7 @@
 127.0.0.1 adclicks.io
 127.0.0.1 adcy.net
 127.0.0.1 add.f5haber.com
+127.0.0.1 adeko.mobi
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adform.net
 127.0.0.1 adformdsp.net
@@ -124,6 +125,7 @@
 127.0.0.1 ads.bluelithium.com
 127.0.0.1 ads.converge-digital.com
 127.0.0.1 ads.creative-serving.com
+127.0.0.1 ads.dogusdigital.com
 127.0.0.1 ads.dt.mydas.mobi
 127.0.0.1 ads.eu.msn.com
 127.0.0.1 ads.facebook.com
@@ -200,6 +202,7 @@
 127.0.0.1 adworldmedia.com
 127.0.0.1 adx.ligadx.com
 127.0.0.1 adxpremium.com
+127.0.0.1 adzbaba.com
 127.0.0.1 adzerk.net
 127.0.0.1 aff.indirdik.com
 127.0.0.1 aff.tamvakti.com
@@ -425,6 +428,7 @@
 127.0.0.1 istatistik.gazetevatan.com
 127.0.0.1 istatistik.milliyet.com.tr
 127.0.0.1 istatistik.skorer.tv
+127.0.0.1 ivr.com.tr
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js.moatads.com
 127.0.0.1 juicyads.com
@@ -677,6 +681,7 @@
 127.0.0.1 spoods.rce.veeseo.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 statcounter.com
+127.0.0.1 static-ads.akamaized.net
 127.0.0.1 static.everyplay.com
 127.0.0.1 stats.acunn.com
 127.0.0.1 stats.appsflyer.com
