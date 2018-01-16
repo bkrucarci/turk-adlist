@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    12 Jan 2018
+# Last update:    16 Jan 2018
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -176,6 +176,7 @@
 127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adserver1.adtech.com.tr
 127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.tr
 127.0.0.1 adshare3.freedocast.com
 127.0.0.1 adsim.sabah.com.tr
 127.0.0.1 adslidango.com
@@ -246,6 +247,7 @@
 127.0.0.1 axbet20.com
 127.0.0.1 axbetb.com
 127.0.0.1 axbetb2.com
+127.0.0.1 ayandns.com
 127.0.0.1 b.cdn.md
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 b6roqgi.com
@@ -509,6 +511,7 @@
 127.0.0.1 noxaffiliates.com
 127.0.0.1 nr-data.net
 127.0.0.1 nuggad.net
+127.0.0.1 numarabiz.com
 127.0.0.1 numarapaneli.com
 127.0.0.1 oclaserver.com
 127.0.0.1 oclasrv.com
