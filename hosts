@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    19 Jan 2018
+# Last update:    23 Jan 2018
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -474,6 +474,7 @@
 127.0.0.1 media-match.com
 127.0.0.1 media.fastclick.net
 127.0.0.1 media.marsaffiliates.com
+127.0.0.1 mediapeartree.com
 127.0.0.1 mediaplex.com
 127.0.0.1 medyaklik.com
 127.0.0.1 medyanetads.com
