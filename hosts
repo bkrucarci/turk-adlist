@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    23 Jan 2018
+# Last update:    29 Jan 2018
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -15,6 +15,7 @@
 127.0.0.1 0638.info
 127.0.0.1 109.73.75.29
 127.0.0.1 109.73.75.3
+127.0.0.1 1686607364.rsc.cdn77.org
 127.0.0.1 217.195.197.45
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
@@ -64,6 +65,7 @@
 127.0.0.1 adbetclickin.pink
 127.0.0.1 adbetnet.advertserve.com
 127.0.0.1 adbreak.cdn.ubeei.com
+127.0.0.1 adbreak.net
 127.0.0.1 adbreak.ubeei.com
 127.0.0.1 adbuzz.com.tr
 127.0.0.1 adcash.com
@@ -436,6 +438,7 @@
 127.0.0.1 kalitereklam.com
 127.0.0.1 kiosked.com
 127.0.0.1 kissmetrics.com
+127.0.0.1 kos.interseek.si
 127.0.0.1 krxd.net
 127.0.0.1 kurulum.xyz
 127.0.0.1 leetmedia.com
@@ -472,6 +475,7 @@
 127.0.0.1 marketo.net
 127.0.0.1 med4ad.com
 127.0.0.1 media-match.com
+127.0.0.1 media.betexperaff.com
 127.0.0.1 media.fastclick.net
 127.0.0.1 media.marsaffiliates.com
 127.0.0.1 mediapeartree.com
@@ -674,6 +678,7 @@
 127.0.0.1 smaclick.com
 127.0.0.1 smartadserver.com
 127.0.0.1 smetrics.capitalone.com
+127.0.0.1 smrtbnr.com
 127.0.0.1 sociomantic.com
 127.0.0.1 softreklam.com
 127.0.0.1 sohbetpaneli.xyz
@@ -732,7 +737,6 @@
 127.0.0.1 trackingapi.cloudapp.net
 127.0.0.1 trackocean.com
 127.0.0.1 tradeadexchange.com
-127.0.0.1 traffic.libsyn.com
 127.0.0.1 trafficfactory.biz
 127.0.0.1 trbetmedia.com
 127.0.0.1 triggit.com
