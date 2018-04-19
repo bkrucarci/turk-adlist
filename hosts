@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    29 Jan 2018
+# Last update:    19 Apr 2018
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -181,12 +181,14 @@
 127.0.0.1 adsp.ciner.com.tr
 127.0.0.1 adsp.haberturk.com
 127.0.0.1 adsrv.eacdn.com
+127.0.0.1 adsupp.network
 127.0.0.1 adsymptotic.com
 127.0.0.1 adtech.com
 127.0.0.1 adtech.de
 127.0.0.1 adtrack.king.com
 127.0.0.1 adv.letitbit.net
 127.0.0.1 advancenative.com
+127.0.0.1 advertising.bulurum.com
 127.0.0.1 advertising.com
 127.0.0.1 advoly.com
 127.0.0.1 advonline.goforandroid.com
@@ -215,9 +217,11 @@
 127.0.0.1 alephd.com
 127.0.0.1 amazingcounters.com
 127.0.0.1 amazon-adsystem.com
+127.0.0.1 ambelbet.com
 127.0.0.1 amplifinder.biz
 127.0.0.1 ams-ads-cornerstone-creatives.s3.amazonaws.com
 127.0.0.1 amung.us
+127.0.0.1 an.yandex.ru
 127.0.0.1 analytic.piri.net
 127.0.0.1 analytics.cervellio.com
 127.0.0.1 analytics.edgekey.net
@@ -262,6 +266,7 @@
 127.0.0.1 beelert.com
 127.0.0.1 betburdaaffiliates.com
 127.0.0.1 betendads.com
+127.0.0.1 betwinnerpromo.com
 127.0.0.1 betzeplinreklam.com
 127.0.0.1 bilgibahis.com
 127.0.0.1 bizographics.com
@@ -353,6 +358,7 @@
 127.0.0.1 escinteractive.com
 127.0.0.1 etcodes.com
 127.0.0.1 etracker.com
+127.0.0.1 event.demirorenteknoloji.com
 127.0.0.1 events3.adcolony.com
 127.0.0.1 events3alt.adcolony.com
 127.0.0.1 exelator.com
@@ -423,6 +429,7 @@
 127.0.0.1 inspectlet.com
 127.0.0.1 installadpro.com
 127.0.0.1 installads.net
+127.0.0.1 installads.org
 127.0.0.1 installads2.com
 127.0.0.1 iosexy.com
 127.0.0.1 ip-api.com
@@ -678,7 +685,10 @@
 127.0.0.1 smaclick.com
 127.0.0.1 smartadserver.com
 127.0.0.1 smetrics.capitalone.com
+127.0.0.1 smopy.com
+127.0.0.1 smrtbnr.club
 127.0.0.1 smrtbnr.com
+127.0.0.1 smrtbnr.xyz
 127.0.0.1 sociomantic.com
 127.0.0.1 softreklam.com
 127.0.0.1 sohbetpaneli.xyz
@@ -778,6 +788,7 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.omaze.com
 127.0.0.1 x.ligatus.com
+127.0.0.1 xmtrk.com
 127.0.0.1 xyztanitim.com
 127.0.0.1 ycreklam.com
 127.0.0.1 yenimedya.com.tr
