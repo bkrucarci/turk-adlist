@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    19 Apr 2018
+# Last update:    22 May 2018
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -283,6 +283,7 @@
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
 127.0.0.1 buzzreklam.com
 127.0.0.1 c.gazetevatan.com
+127.0.0.1 campaign.nmobs.com
 127.0.0.1 casalemedia.com
 127.0.0.1 cdn-highwinds.unityads.unity3d.com
 127.0.0.1 cdn.elasticad.net
@@ -519,6 +520,8 @@
 127.0.0.1 networkad.net
 127.0.0.1 newrelic.com
 127.0.0.1 nexage.com
+127.0.0.1 ng.virgul.com
+127.0.0.1 ng2.virgul.com
 127.0.0.1 noxaffiliates.com
 127.0.0.1 nr-data.net
 127.0.0.1 nuggad.net
@@ -689,6 +692,7 @@
 127.0.0.1 smrtbnr.club
 127.0.0.1 smrtbnr.com
 127.0.0.1 smrtbnr.xyz
+127.0.0.1 smrtcdn.club
 127.0.0.1 sociomantic.com
 127.0.0.1 softreklam.com
 127.0.0.1 sohbetpaneli.xyz
@@ -778,6 +782,8 @@
 127.0.0.1 webtemsilcisi.com
 127.0.0.1 webtrekk.net
 127.0.0.1 webview.unityads.unity3d.com
+127.0.0.1 whatsapp-chat.xyz
+127.0.0.1 whatsappsohbetet.com
 127.0.0.1 widengle.com
 127.0.0.1 widget.boomads.com
 127.0.0.1 winaffiliates.com
