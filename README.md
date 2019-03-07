@@ -26,11 +26,11 @@ NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. S
 - Tıkladıktan sonra hemen altında ortaya çıkan "İNDİR" butonuna tıklayın.
 - Tarayıcınızın eklenti mağazasından AdGuard eklentisini tarayıcınıza ekleyin ve kurulumun bitmesini bekleyin.
 - Eklenti kurulduktan sonra eklentinin ayarlar bölümüne gidin,
-  + İngilizce filtre,
-  + Casus Engelleme filtresi,
-  + Sosyal Medya filtresi,
-  + Can Sıkıcı Öğeler filtresi,
-  + Türkçe filtreyi etkinleştirin.
+  + AdGuard Temel Filtresi,
+  + AdGuard Takip Engelleme Filtresi,
+  + AdGuard Sosyal Medya Filtresi,
+  + AdGuard Can Sıkıcı Öğeler Filtresi,
+  + AdGuard Türkçe Filtresini etkinleştirin.
 Filtreleri güncelle butonuna basın ve güle güle kullanın.
 
 # ANDROİD (İşin Android kısmında ücretli ve ücretsiz 2 Seçeneğiniz Var!)
@@ -65,7 +65,7 @@ Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu gar
 Yukarıdaki DNS66 uygulamasını telefonunuz rootlu olsa bile kullanabilirsiniz. Ancak root erişim izniniz varsa telefonun kendi "hosts" dosyasını değiştirmek çok daha mantıklıdır çünkü batarya ve RAM tasarrufu sağlar.
 Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
 
-- AdAway uygulamasını [buradan](https://f-droid.org/repo/org.adaway_60.apk) indirin.
+- AdAway uygulamasını [buradan](https://f-droid.org/repo/org.adaway_40203.apk) indirin.
 - Uygulamayı telefonunuza veya tabletinize kurun.
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
