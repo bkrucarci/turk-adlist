@@ -71,7 +71,7 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
 - https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
 - Ana menüye dönün güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
-- Android için yukarıdaki sıraladığım adımları anlatan görsellere [buradan](https://bilenlerkabilesi.com/adaway-android-icin-en-iyi-reklam-engelleme-uygulamasi/) gözatabilirsiniz. Sadece yeni Host ekleme kısmında https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresini kullanın.
+- Android için yukarıdaki sıraladığım adımları anlatan görsellere [buradan](http://bilenlerkabilesi.com/adaway-android-icin-en-iyi-reklam-engelleme-uygulamasi/) gözatabilirsiniz. Sadece yeni Host ekleme kısmında https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresini kullanın.
 
 ## Uyarı - Disclaimer
 Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz! Bu makaleyi kopyalayabilir, istediğiniz gibi düzenleyip yeniden paylaşabilirsiniz.
