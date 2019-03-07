@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    22 May 2018
+# Last update:    07 Mar 2019
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -64,7 +64,9 @@
 127.0.0.1 adbers.com
 127.0.0.1 adbetclickin.pink
 127.0.0.1 adbetnet.advertserve.com
+127.0.0.1 adbetnet.com
 127.0.0.1 adbreak.cdn.ubeei.com
+127.0.0.1 adbreak.cubecdn.net
 127.0.0.1 adbreak.net
 127.0.0.1 adbreak.ubeei.com
 127.0.0.1 adbuzz.com.tr
@@ -86,6 +88,7 @@
 127.0.0.1 adimg.rekmob.com
 127.0.0.1 adjust.io
 127.0.0.1 adkernel.com
+127.0.0.1 adl.mynetreklam.com
 127.0.0.1 adlure.net
 127.0.0.1 admatic.com.tr
 127.0.0.1 admax.com.tr
@@ -93,6 +96,7 @@
 127.0.0.1 admeld.com
 127.0.0.1 admitlead.ru
 127.0.0.1 admost.com
+127.0.0.1 adnatro.com
 127.0.0.1 adnet.com.tr
 127.0.0.1 adnetworkperformance.com
 127.0.0.1 adnexio.com
@@ -262,13 +266,17 @@
 127.0.0.1 bashirian.biz
 127.0.0.1 bbelements.com
 127.0.0.1 bcvc.mobi
+127.0.0.1 bcvcrdr.xyz
 127.0.0.1 beacon.securestudies.com
 127.0.0.1 beelert.com
 127.0.0.1 betburdaaffiliates.com
 127.0.0.1 betendads.com
+127.0.0.1 betkanyon100.com
 127.0.0.1 betwinnerpromo.com
 127.0.0.1 betzeplinreklam.com
 127.0.0.1 bilgibahis.com
+127.0.0.1 bilink.xyz
+127.0.0.1 binaryad.com
 127.0.0.1 bizographics.com
 127.0.0.1 bkrtx.com
 127.0.0.1 block.s2block.com
@@ -326,7 +334,6 @@
 127.0.0.1 crowdynews.com
 127.0.0.1 crwdcntrl.net
 127.0.0.1 csi.gstatic.com
-127.0.0.1 cstkk.720pizle.com
 127.0.0.1 cxense.com
 127.0.0.1 d.applovin.com
 127.0.0.1 d.haberler.com
@@ -343,6 +350,7 @@
 127.0.0.1 dimml.io
 127.0.0.1 directrev.com
 127.0.0.1 dmtracking2.alibaba.com
+127.0.0.1 dogus-ads-cdn.dygdigital.com
 127.0.0.1 doubleclick.net
 127.0.0.1 downads.com
 127.0.0.1 ds.serving-sys.com
@@ -382,6 +390,7 @@
 127.0.0.1 getshar.es
 127.0.0.1 gez.io
 127.0.0.1 gigya.com
+127.0.0.1 git.emarketing724.com
 127.0.0.1 global.msads.net
 127.0.0.1 go-mpulse.net
 127.0.0.1 go.spaceshipads.com
@@ -514,6 +523,7 @@
 127.0.0.1 mtburn.com
 127.0.0.1 mynativeads.com
 127.0.0.1 myswitchads.com
+127.0.0.1 nativespot.com
 127.0.0.1 netaffiliation.com
 127.0.0.1 netbookmedia.com
 127.0.0.1 netmng.com
@@ -574,6 +584,7 @@
 127.0.0.1 perabetads.com
 127.0.0.1 perf.mmstat.com
 127.0.0.1 perfectaudience.com
+127.0.0.1 performancenative.com
 127.0.0.1 permato.com
 127.0.0.1 permutive.com
 127.0.0.1 perr.h-cdn.com
@@ -691,6 +702,8 @@
 127.0.0.1 smopy.com
 127.0.0.1 smrtbnr.club
 127.0.0.1 smrtbnr.com
+127.0.0.1 smrtbnr.org
+127.0.0.1 smrtbnr.top
 127.0.0.1 smrtbnr.xyz
 127.0.0.1 smrtcdn.club
 127.0.0.1 sociomantic.com
@@ -738,6 +751,7 @@
 127.0.0.1 top10.yazete.com
 127.0.0.1 toroadvertisingmedia.com
 127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 tr.bannersdf.com
 127.0.0.1 tr.hit.gemius.pl
 127.0.0.1 track.adform.net
 127.0.0.1 track.vitringez.com
@@ -757,6 +771,7 @@
 127.0.0.1 truvacdn.com
 127.0.0.1 turkeyrank.com
 127.0.0.1 turn.com
+127.0.0.1 turngrind.com
 127.0.0.1 tynt.com
 127.0.0.1 ua.supersonicads.com
 127.0.0.1 udm.scorecardresearch.com
