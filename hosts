@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    12 Mar 2019
+# Last update:    18 Mar 2019
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -240,6 +240,7 @@
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.spotify.com
 127.0.0.1 analytics.yahoo.com
+127.0.0.1 analytics.yeniakit.com.tr
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 api.adintext.net
 127.0.0.1 app-measurement.com
@@ -323,6 +324,7 @@
 127.0.0.1 connextra.com
 127.0.0.1 content.bitsontherun.com
 127.0.0.1 contextweb.com
+127.0.0.1 cookiebot.com
 127.0.0.1 core.insightexpressai.com
 127.0.0.1 coremetrics.com
 127.0.0.1 cp.pushwoosh.com
@@ -461,6 +463,7 @@
 127.0.0.1 krxd.net
 127.0.0.1 kurulum.xyz
 127.0.0.1 leetmedia.com
+127.0.0.1 liadm.com
 127.0.0.1 liftdna.com
 127.0.0.1 ligadx.com
 127.0.0.1 ligatus.com
