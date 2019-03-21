@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    18 Mar 2019
+# Last update:    22 Mar 2019
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -452,6 +452,7 @@
 127.0.0.1 istatistik.skorer.tv
 127.0.0.1 ivr.com.tr
 127.0.0.1 js-agent.newrelic.com
+127.0.0.1 js.agkn.com
 127.0.0.1 js.moatads.com
 127.0.0.1 juicyads.com
 127.0.0.1 junbi-tracker.com
