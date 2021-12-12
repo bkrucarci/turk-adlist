@@ -16,6 +16,16 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 - hosts dosyasını notepad ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
 
+### MacOS
+- https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresinden listenin tamamını kopyalayın.
+- Terminali açın.
+- `$ sudo nano /etc/hosts` komutunu çalıştırın.
+- Listeyi dosyanın sonuna yapıştırın
+- Control + O tuşlarına basın ve sonrasın enter tuşuna basın.
+- Command + X tuşuyla çıkış yapın.
+- `$ sudo cat /etc/hosts` komutunu çalıştırdığınızda listeyi görüyorsanız doğru yapmışsınızdır.
+- Çalışmadığı durumda `$ sudo dscacheutil -flushcache` komutuyla host veritabınını yenileyebilirsiniz.
+
 NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda reklam engelleyici kullanarak etkin bir şekilde element filtrelemesi de yapabilirsiniz.
 
 ### İNTERNET TARAYICILARI
