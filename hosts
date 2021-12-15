@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    30 Apr 2020
+# Last update:    15 Dec 2021
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -141,6 +141,7 @@
 127.0.0.1 ads.google.com
 127.0.0.1 ads.ihaberadserver.com
 127.0.0.1 ads.ilbetaff.com
+127.0.0.1 ads.inegolonline.com
 127.0.0.1 ads.kiosked.com
 127.0.0.1 ads.linksrequest.com
 127.0.0.1 ads.modabetaff.com
@@ -343,6 +344,7 @@
 127.0.0.1 clickmerkez.com
 127.0.0.1 clicks.hurriyet.com.tr
 127.0.0.1 clicktale.net
+127.0.0.1 clifads.com
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cmsbetconstruct.com
 127.0.0.1 cmt.setrowid.com
@@ -666,6 +668,7 @@
 127.0.0.1 regadsgx.com
 127.0.0.1 rek.hepaffiliates.com
 127.0.0.1 rek.mobi
+127.0.0.1 rek.yemlee.com
 127.0.0.1 rek2.tascatlasa.com
 127.0.0.1 reklam.arabul.com
 127.0.0.1 reklam.bahisanaliz.com
@@ -678,6 +681,7 @@
 127.0.0.1 reklam.star.com.tr
 127.0.0.1 reklam.vogel.com.tr
 127.0.0.1 reklam.yonlendir.com
+127.0.0.1 reklam1.akhisar.bel.tr
 127.0.0.1 reklam7.com
 127.0.0.1 reklam9.com
 127.0.0.1 reklamaction.com
