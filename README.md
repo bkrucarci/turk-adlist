@@ -10,7 +10,7 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 
 ## Reklamları Nasıl Engelleyebilirim?
 
-### WINDOWS
+### Windows
 - https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresinden listenin tamamını kopyalayın.
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumuna ilerleyin ve hosts dosyasını bulun.
 - hosts dosyasını notepad ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
@@ -28,7 +28,7 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 
 NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda reklam engelleyici kullanarak etkin bir şekilde element filtrelemesi de yapabilirsiniz.
 
-### İNTERNET TARAYICILARI
+### İnternet Tarayıcıları
 
 İnternet tarayıcıları için birçok reklam engelleme eklentisi mevcut. Bu aşamada benim filtremden daha güçlü olan ve Türkçe filtresi olan [AdGuard Reklam Engelleyici Eklentisini](https://adguard.com/tr/adguard-browser-extension/overview.html) kullanmanızı tavsiye ederim. Tüm popüler tarayıcılar ile uyumludur. (Chrome - Firefox - Opera - Yandex - Edge - Safari)
 
@@ -43,7 +43,9 @@ NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. S
   + AdGuard Türkçe Filtresini etkinleştirin.
 Filtreleri güncelle butonuna basın ve güle güle kullanın.
 
-# ANDROİD (İşin Android kısmında ücretli ve ücretsiz 2 Seçeneğiniz Var!)
+#### Ufak bir hediye! Ekstra gizlilik ve güvenlik için tarayıcılarınıza [HTTPS Everywhere](https://www.eff.org/https-everywhere) ve [Privacy Badger](https://privacybadger.org/) eklentilerini de öneriyorum
+
+# Android (İşin Android kısmında ücretli ve ücretsiz 2 Seçeneğiniz Var!)
 Ücretsiz yazılımlar genelde hosts seviyesinde reklam engelleyebilmekte ve çoğu zaman uygulamalarda reklamları engelleyememektedir!
 
 ## Android için AdGuard (ÜCRETLİ)
