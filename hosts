@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    15 Dec 2021
+# Last update:    16 Dec 2021
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -160,6 +160,7 @@
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.usa-media.net
 127.0.0.1 ads.videonap.com
+127.0.0.1 ads.vidoomy.com
 127.0.0.1 ads.webme.com
 127.0.0.1 ads.wordego.com
 127.0.0.1 ads.yenimedya.com.tr
@@ -284,6 +285,7 @@
 127.0.0.1 betkanyon100.com
 127.0.0.1 betwinnerpromo.com
 127.0.0.1 betzeplinreklam.com
+127.0.0.1 bildirt.com
 127.0.0.1 bilgibahis.com
 127.0.0.1 bilink.xyz
 127.0.0.1 binaryad.com
@@ -304,11 +306,13 @@
 127.0.0.1 campaign.nmobs.com
 127.0.0.1 casalemedia.com
 127.0.0.1 cdn-highwinds.unityads.unity3d.com
+127.0.0.1 cdn.adhouse.pro
 127.0.0.1 cdn.appround.biz
 127.0.0.1 cdn.bigspeedpro.com
 127.0.0.1 cdn.bispd.com
 127.0.0.1 cdn.bisrv.com
 127.0.0.1 cdn.cdndp.com
+127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.download.sweetpacks.com
 127.0.0.1 cdn.dpdownload.com
 127.0.0.1 cdn.elasticad.net
@@ -326,6 +330,7 @@
 127.0.0.1 cdn.montiera.com
 127.0.0.1 cdn.msdwnld.com
 127.0.0.1 cdn.mypcbackup.com
+127.0.0.1 cdn.netmera-web.com
 127.0.0.1 cdn.opencandy.com
 127.0.0.1 cdn.popcash.net
 127.0.0.1 cdn.ppdownload.com
@@ -354,8 +359,10 @@
 127.0.0.1 collect-test.arabam.com
 127.0.0.1 collector.puhutv.com
 127.0.0.1 connextra.com
+127.0.0.1 consent.cookiebot.com
 127.0.0.1 content.bitsontherun.com
 127.0.0.1 contextweb.com
+127.0.0.1 cookie-cdn.cookiepro.com
 127.0.0.1 cookiebot.com
 127.0.0.1 core.insightexpressai.com
 127.0.0.1 coremetrics.com
@@ -391,6 +398,8 @@
 127.0.0.1 ds.serving-sys.com
 127.0.0.1 dskfv.de
 127.0.0.1 dtscout.com
+127.0.0.1 ecdn.analysis.fi
+127.0.0.1 ecdn.firstimpression.io
 127.0.0.1 edgead.woomedya.com
 127.0.0.1 effectivemeasure.net
 127.0.0.1 emarketingsuite.net
@@ -559,6 +568,7 @@
 127.0.0.1 mobon.com
 127.0.0.1 mobytrks.com
 127.0.0.1 mookie1.com
+127.0.0.1 mp.subservis.com
 127.0.0.1 msads.net
 127.0.0.1 mtburn.com
 127.0.0.1 mynativeads.com
@@ -622,6 +632,7 @@
 127.0.0.1 partners.betbooaffiliates.com
 127.0.0.1 partnersapi.bilio.com
 127.0.0.1 paykasasitesi.com
+127.0.0.1 pcdn.dengage.com
 127.0.0.1 pebed.dm.gg
 127.0.0.1 perabetads.com
 127.0.0.1 perf.mmstat.com
@@ -846,6 +857,7 @@
 127.0.0.1 whatsappsohbetet.com
 127.0.0.1 widengle.com
 127.0.0.1 widget.boomads.com
+127.0.0.1 widget.cdn.vidyome.com
 127.0.0.1 winaffiliates.com
 127.0.0.1 wlgtaffiliates.eacdn.com
 127.0.0.1 ws.tapjoyads.com
