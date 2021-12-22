@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    19 Dec 2021
+# Last update:    22 Dec 2021
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -56,6 +56,7 @@
 127.0.0.1 ad.reyazilim.com
 127.0.0.1 ad.sacitaslan.com
 127.0.0.1 ad.setrowid.com
+127.0.0.1 ad.sxp.smartclip.net
 127.0.0.1 ad.webservis.gen.tr
 127.0.0.1 ad.wslinx.com
 127.0.0.1 ad.yemeksepeti.com
@@ -81,6 +82,7 @@
 127.0.0.1 adcy.net
 127.0.0.1 add.f5haber.com
 127.0.0.1 adeko.mobi
+127.0.0.1 adfarm1.adition.com
 127.0.0.1 adform.net
 127.0.0.1 adformdsp.net
 127.0.0.1 adfox.ru
@@ -199,6 +201,7 @@
 127.0.0.1 adsp.ciner.com.tr
 127.0.0.1 adsp.haberturk.com
 127.0.0.1 adsrv.eacdn.com
+127.0.0.1 adsrvr.org
 127.0.0.1 adsupp.network
 127.0.0.1 adsymptotic.com
 127.0.0.1 adtarget.com.tr
@@ -253,6 +256,7 @@
 127.0.0.1 analytics.olay.com.tr
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.tebilisim.com
+127.0.0.1 analytics.tiktok.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analytics.yeniakit.com.tr
 127.0.0.1 androidads23.adcolony.com
@@ -267,6 +271,7 @@
 127.0.0.1 artemisaffiliates.com
 127.0.0.1 assoc-amazon.com
 127.0.0.1 atemda.com
+127.0.0.1 avlsh.visilabs.net
 127.0.0.1 axbet20.com
 127.0.0.1 axbetb.com
 127.0.0.1 axbetb2.com
@@ -498,6 +503,7 @@
 127.0.0.1 installads2.com
 127.0.0.1 installer.betterinstaller.com
 127.0.0.1 installer.filebulldog.com
+127.0.0.1 instana.io
 127.0.0.1 iosexy.com
 127.0.0.1 ip-api.com
 127.0.0.1 istatistik.gazetevatan.com
@@ -829,6 +835,7 @@
 127.0.0.1 track.adform.net
 127.0.0.1 track.vitringez.com
 127.0.0.1 tracker-pm2.erosaffiliates.com
+127.0.0.1 tracker.blutv.com
 127.0.0.1 tracking-rce.veeseo.com
 127.0.0.1 tracking.content-recommendation.net
 127.0.0.1 tracking.opencandy.com
