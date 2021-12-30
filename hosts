@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    22 Dec 2021
+# Last update:    30 Dec 2021
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -509,6 +509,7 @@
 127.0.0.1 istatistik.gazetevatan.com
 127.0.0.1 istatistik.milliyet.com.tr
 127.0.0.1 istatistik.skorer.tv
+127.0.0.1 istatistik.trthaber.com
 127.0.0.1 ivr.com.tr
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js.agkn.com
