@@ -4,8 +4,8 @@ Explanation:    Ad servers list to block ads on Turkish websites (for use with h
 
 ## Neden bu listeyi oluşturdum?
 
-Asıl amaç reklam engelleme konusunda bir farkındalık oluşturmaktır. Reklamları engellemek sadece görsel olarak eğil, güvenlik & gizlilik anlamında da sizi gözetir.
-Reklamlar ve reklam ağları çoğunlukla zararlı yazılım yaymak için kullanılıyor. Reklamları engelleyerek gerçek içeriğe ulaşın, gizliliğinizi koruyun ve zararlı yazılımları cihazınızdan uzak tutun.
+Asıl amaç reklam engelleme konusunda bir farkındalık oluşturmaktır. Reklamları engellemek sadece görsel olarak değil, güvenlik & gizlilik anlamında da sizi gözetir.
+Reklamlar ve reklam ağları çoğunlukla zararlı yazılım yaymak için kullanılıyor. Reklamları engelleyerek gerçek içeriğe ulaşırken gizliliğinizi koruyun ve zararlı yazılımları cihazınızdan uzak tutun.
 
 ![İnternet Kullanıcısını Bezdiren Sebepler](https://user-images.githubusercontent.com/15933805/146762673-930e2959-ece2-4788-9c89-a3b29dd5fbf5.jpg)
 
