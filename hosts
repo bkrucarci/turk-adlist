@@ -250,6 +250,7 @@
 127.0.0.1 analytics.edgekey.net
 127.0.0.1 analytics.edgesuite.net
 127.0.0.1 analytics.google.com
+127.0.0.1 analytics.kkb.com.tr
 127.0.0.1 analytics.live.com
 127.0.0.1 analytics.mobile.walmart.com
 127.0.0.1 analytics.mopub.com
@@ -264,6 +265,7 @@
 127.0.0.1 api.adintext.net
 127.0.0.1 api.opencandy.com
 127.0.0.1 api.recommendedsw.com
+127.0.0.1 api.rubic.com.tr
 127.0.0.1 app-measurement.com
 127.0.0.1 app.adjust.com
 127.0.0.1 appboy.com
@@ -423,10 +425,12 @@
 127.0.0.1 ensighten.com
 127.0.0.1 eotech-yoqblou5gqrdrn.netdna-ssl.com
 127.0.0.1 eqads.com
+127.0.0.1 erkaseriilan.com.tr
 127.0.0.1 ero-advertising.com
 127.0.0.1 escinteractive.com
 127.0.0.1 etcodes.com
 127.0.0.1 etracker.com
+127.0.0.1 eue.d-teknoloji.com.tr
 127.0.0.1 event.demirorenteknoloji.com
 127.0.0.1 events3.adcolony.com
 127.0.0.1 events3alt.adcolony.com
@@ -449,6 +453,7 @@
 127.0.0.1 geolocation.performgroup.com
 127.0.0.1 getshar.es
 127.0.0.1 gez.io
+127.0.0.1 gezinti.com
 127.0.0.1 gigya.com
 127.0.0.1 git.emarketing724.com
 127.0.0.1 global.msads.net
@@ -508,6 +513,7 @@
 127.0.0.1 instana.io
 127.0.0.1 iosexy.com
 127.0.0.1 ip-api.com
+127.0.0.1 is.sabah.com.tr
 127.0.0.1 istatistik.gazetevatan.com
 127.0.0.1 istatistik.milliyet.com.tr
 127.0.0.1 istatistik.skorer.tv
