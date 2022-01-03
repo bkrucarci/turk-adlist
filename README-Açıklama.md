@@ -4,9 +4,12 @@ Explanation:    Ad servers list to block ads on Turkish websites (for use with h
 
 ## Neden bu listeyi oluşturdum?
 
+Asıl amaç reklam engelleme konusunda bir farkındalık oluşturmaktır. Reklamları engellemek sadece görsel olarak eğil, güvenlik & gizlilik anlamında da sizi gözetir.
+Reklamlar ve reklam ağları çoğunlukla zararlı yazılım yaymak için kullanılıyor. Reklamları engelleyerek gerçek içeriğe ulaşın, gizliliğinizi koruyun ve zararlı yazılımları cihazınızdan uzak tutun.
+
 ![İnternet Kullanıcısını Bezdiren Sebepler](https://user-images.githubusercontent.com/15933805/146762673-930e2959-ece2-4788-9c89-a3b29dd5fbf5.jpg)
 
-Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve reklamverenleri engelleyen filtre olmadığı için bu filtreyi oluşturmak istedim. Tek başına bu liste tüm reklamları engelleyemez zaten öyle bir amacımız yok, yalnızca Türkçe içerikli sitelerdeki reklamları engellemek için kullanın. Tek başına hiçbir filtre veya host ile tüm reklamları engelleyemezsiniz. Uzun zamandır geliştirilen listelerle birlikte kullanıldığında daha etkin bir sonuç alabilirsiniz. Aşağıdaki başlıklarda nasıl kullanacağınızı öğrenebilirsiniz.
+Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve reklamverenleri engelleyen filtre olmadığı için bu filtreyi oluşturmak istedim. Tek başına bu liste tüm reklamları engelleyemez. Zaten öyle bir amacımız yok! Yalnızca Türkçe içerikli sitelerdeki reklamları engellemek için kullanın. Tek başına hiçbir filtre veya host ile tüm reklamları engelleyemezsiniz. Uzun zamandır geliştirilen listelerle birlikte kullanıldığında daha etkin bir sonuç alabilirsiniz. Aşağıdaki başlıklarda nasıl kullanacağınızı öğrenebilirsiniz.
 
 ## Reklamları Nasıl Engelleyebilirim?
 
