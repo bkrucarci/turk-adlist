@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    03 Jan 2022
+# Last update:    06 Jan 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -185,6 +185,7 @@
 127.0.0.1 adserve.donanimhaber.com
 127.0.0.1 adserver.adklik.com.tr
 127.0.0.1 adserver.advrstcdn.com
+127.0.0.1 adserver.reklamstore.com
 127.0.0.1 adserver.snapads.com
 127.0.0.1 adserver.tagon.co
 127.0.0.1 adserver.tutkusunucu.com
@@ -484,6 +485,7 @@
 127.0.0.1 hizlipop.com
 127.0.0.1 hizlireklam.com
 127.0.0.1 hotjar.com
+127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 htpanel.com
 127.0.0.1 hyprshr.com
 127.0.0.1 i.kissmetrics.com
@@ -673,6 +675,7 @@
 127.0.0.1 permutive.com
 127.0.0.1 perr.h-cdn.com
 127.0.0.1 petametrics.com
+127.0.0.1 pghub.io
 127.0.0.1 phorm.com.tr
 127.0.0.1 piaads.com
 127.0.0.1 ping.staticmoly.me
