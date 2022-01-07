@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    06 Jan 2022
+# Last update:    07 Jan 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -433,6 +433,7 @@
 127.0.0.1 etracker.com
 127.0.0.1 eue.d-teknoloji.com.tr
 127.0.0.1 event.demirorenteknoloji.com
+127.0.0.1 event.dengage.com
 127.0.0.1 events3.adcolony.com
 127.0.0.1 events3alt.adcolony.com
 127.0.0.1 exelator.com
@@ -763,6 +764,7 @@
 127.0.0.1 rs.chip.com.tr
 127.0.0.1 rtb.adjux.com
 127.0.0.1 rubiconproject.com
+127.0.0.1 rum.uptime.com
 127.0.0.1 s.adklik.com.tr
 127.0.0.1 s.webtrends.com
 127.0.0.1 s0.2mdn.net
@@ -803,6 +805,7 @@
 127.0.0.1 sohbetpaneli.xyz
 127.0.0.1 soma.smaato.net
 127.0.0.1 sonobi.com
+127.0.0.1 sortext.com
 127.0.0.1 spoods.rce.veeseo.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 statcounter.com
