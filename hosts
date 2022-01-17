@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    07 Jan 2022
+# Last update:    17 Jan 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -89,6 +89,7 @@
 127.0.0.1 adgain-publisher.com
 127.0.0.1 adhood.com
 127.0.0.1 adhouse.cubecdn.net
+127.0.0.1 adhouse.pro
 127.0.0.1 adhunter.media
 127.0.0.1 adimage.media
 127.0.0.1 adimg.rekmob.com
@@ -103,12 +104,14 @@
 127.0.0.1 admitlead.ru
 127.0.0.1 admost.com
 127.0.0.1 admoxi.com
+127.0.0.1 adn.bursadabugun.com
 127.0.0.1 adnamo.net
 127.0.0.1 adnatro.com
 127.0.0.1 adnet.com.tr
 127.0.0.1 adnetworkperformance.com
 127.0.0.1 adnexio.com
 127.0.0.1 adnimo.com
+127.0.0.1 adnsafe.net
 127.0.0.1 adnxs.com
 127.0.0.1 adocean.pl
 127.0.0.1 adon.io
@@ -183,6 +186,7 @@
 127.0.0.1 adsblok.com
 127.0.0.1 adscale.de
 127.0.0.1 adserve.donanimhaber.com
+127.0.0.1 adserver.a24.com.tr
 127.0.0.1 adserver.adklik.com.tr
 127.0.0.1 adserver.advrstcdn.com
 127.0.0.1 adserver.reklamstore.com
@@ -236,7 +240,9 @@
 127.0.0.1 affsnetwork.com
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 afyonturkreklam.com
+127.0.0.1 aj1907.online
 127.0.0.1 aj2373.online
+127.0.0.1 ajansblue.net
 127.0.0.1 ajansreklam.net
 127.0.0.1 alephd.com
 127.0.0.1 amazingcounters.com
@@ -265,15 +271,18 @@
 127.0.0.1 api-adservices.apple.com
 127.0.0.1 api-stg.ensonhaber.com
 127.0.0.1 api.adintext.net
+127.0.0.1 api.adnsafe.org
 127.0.0.1 api.opencandy.com
 127.0.0.1 api.recommendedsw.com
 127.0.0.1 api.rubic.com.tr
 127.0.0.1 app-measurement.com
 127.0.0.1 app.adjust.com
+127.0.0.1 app.gelirartisi.com
 127.0.0.1 appboy.com
 127.0.0.1 appengage-video.sponsorpay.com
 127.0.0.1 appsflyer.com
 127.0.0.1 artemisaffiliates.com
+127.0.0.1 asdqweq.com
 127.0.0.1 assoc-amazon.com
 127.0.0.1 atemda.com
 127.0.0.1 avlsh.visilabs.net
@@ -284,7 +293,6 @@
 127.0.0.1 b.cdn.md
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 b6roqgi.com
-127.0.0.1 bahisciler.co
 127.0.0.1 bam.nr-data.net
 127.0.0.1 bambar.net
 127.0.0.1 banner.kanald.com.tr
@@ -298,8 +306,10 @@
 127.0.0.1 beacon.securestudies.com
 127.0.0.1 beelert.com
 127.0.0.1 betburdaaffiliates.com
+127.0.0.1 betcdn.biz
 127.0.0.1 betendads.com
 127.0.0.1 betkanyon100.com
+127.0.0.1 betlox.com
 127.0.0.1 betwinnerpromo.com
 127.0.0.1 betzeplinreklam.com
 127.0.0.1 bildirt.com
@@ -319,6 +329,8 @@
 127.0.0.1 bumerang.hurriyet.com.tr
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
 127.0.0.1 buzzreklam.com
+127.0.0.1 bwcdn.xyz
+127.0.0.1 bwtsrv.com
 127.0.0.1 c.gazetevatan.com
 127.0.0.1 campaign.nmobs.com
 127.0.0.1 casalemedia.com
@@ -355,11 +367,13 @@
 127.0.0.1 cdn.shyapotato.us
 127.0.0.1 cdn.smartclick.io
 127.0.0.1 cdn.solimba.com
+127.0.0.1 cdn.sportlabs.online
 127.0.0.1 cdn.teads.tv
 127.0.0.1 cdn.tuto4pc.com
 127.0.0.1 cdn.visualbee.net
 127.0.0.1 cedexis.com
 127.0.0.1 ceviz.pw
+127.0.0.1 chaicdn.tk
 127.0.0.1 chartbeat.com
 127.0.0.1 cinerreklam.com.tr
 127.0.0.1 citireklam.com
@@ -404,6 +418,7 @@
 127.0.0.1 d2gi7ultltnc2u.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d3alqb8vzo7fun.cloudfront.net
+127.0.0.1 d3g5ovfngjw9bw.cloudfront.net
 127.0.0.1 d3oxtn1x3b8d7i.cloudfront.net
 127.0.0.1 d3rt1990lpmkn.cloudfront.net
 127.0.0.1 da-ads.com
@@ -440,6 +455,7 @@
 127.0.0.1 exelator.com
 127.0.0.1 eyeviewads.com
 127.0.0.1 faggrim.com
+127.0.0.1 fast-redirecting.com
 127.0.0.1 fingersoft-log.scientificrevenue.com
 127.0.0.1 fitanalytics.com
 127.0.0.1 flashtalking.com
@@ -447,7 +463,9 @@
 127.0.0.1 flixcar.com
 127.0.0.1 flixfacts.com
 127.0.0.1 foxpush.com
+127.0.0.1 franecki.net
 127.0.0.1 freegeoip.net
+127.0.0.1 frknseo.info
 127.0.0.1 fsuseaad1.blob.core.windows.net
 127.0.0.1 fvbaffiliate.com
 127.0.0.1 gemius.pl
@@ -486,6 +504,7 @@
 127.0.0.1 hits.tv8.com.tr
 127.0.0.1 hizlipop.com
 127.0.0.1 hizlireklam.com
+127.0.0.1 hood.ninja
 127.0.0.1 hotjar.com
 127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 htpanel.com
@@ -523,6 +542,7 @@
 127.0.0.1 istatistik.skorer.tv
 127.0.0.1 istatistik.trthaber.com
 127.0.0.1 ivr.com.tr
+127.0.0.1 jeoldkhy.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js.agkn.com
 127.0.0.1 js.moatads.com
@@ -535,6 +555,7 @@
 127.0.0.1 kiosked.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 kos.interseek.si
+127.0.0.1 kralseo.info
 127.0.0.1 krxd.net
 127.0.0.1 kurulum.xyz
 127.0.0.1 leetmedia.com
@@ -560,11 +581,11 @@
 127.0.0.1 logger-09.vty.dailymotion.com
 127.0.0.1 logger.virgul.com
 127.0.0.1 logo.webservis.gen.tr
-127.0.0.1 m6r.eu
 127.0.0.1 mads.com
 127.0.0.1 madserv.net
 127.0.0.1 madsone.com
 127.0.0.1 makroads.net
+127.0.0.1 makroo.kanal7-cdn.com
 127.0.0.1 mamydirect.com
 127.0.0.1 marinsm.com
 127.0.0.1 marketing.modalife.com
@@ -589,6 +610,7 @@
 127.0.0.1 minireklam.com
 127.0.0.1 mkazanc.com
 127.0.0.1 mlstat.com
+127.0.0.1 mobilbahis365.mobi
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-crash.newrelic.com
 127.0.0.1 mobile.logs.roku.com
@@ -615,6 +637,7 @@
 127.0.0.1 nexage.com
 127.0.0.1 ng.virgul.com
 127.0.0.1 ng2.virgul.com
+127.0.0.1 nhls.nscdn9.com
 127.0.0.1 noxaffiliates.com
 127.0.0.1 nr-data.net
 127.0.0.1 nsis.bisrv.com
@@ -645,6 +668,7 @@
 127.0.0.1 os.yefeneri2.com
 127.0.0.1 os2.yefeneri2.com
 127.0.0.1 outcome.supersonicads.com
+127.0.0.1 owlcarousel2.github.io
 127.0.0.1 oxcdn.com
 127.0.0.1 p.d.0emn.com
 127.0.0.1 p.d.0fmm.com
@@ -665,6 +689,7 @@
 127.0.0.1 partnermatrix.com
 127.0.0.1 partners.betbooaffiliates.com
 127.0.0.1 partnersapi.bilio.com
+127.0.0.1 partnerx.bethub.io
 127.0.0.1 paykasasitesi.com
 127.0.0.1 pcdn.dengage.com
 127.0.0.1 pebed.dm-event.net
@@ -708,11 +733,14 @@
 127.0.0.1 pxlad.io
 127.0.0.1 qservz.com
 127.0.0.1 quantserve.com
+127.0.0.1 rainstar.gen.tf
 127.0.0.1 rdrtr.com
 127.0.0.1 reali.st
 127.0.0.1 realist.gen.tr
 127.0.0.1 redirector.gvt1.com
+127.0.0.1 ref.gitadres.com
 127.0.0.1 refbanners.website
+127.0.0.1 referrer.website
 127.0.0.1 refpa.top
 127.0.0.1 regadsgx.com
 127.0.0.1 rek.hepaffiliates.com
@@ -732,10 +760,12 @@
 127.0.0.1 reklam.yonlendir.com
 127.0.0.1 reklam1.akhisar.bel.tr
 127.0.0.1 reklam7.com
+127.0.0.1 reklam8.net
 127.0.0.1 reklam9.com
 127.0.0.1 reklamaction.com
 127.0.0.1 reklamagaci.com
 127.0.0.1 reklamalan.com
+127.0.0.1 reklamatik.com
 127.0.0.1 reklambanner.net
 127.0.0.1 reklamcdn.com
 127.0.0.1 reklamdor.com
@@ -797,7 +827,9 @@
 127.0.0.1 smrtbnr.club
 127.0.0.1 smrtbnr.com
 127.0.0.1 smrtbnr.info
+127.0.0.1 smrtbnr.net
 127.0.0.1 smrtbnr.org
+127.0.0.1 smrtbnr.space
 127.0.0.1 smrtbnr.top
 127.0.0.1 smrtbnr.xyz
 127.0.0.1 smrtcdn.club
@@ -808,6 +840,7 @@
 127.0.0.1 sonobi.com
 127.0.0.1 sortext.com
 127.0.0.1 spoods.rce.veeseo.com
+127.0.0.1 spwms.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 statcounter.com
 127.0.0.1 stathat.com
@@ -840,9 +873,13 @@
 127.0.0.1 tanidigital.com
 127.0.0.1 tapfiliate.com
 127.0.0.1 tapjoy.com
+127.0.0.1 tarpitbar.com
 127.0.0.1 tempobanners.com
 127.0.0.1 terraclicks.com
+127.0.0.1 theadx.com
 127.0.0.1 themediamove.com
+127.0.0.1 threedrive.su
+127.0.0.1 tidint.pro
 127.0.0.1 tm.zedo.com
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 top10.yazete.com
@@ -869,6 +906,7 @@
 127.0.0.1 trbetmedia.com
 127.0.0.1 triggit.com
 127.0.0.1 truvacdn.com
+127.0.0.1 ttauri.livescience.com
 127.0.0.1 turkeyrank.com
 127.0.0.1 turn.com
 127.0.0.1 turngrind.com
@@ -884,7 +922,10 @@
 127.0.0.1 vdaffiliates.com
 127.0.0.1 veeseo.com
 127.0.0.1 video-ad-stats.googlesyndication.com
+127.0.0.1 videoclip.cdn.vidyome.com
 127.0.0.1 videoustu.com
+127.0.0.1 viralvideos.pw
+127.0.0.1 virgul.com
 127.0.0.1 visilabs.com
 127.0.0.1 visilabs.net
 127.0.0.1 visit.hepsiburada.com
@@ -912,9 +953,13 @@
 127.0.0.1 xmtrk.com
 127.0.0.1 xyztanitim.com
 127.0.0.1 ycreklam.com
+127.0.0.1 yebadu.com
 127.0.0.1 yedimedia.net
 127.0.0.1 yenimedya.com.tr
+127.0.0.1 yes999.ga
+127.0.0.1 yfzbn.com
 127.0.0.1 youtube.2cnt.net
+127.0.0.1 youtubex.top
 127.0.0.1 yx-ads6.com
 #
 # --- [ END ] --- #
