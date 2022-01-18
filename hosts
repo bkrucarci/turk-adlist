@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    17 Jan 2022
+# Last update:    18 Jan 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -34,6 +34,7 @@
 127.0.0.1 acc-hd.de
 127.0.0.1 action.adzcore.com
 127.0.0.1 ad-cdn.bilgin.pro
+127.0.0.1 ad-delivery.net
 127.0.0.1 ad.360yield.com
 127.0.0.1 ad.afftrck.com
 127.0.0.1 ad.antventure.com
@@ -82,6 +83,7 @@
 127.0.0.1 adcy.net
 127.0.0.1 add.f5haber.com
 127.0.0.1 adeko.mobi
+127.0.0.1 adentifi.com
 127.0.0.1 adfarm1.adition.com
 127.0.0.1 adform.net
 127.0.0.1 adformdsp.net
@@ -115,6 +117,7 @@
 127.0.0.1 adnxs.com
 127.0.0.1 adocean.pl
 127.0.0.1 adon.io
+127.0.0.1 adotmob.com
 127.0.0.1 adplxmd.com
 127.0.0.1 adport.com.tr
 127.0.0.1 adpozitif.com
@@ -245,6 +248,7 @@
 127.0.0.1 ajansblue.net
 127.0.0.1 ajansreklam.net
 127.0.0.1 alephd.com
+127.0.0.1 alexametrics.com
 127.0.0.1 amazingcounters.com
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 ambelbet.com
@@ -496,6 +500,7 @@
 127.0.0.1 hepsiburada01.webtrekk.net
 127.0.0.1 histats.com
 127.0.0.1 hit.8digits.com
+127.0.0.1 hit.demirorenteknoloji.com
 127.0.0.1 hit.dogannet.tv
 127.0.0.1 hit.gemius.pl
 127.0.0.1 hit.mynet.com
@@ -610,6 +615,7 @@
 127.0.0.1 minireklam.com
 127.0.0.1 mkazanc.com
 127.0.0.1 mlstat.com
+127.0.0.1 moatads.com
 127.0.0.1 mobilbahis365.mobi
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-crash.newrelic.com
@@ -667,6 +673,8 @@
 127.0.0.1 orjinalshop.net
 127.0.0.1 os.yefeneri2.com
 127.0.0.1 os2.yefeneri2.com
+127.0.0.1 outbrain.com
+127.0.0.1 outbrainimg.com
 127.0.0.1 outcome.supersonicads.com
 127.0.0.1 owlcarousel2.github.io
 127.0.0.1 oxcdn.com
@@ -737,6 +745,7 @@
 127.0.0.1 rdrtr.com
 127.0.0.1 reali.st
 127.0.0.1 realist.gen.tr
+127.0.0.1 rebrand.ly
 127.0.0.1 redirector.gvt1.com
 127.0.0.1 ref.gitadres.com
 127.0.0.1 refbanners.website
@@ -787,6 +796,7 @@
 127.0.0.1 reviveservers.com
 127.0.0.1 revotas.com
 127.0.0.1 revsci.net
+127.0.0.1 richaudience.com
 127.0.0.1 rotabetaffiliates.com
 127.0.0.1 rp.yefeneri2.com
 127.0.0.1 rpc.tapjoy.com
@@ -840,6 +850,7 @@
 127.0.0.1 sonobi.com
 127.0.0.1 sortext.com
 127.0.0.1 spoods.rce.veeseo.com
+127.0.0.1 spotxchange.com
 127.0.0.1 spwms.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 statcounter.com
@@ -868,6 +879,7 @@
 127.0.0.1 swbdds.com
 127.0.0.1 sync.adaptv.advertising.com
 127.0.0.1 t1.clipkit.com
+127.0.0.1 taboola.com
 127.0.0.1 tagon.co
 127.0.0.1 tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
 127.0.0.1 tanidigital.com
@@ -881,6 +893,7 @@
 127.0.0.1 threedrive.su
 127.0.0.1 tidint.pro
 127.0.0.1 tm.zedo.com
+127.0.0.1 tooplay.com
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 top10.yazete.com
 127.0.0.1 toroadvertisingmedia.com
@@ -921,6 +934,7 @@
 127.0.0.1 v.jwpcdn.com
 127.0.0.1 vdaffiliates.com
 127.0.0.1 veeseo.com
+127.0.0.1 viadata.store
 127.0.0.1 video-ad-stats.googlesyndication.com
 127.0.0.1 videoclip.cdn.vidyome.com
 127.0.0.1 videoustu.com
