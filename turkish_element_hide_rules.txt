@@ -8,8 +8,6 @@
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
 ! ----------------------------------------------------
 ###adpro-1
-###adpro-1
-###adpro-10
 ###adpro-2
 ###adpro-3
 ###adpro-4
@@ -18,6 +16,7 @@
 ###adpro-7
 ###adpro-8
 ###adpro-9
+###adpro-10
 ###altreklam
 ###arkaplanreklam
 ###haber_detay_ic_reklam_
@@ -46,13 +45,13 @@
 ##.ad
 ##.ad-desktop
 ##.ad-with-border
-##.ad300.ad
 ##.adInitRemove.ads
 ##.adbImg
 ##.add-banner
 ##.adpro
 ##.ads
 ##.ads-zone
+##.adsbox
 ##.adsbox--masthead.adsbox
 ##.adsbox--square
 ##.adsbox--vertical
@@ -107,7 +106,7 @@
 ##.sagkulereklam
 ##.sidebar-banner
 ##.tepe-banner
-##.thb-desktop.thb-ad
+##.thb-ad
 ##.top-banner
 ##.werbung
 ##.x-comet-dialog-visible
