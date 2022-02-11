@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    18 Jan 2022
+# Last update:    11 Feb 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -19,7 +19,6 @@
 127.0.0.1 109.73.75.3
 127.0.0.1 1686607364.rsc.cdn77.org
 127.0.0.1 217.195.197.45
-127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
 127.0.0.1 82o9v830.com
 127.0.0.1 8digits.com
@@ -296,7 +295,6 @@
 127.0.0.1 axbetb2.com
 127.0.0.1 ayandns.com
 127.0.0.1 b.cdn.md
-127.0.0.1 b.scorecardresearch.com
 127.0.0.1 b6roqgi.com
 127.0.0.1 bam.nr-data.net
 127.0.0.1 bambar.net
@@ -358,6 +356,7 @@
 127.0.0.1 cdn.inskinmedia.com
 127.0.0.1 cdn.insta.oibundles2.com
 127.0.0.1 cdn.insta.playbryte.com
+127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.klasseo.com
 127.0.0.1 cdn.llogetfastcach.us
 127.0.0.1 cdn.marjmedya.com
@@ -410,7 +409,7 @@
 127.0.0.1 crazyegg.com
 127.0.0.1 creativecdn.com
 127.0.0.1 criteo.com
-127.0.0.1 criteo.net
+127.0.0.1 static.criteo.net
 127.0.0.1 crowdynews.com
 127.0.0.1 crwdcntrl.net
 127.0.0.1 csi.gstatic.com
@@ -719,6 +718,7 @@
 127.0.0.1 pingdom.net
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixenka.com
+127.0.0.1 pixels.ingbank.com.tr
 127.0.0.1 plista.com
 127.0.0.1 pmelon.com
 127.0.0.1 popads.net
@@ -810,7 +810,6 @@
 127.0.0.1 rum.uptime.com
 127.0.0.1 s.adklik.com.tr
 127.0.0.1 s.webtrends.com
-127.0.0.1 s0.2mdn.net
 127.0.0.1 s3.adbers.com
 127.0.0.1 sadecereklam.net
 127.0.0.1 sail-horizon.com
@@ -821,6 +820,7 @@
 127.0.0.1 sayac.hurriyet.com.tr
 127.0.0.1 sayac.onlinewebstat.com
 127.0.0.1 sayyac.net
+127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 sc-analytics.appshot.com
 127.0.0.1 scarabresearch.com
 127.0.0.1 scorecardresearch.com
@@ -828,6 +828,7 @@
 127.0.0.1 sdk.adincube.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 segmentify.com
+127.0.0.1 seldos.com.tr
 127.0.0.1 serve-sys.com
 127.0.0.1 serving-sys.com
 127.0.0.1 setting.adzcore.com
@@ -895,7 +896,6 @@
 127.0.0.1 threedrive.su
 127.0.0.1 tidint.pro
 127.0.0.1 tm.zedo.com
-127.0.0.1 tooplay.com
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 top10.yazete.com
 127.0.0.1 toroadvertisingmedia.com
@@ -903,6 +903,7 @@
 127.0.0.1 tr.bannersdf.com
 127.0.0.1 tr.hit.gemius.pl
 127.0.0.1 track.adform.net
+127.0.0.1 track.tooplay.com
 127.0.0.1 track.vitringez.com
 127.0.0.1 tracker-pm2.erosaffiliates.com
 127.0.0.1 tracker.blutv.com
