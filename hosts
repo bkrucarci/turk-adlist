@@ -409,7 +409,6 @@
 127.0.0.1 crazyegg.com
 127.0.0.1 creativecdn.com
 127.0.0.1 criteo.com
-127.0.0.1 static.criteo.net
 127.0.0.1 crowdynews.com
 127.0.0.1 crwdcntrl.net
 127.0.0.1 csi.gstatic.com
@@ -717,8 +716,8 @@
 127.0.0.1 ping.staticmoly.me
 127.0.0.1 pingdom.net
 127.0.0.1 pixel.adsafeprotected.com
-127.0.0.1 pixenka.com
 127.0.0.1 pixels.ingbank.com.tr
+127.0.0.1 pixenka.com
 127.0.0.1 plista.com
 127.0.0.1 pmelon.com
 127.0.0.1 popads.net
@@ -829,6 +828,7 @@
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 segmentify.com
 127.0.0.1 seldos.com.tr
+127.0.0.1 semasio.net
 127.0.0.1 serve-sys.com
 127.0.0.1 serving-sys.com
 127.0.0.1 setting.adzcore.com
@@ -859,6 +859,7 @@
 127.0.0.1 statcounter.com
 127.0.0.1 stathat.com
 127.0.0.1 static-ads.akamaized.net
+127.0.0.1 static.criteo.net
 127.0.0.1 static.everyplay.com
 127.0.0.1 statistics.daktilo.com
 127.0.0.1 stats.acunn.com
