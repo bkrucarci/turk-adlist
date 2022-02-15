@@ -7,6 +7,8 @@
 ! ----------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
 ! ----------------------------------------------------
+##.yatay-reklam
+##.dikey-reklam
 ###adpro-1
 ###adpro-2
 ###adpro-3
@@ -140,6 +142,8 @@
 /image/ad/
 /images/ad/
 /reklam/
+/advert/
+/Advertisement/
 ||adserve.donanimhaber.com/ads/
 ||www.720p-fullizleme.com/rek
 ! --------------------------------------------------------------
@@ -208,6 +212,9 @@
 ! -------------------------------------------------------
 ! Sosyal Medya Kuralları - Social Media Rules
 ! -------------------------------------------------------
+###share
+##.sociaPayLasim
+##.social_group
 ###fbPaylasCont
 ###share-bar
 ###sp_message_container_575429
