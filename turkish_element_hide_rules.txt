@@ -7,6 +7,7 @@
 ! ----------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
 ! ----------------------------------------------------
+##.masthead_detail
 ##.yatay-reklam
 ##.dikey-reklam
 ###adpro-1
@@ -145,10 +146,13 @@
 /advert/
 /Advertisement/
 ||adserve.donanimhaber.com/ads/
-||www.720p-fullizleme.com/rek
+||www.720p-fullizleme.com/rek/
 ! --------------------------------------------------------------
 ! Çerez Genel Kuralları - Cookie Rules
 ! --------------------------------------------------------------
+##.ems-cookie-bnr
+##.CookieLink
+##.wd-cookies-popup
 ###CybotCookiebotDialog
 ###cboxContent
 ###cerekKullanimUyari
@@ -212,6 +216,15 @@
 ! -------------------------------------------------------
 ! Sosyal Medya Kuralları - Social Media Rules
 ! -------------------------------------------------------
+##.js-sticky-block
+##.share-space
+##.share-svg
+##.interaction-share
+##.product-card__share
+##.product-social
+##.m-socialMedia
+##.product__helper--share
+##.shareBtns
 ###share
 ##.sociaPayLasim
 ##.social_group
@@ -291,4 +304,5 @@
 ##[href^="https://www.linkedin.com/cws/share"]
 ##[src="tema/facebook.gif"]
 /_iframe/haber_paylas_kutular.php
+/sharer.js
 ||www.facebook.com/plugins/like.php$subdocument
