@@ -4,12 +4,11 @@
 !
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 !
+! Version : 1.0.0.1
+!
 ! ----------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
 ! ----------------------------------------------------
-##.masthead_detail
-##.yatay-reklam
-##.dikey-reklam
 ###adpro-1
 ###adpro-2
 ###adpro-3
@@ -86,11 +85,13 @@
 ##.col-adv.item
 ##.detail-first-ad
 ##.detail-second-ad
+##.dikey-reklam
 ##.headerad
 ##.home-masthead-adv
 ##.inner-right-ad-300
 ##.js.ad-channel
 ##.masthead-adv.adv-height250
+##.masthead_detail
 ##.pgskn > [href="/pagereklam"]
 ##.pop-banner
 ##.position-fixed.reklam
@@ -116,6 +117,7 @@
 ##.top-banner
 ##.werbung
 ##.x-comet-dialog-visible
+##.yatay-reklam
 ##[href^="/showad.asp"]
 ##a[href^="http://popup.taboola.com/"]
 ##a[href^="http://pubads.g.doubleclick.net/gampad/clk"]
@@ -140,19 +142,16 @@
 ##iframe[src^="https://pagead2.googlesyndication.com/"]
 ##iframe[src^="https://tpc.googlesyndication.com/"]
 ##span[title="Ads by Google"]
+/Advertisement/
+/ads/
+/advert/
 /image/ad/
 /images/ad/
+/rek/
 /reklam/
-/advert/
-/Advertisement/
-||adserve.donanimhaber.com/ads/
-||www.720p-fullizleme.com/rek/
 ! --------------------------------------------------------------
 ! Çerez Genel Kuralları - Cookie Rules
 ! --------------------------------------------------------------
-##.ems-cookie-bnr
-##.CookieLink
-##.wd-cookies-popup
 ###CybotCookiebotDialog
 ###cboxContent
 ###cerekKullanimUyari
@@ -165,6 +164,7 @@
 ###cookienotice
 ###cookiepolicy
 ###js-hook-cookie-policy-banner
+##.CookieLink
 ##.active.policy
 ##.active.type1.widget-cookie-popup
 ##.alerttt
@@ -190,6 +190,7 @@
 ##.cookieNotification
 ##.cookie__card
 ##.cookies
+##.ems-cookie-bnr
 ##.info-cookie.message
 ##.info.alert
 ##.kvkkpop
@@ -211,24 +212,14 @@
 ##.tibrr-cookie-consent-container
 ##.veriAltBar
 ##.vl-notif-inner
+##.wd-cookies-popup
 ##.wpcc-container
 ##efilli-riza
 ! -------------------------------------------------------
 ! Sosyal Medya Kuralları - Social Media Rules
 ! -------------------------------------------------------
-##.js-sticky-block
-##.share-space
-##.share-svg
-##.interaction-share
-##.product-card__share
-##.product-social
-##.m-socialMedia
-##.product__helper--share
-##.shareBtns
-###share
-##.sociaPayLasim
-##.social_group
 ###fbPaylasCont
+###share
 ###share-bar
 ###sp_message_container_575429
 ##.SocialMediaShareButton
@@ -255,14 +246,20 @@
 ##.google-share-btn
 ##.grv-dialog-host
 ##.hs-social-block
+##.interaction-share
 ##.js-share-button
+##.js-sticky-block
 ##.jssocials-shares
 ##.linkedin.btn
+##.m-socialMedia
 ##.news-share
 ##.news-social-media-bar
 ##.panel-sosyal
 ##.paylas
 ##.post_share
+##.product-card__share
+##.product-social
+##.product__helper--share
 ##.scl
 ##.share
 ##.share-area
@@ -271,10 +268,14 @@
 ##.share-buttons
 ##.share-fixed
 ##.share-post-link
+##.share-space
+##.share-svg
+##.shareBtns
 ##.share__link
 ##.share_bar
 ##.sharing
 ##.sharing-container
+##.sociaPayLasim
 ##.social
 ##.social-buttons
 ##.social-icon-container
@@ -286,6 +287,7 @@
 ##.social-media-follow
 ##.social-share
 ##.social-shares
+##.social_group
 ##.social_link
 ##.socialfooter
 ##.sosyal
