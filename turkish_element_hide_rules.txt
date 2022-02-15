@@ -4,7 +4,7 @@
 !
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 !
-! Version : 1.0.0.2 - 15.02.2022
+! Version : 1.0.0.3 - 15.02.2022
 !
 ! ----------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -69,6 +69,7 @@
 ##.adsbox__item
 ##.adsbygoogle
 ##.adspace
+##.adtech
 ##.adv
 ##.adv-300
 ##.adv-600
@@ -83,6 +84,7 @@
 ##.altReklam
 ##.ap-728x90
 ##.ara-reklam-wrapper
+##.arareklam_inarticle
 ##.arka-reklam
 ##.article-oads
 ##.bandReklam
@@ -91,6 +93,7 @@
 ##.banner_code
 ##.billBoardFrame
 ##.body-clickable
+##.boxOverContent__banner
 ##.btbg
 ##.center.adv
 ##.centered-banner
@@ -132,6 +135,7 @@
 ##.rkm
 ##.sag-kule-ad
 ##.sagkulereklam
+##.seoAdWrapper
 ##.sidebar-banner
 ##.sidebarreklam
 ##.sponsored
@@ -139,6 +143,7 @@
 ##.thb-ad
 ##.top-banner
 ##.werbung
+##.widget-gdpr-banner
 ##.x-comet-dialog-visible
 ##.yatay-reklam
 ##[href^="/showad.asp"]
@@ -253,6 +258,7 @@
 ###share
 ###share-bar
 ###sp_message_container_575429
+###tooplay_share_0_0
 ##.SocialMediaShareButton
 ##.SocialTools
 ##.addthis_inline_share_toolbox
@@ -273,6 +279,7 @@
 ##.flipboard
 ##.generalAnnounce.popin
 ##.google-news
+##.google-news-button
 ##.google-news_wrapper
 ##.google-share-btn
 ##.grv-dialog-host
@@ -327,6 +334,7 @@
 ##.td-post-sharing-bottom
 ##.td-post-sharing-top
 ##.tw
+##.twitter-follow-button
 ##.twitter-share-button
 ##.twitter.btn
 ##.twt
