@@ -4,7 +4,7 @@
 !
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 !
-! Version : 1.0.0.1
+! Version : 1.0.0.2 - 15.02.2022
 !
 ! ----------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -19,17 +19,21 @@
 ###adpro-8
 ###adpro-9
 ###adpro-10
+###advancenative
 ###altreklam
 ###arkaplanreklam
+###backreklam
 ###haber_detay_ic_reklam_
 ###left-ad
 ###masterpage_reklam_
 ###masthead-reklam
 ###onetrust-consent-sdk
+###pageSkinReklam
 ###rek1
 ###rek2
 ###rek3
 ###reklam
+###reklam1
 ###reklam_sag
 ###reklam_sol
 ###reklamlar
@@ -44,6 +48,7 @@
 ###ustReklam
 ###ustreklam
 ##.Advertisement
+##.ReklamiKapat
 ##.ad
 ##.ad-desktop
 ##.ad-with-border
@@ -54,6 +59,9 @@
 ##.adpro
 ##.ads
 ##.ads-zone
+##.adsWidgetSidebar
+##.ads_kare
+##.ads_kule
 ##.adsbox
 ##.adsbox--masthead.adsbox
 ##.adsbox--square
@@ -72,13 +80,17 @@
 ##.advers-box
 ##.advert
 ##.all-header-reklam
+##.altReklam
 ##.ap-728x90
 ##.ara-reklam-wrapper
+##.arka-reklam
 ##.article-oads
 ##.bandReklam
 ##.baner300x250
 ##.banner-300x250
+##.banner_code
 ##.billBoardFrame
+##.body-clickable
 ##.btbg
 ##.center.adv
 ##.centered-banner
@@ -86,23 +98,32 @@
 ##.detail-first-ad
 ##.detail-second-ad
 ##.dikey-reklam
+##.footer-sticky
 ##.headerad
 ##.home-masthead-adv
+##.hreklam
+##.iframe_ad
 ##.inner-right-ad-300
 ##.js.ad-channel
 ##.masthead-adv.adv-height250
 ##.masthead_detail
+##.news-ads
 ##.pgskn > [href="/pagereklam"]
 ##.pop-banner
 ##.position-fixed.reklam
 ##.quads-ad2
 ##.rek-wrap
 ##.reklam
+##.reklam-haber-ici
+##.reklam-header
 ##.reklam-kare
 ##.reklam-masthead
 ##.reklam-sec
+##.reklam-serit
 ##.reklamContent
+##.reklam_sag
 ##.reklam_siteustu
+##.reklam_sol
 ##.reklamkodumsag
 ##.reklamkodumsol
 ##.reklamsol-ic
@@ -112,6 +133,8 @@
 ##.sag-kule-ad
 ##.sagkulereklam
 ##.sidebar-banner
+##.sidebarreklam
+##.sponsored
 ##.tepe-banner
 ##.thb-ad
 ##.top-banner
@@ -123,14 +146,19 @@
 ##a[href^="http://pubads.g.doubleclick.net/gampad/clk"]
 ##div[class*="-reklam"]
 ##div[class*="reklamlar"]
+##div[class*="sponsored-news-recommendation"]
+##div[class^="Advertisement"]
 ##div[class^="ad-"]
 ##div[class^="ads-"]
+##div[class^="advert_"]
 ##div[class^="banner"]
 ##div[class^="banner-"]
 ##div[class^="reklam"]
 ##div[class^="reklam-"]
+##div[class^="reklam-alani"]
 ##div[class^="sagBanner"]
 ##div[class^="solBanner"]
+##div[class^="spnsr"]
 ##div[class^="yataybanner"]
 ##div[id^="SagReklam"]
 ##div[id^="SolReklam"]
@@ -143,12 +171,15 @@
 ##iframe[src^="https://tpc.googlesyndication.com/"]
 ##span[title="Ads by Google"]
 /Advertisement/
+/Reklam/
 /ads/
 /advert/
 /image/ad/
 /images/ad/
 /rek/
 /reklam/
+/rklm/
+/spnsr/
 ! --------------------------------------------------------------
 ! Çerez Genel Kuralları - Cookie Rules
 ! --------------------------------------------------------------
