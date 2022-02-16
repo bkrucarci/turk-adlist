@@ -4,7 +4,7 @@
 !
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 !
-! Version : 1.0.0.3 - 15.02.2022
+! Version : 1.0.0.4 - 16.02.2022
 !
 ! ----------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -20,6 +20,7 @@
 ###adpro-9
 ###adpro-10
 ###advancenative
+###advertising_billboard
 ###altreklam
 ###arkaplanreklam
 ###backreklam
@@ -33,6 +34,7 @@
 ###rek2
 ###rek3
 ###reklam
+###reklam-sag
 ###reklam1
 ###reklam_sag
 ###reklam_sol
@@ -52,12 +54,14 @@
 ##.ad
 ##.ad-desktop
 ##.ad-with-border
+##.adBanner
 ##.adControl
 ##.adInitRemove.ads
 ##.adbImg
 ##.add-banner
 ##.adpro
 ##.ads
+##.ads-box-news
 ##.ads-zone
 ##.adsWidgetSidebar
 ##.ads_kare
@@ -80,6 +84,7 @@
 ##.adv300250
 ##.advers-box
 ##.advert
+##.advertisement
 ##.all-header-reklam
 ##.altReklam
 ##.ap-728x90
@@ -102,12 +107,14 @@
 ##.detail-second-ad
 ##.dikey-reklam
 ##.footer-sticky
+##.header-banner
 ##.headerad
 ##.home-masthead-adv
 ##.hreklam
 ##.iframe_ad
 ##.inner-right-ad-300
 ##.js.ad-channel
+##.konuiciReklam
 ##.masthead-adv.adv-height250
 ##.masthead_detail
 ##.news-ads
@@ -115,6 +122,7 @@
 ##.pop-banner
 ##.position-fixed.reklam
 ##.quads-ad2
+##.rek
 ##.rek-wrap
 ##.reklam
 ##.reklam-haber-ici
@@ -124,11 +132,14 @@
 ##.reklam-sec
 ##.reklam-serit
 ##.reklamContent
+##.reklamKodu
 ##.reklam_sag
 ##.reklam_siteustu
 ##.reklam_sol
+##.reklamcover
 ##.reklamkodumsag
 ##.reklamkodumsol
+##.reklamkutu
 ##.reklamsol-ic
 ##.rk
 ##.rkads
@@ -138,6 +149,7 @@
 ##.seoAdWrapper
 ##.sidebar-banner
 ##.sidebarreklam
+##.singleAd2
 ##.sponsored
 ##.tepe-banner
 ##.thb-ad
@@ -149,7 +161,9 @@
 ##[href^="/showad.asp"]
 ##a[href^="http://popup.taboola.com/"]
 ##a[href^="http://pubads.g.doubleclick.net/gampad/clk"]
+##a[href^="https://bit.ly/"]
 ##div[class*="-reklam"]
+##div[class*="Reklam_"]
 ##div[class*="reklamlar"]
 ##div[class*="sponsored-news-recommendation"]
 ##div[class^="Advertisement"]
@@ -176,9 +190,12 @@
 ##iframe[src^="https://tpc.googlesyndication.com/"]
 ##span[title="Ads by Google"]
 /Advertisement/
+/Banner/
 /Reklam/
+/_ads/
 /ads/
 /advert/
+/detay-reklam.js
 /image/ad/
 /images/ad/
 /rek/
@@ -188,6 +205,7 @@
 ! --------------------------------------------------------------
 ! Çerez Genel Kuralları - Cookie Rules
 ! --------------------------------------------------------------
+###CerezPopupBox
 ###CybotCookiebotDialog
 ###cboxContent
 ###cerekKullanimUyari
@@ -249,6 +267,7 @@
 ##.veriAltBar
 ##.vl-notif-inner
 ##.wd-cookies-popup
+##.widget-cookie-banner
 ##.wpcc-container
 ##efilli-riza
 ! -------------------------------------------------------
@@ -257,10 +276,13 @@
 ###fbPaylasCont
 ###share
 ###share-bar
+###shareButton
+###share_link
 ###sp_message_container_575429
 ###tooplay_share_0_0
 ##.SocialMediaShareButton
 ##.SocialTools
+##.a2a_kit
 ##.addthis_inline_share_toolbox
 ##.addthis_sharing_toolbox
 ##.at-share-btn-elements
@@ -298,6 +320,8 @@
 ##.product-card__share
 ##.product-social
 ##.product__helper--share
+##.product_social_icon_wrapper
+##.safirShare
 ##.scl
 ##.share
 ##.share-area
@@ -305,6 +329,7 @@
 ##.share-bar
 ##.share-buttons
 ##.share-fixed
+##.share-friends
 ##.share-post-link
 ##.share-space
 ##.share-svg
@@ -330,6 +355,7 @@
 ##.socialfooter
 ##.sosyal
 ##.sosyalhaber
+##.sshare
 ##.subscribe-google-news
 ##.td-post-sharing-bottom
 ##.td-post-sharing-top
@@ -345,5 +371,6 @@
 ##[href^="https://www.linkedin.com/cws/share"]
 ##[src="tema/facebook.gif"]
 /_iframe/haber_paylas_kutular.php
+/jssocials.min.js
 /sharer.js
 ||www.facebook.com/plugins/like.php$subdocument
