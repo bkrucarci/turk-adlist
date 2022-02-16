@@ -100,7 +100,6 @@
 ##.body-clickable
 ##.boxOverContent__banner
 ##.btbg
-##.btbg
 ##.center.adv
 ##.centered-banner
 ##.col-adv.item
@@ -170,7 +169,6 @@
 ##div[class^="Advertisement"]
 ##div[class^="ad-"]
 ##div[class^="ads-"]
-##div[class^="advert_"]
 ##div[class^="advert_"]
 ##div[class^="banner"]
 ##div[class^="banner-"]
