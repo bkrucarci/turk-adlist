@@ -26,7 +26,7 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
   + AdGuard Sosyal Medya Filtresi,
   + AdGuard Can Sıkıcı Öğeler Filtresi,
   + AdGuard Türkçe Filtresini etkinleştirin.
-  + Ayrıca benim oluşturduğum [deneysel filtreyi](https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/turkish_element_hide_rules.txt) de "Özel" filtre kısmına ekleyerek kullanabilirsiniz.
+  + Ayrıca benim oluşturduğum [deneysel filtreyi](https://github.com/bkrucarci/turk-adlist/blob/master/filters/turkish_generic_content_blocker.txt) de "Özel" filtre kısmına ekleyerek kullanabilirsiniz.
   + Filtreleri güncelle butonuna basın ve güle güle kullanın.
 
 #### Ufak bir hediye! Ekstra gizlilik ve güvenlik için tarayıcılarınıza [HTTPS Everywhere](https://www.eff.org/https-everywhere) ve [Privacy Badger](https://privacybadger.org/) eklentilerini de öneriyorum
