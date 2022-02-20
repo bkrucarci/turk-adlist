@@ -1,10 +1,9 @@
 ! Homepage / Anasayfa : https://github.com/bkrucarci/turk-adlist/
 ! 
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
-!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
-!
-! Version : 1.0.0.5 - 20.02.2022
+! 
+! Version : 1.0.0.6 - 20.02.2022
 !
 ! ----------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -49,18 +48,21 @@
 ###solreklam
 ###ustReklam
 ###ustreklam
+##.Advertisement
+##.ReklamiKapat
 ##.ad
 ##.ad-desktop
 ##.ad-with-border
 ##.adBanner
-##.adbImg
 ##.adControl
-##.add-banner
 ##.adInitRemove.ads
+##.adbImg
+##.add-banner
 ##.adpro
 ##.ads
 ##.ads-box-news
 ##.ads-zone
+##.adsWidgetSidebar
 ##.ads_kare
 ##.ads_kule
 ##.adsbox
@@ -70,19 +72,17 @@
 ##.adsbox__item
 ##.adsbygoogle
 ##.adspace
-##.adsWidgetSidebar
 ##.adtech
 ##.adv
-##.adv300250
 ##.adv-300
 ##.adv-600
-##.adv-height90
 ##.adv-height250
+##.adv-height90
 ##.adv-masthead
 ##.adv-taboola-in-article
+##.adv300250
 ##.advers-box
 ##.advert
-##.Advertisement
 ##.advertisement
 ##.all-header-reklam
 ##.altReklam
@@ -131,13 +131,12 @@
 ##.reklam-masthead
 ##.reklam-sec
 ##.reklam-serit
+##.reklamContent
+##.reklamKodu
 ##.reklam_sag
 ##.reklam_siteustu
 ##.reklam_sol
-##.reklamContent
 ##.reklamcover
-##.ReklamiKapat
-##.reklamKodu
 ##.reklamkodumsag
 ##.reklamkodumsol
 ##.reklamkutu
@@ -171,10 +170,10 @@
 ##div[class*="Reklam_"]
 ##div[class*="reklamlar"]
 ##div[class*="sponsored-news-recommendation"]
+##div[class^="Advertisement"]
 ##div[class^="ad-"]
 ##div[class^="ads-"]
 ##div[class^="advert_"]
-##div[class^="Advertisement"]
 ##div[class^="banner"]
 ##div[class^="banner-"]
 ##div[class^="reklam"]
@@ -184,26 +183,26 @@
 ##div[class^="solBanner"]
 ##div[class^="spnsr"]
 ##div[class^="yataybanner"]
+##div[id^="SagReklam"]
+##div[id^="SolReklam"]
 ##div[id^="div-gpt-"]
 ##div[id^="musthead"]
 ##div[id^="reklam"]
 ##div[id^="reklam-"]
-##div[id^="SagReklam"]
-##div[id^="SolReklam"]
 ##iframe[id^="google_ads_frame"]
 ##iframe[src^="https://pagead2.googlesyndication.com/"]
 ##iframe[src^="https://tpc.googlesyndication.com/"]
 ##span[title="Ads by Google"]
+/Advertisement/
+/Banner/
+/Reklam/
 /_ads/
 /ads/
 /advert/
-/Advertisement/
-/Banner/
 /detay-reklam.js
 /image/ad/
 /images/ad/
 /rek/
-/Reklam/
 /reklam/
 /rklm/
 /spnsr/
@@ -211,10 +210,12 @@
 ! Çerez Genel Kuralları - Cookie Rules
 ! --------------------------------------------------------------
 ###CerezPopupBox
+###CookieNotificationArea
 ###CybotCookiebotDialog
 ###cboxContent
 ###cerekKullanimUyari
 ###cmc-cookie-policy-banner
+###cookie-box
 ###cookie-info-container
 ###cookie-law-info-bar
 ###cookie-policy-app
@@ -223,8 +224,7 @@
 ###cookienotice
 ###cookiepolicy
 ###js-hook-cookie-policy-banner
-###cookie-box
-###CookieNotificationArea
+##.CookieLink
 ##.active.policy
 ##.active.type1.widget-cookie-popup
 ##.alerttt
@@ -247,10 +247,9 @@
 ##.cookie-policy-container
 ##.cookie-text
 ##.cookie.box
-##.cookie__card
 ##.cookieConsentContainer
-##.CookieLink
 ##.cookieNotification
+##.cookie__card
 ##.cookies
 ##.efilli-riza
 ##.ems-cookie-bnr
@@ -284,13 +283,15 @@
 ! Sosyal Medya Kuralları - Social Media Rules
 ! -------------------------------------------------------
 ###fbPaylasCont
+###newsletterSubscriptionForm
 ###paylasim1
 ###share
 ###share-bar
-###share_link
 ###shareButton
+###share_link
 ###sp_message_container_575429
 ###tooplay_share_0_0
+##.PaylasimAlani
 ##.SocialMediaShareButton
 ##.SocialTools
 ##.a2a_kit
@@ -298,11 +299,13 @@
 ##.addthis_sharing_toolbox
 ##.at-share-btn-elements
 ##.box-share
+##.breadcrumb__google-news
 ##.c-socials
 ##.cb-socials
 ##.content-share
 ##.crunchify-social
 ##.desktop-social
+##.detail-google-news
 ##.detail-google-news
 ##.entry-share
 ##.face
@@ -314,6 +317,8 @@
 ##.generalAnnounce.popin
 ##.google-news
 ##.google-news-button
+##.google-news-button
+##.google-news_wrapper
 ##.google-news_wrapper
 ##.google-share-btn
 ##.grv-dialog-host
@@ -325,11 +330,11 @@
 ##.jssocials-shares
 ##.linkedin.btn
 ##.m-socialMedia
+##.news-detail__info__google-news
 ##.news-share
 ##.news-social-media-bar
 ##.panel-sosyal
 ##.paylas
-##.PaylasimAlani
 ##.paylasText
 ##.post_share
 ##.product-card__share
@@ -348,14 +353,15 @@
 ##.share-post-link
 ##.share-space
 ##.share-svg
+##.shareBtns
+##.shareTitle
 ##.share__link
 ##.share_bar
 ##.share_detail
-##.shareBtns
-##.shareTitle
 ##.sharing
 ##.sharing-container
 ##.smlIconSet
+##.sociaPayLasim
 ##.social
 ##.social-buttons
 ##.social-icon-container
@@ -371,7 +377,6 @@
 ##.social_group
 ##.social_link
 ##.socialfooter
-##.sociaPayLasim
 ##.sosyal
 ##.sosyalhaber
 ##.sshare
