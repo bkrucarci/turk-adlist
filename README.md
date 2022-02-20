@@ -1,6 +1,6 @@
 ## bkrucarci turk-adlist
 Açıklama:       Türkçe sitelerde reklamları, rahatsız edici öğeleri engellemek için reklam sunucuları listesi ve reklam engelleme listeleri  
-Explanation:    Ad servers list and ad blocking lists to block ads, annoying elements on Turkish sites (for use with hosts files)
+Explanation:    Ad servers list and annoying elements blocking list to block ads and annoying elements on Turkish sites
 
 ## Neden bu listeyi oluşturdum?
 
@@ -26,10 +26,12 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
   + AdGuard Sosyal Medya Filtresi,
   + AdGuard Can Sıkıcı Öğeler Filtresi,
   + AdGuard Türkçe Filtresini etkinleştirin.
-Filtreleri güncelle butonuna basın ve güle güle kullanın.
+  + Ayrıca benim oluşturduğum [deneysel filtreyi](https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/turkish_element_hide_rules.txt) de "Özel" filtre kısmına ekleyerek kullanabilirsiniz.
+  + Filtreleri güncelle butonuna basın ve güle güle kullanın.
 
 #### Ufak bir hediye! Ekstra gizlilik ve güvenlik için tarayıcılarınıza [HTTPS Everywhere](https://www.eff.org/https-everywhere) ve [Privacy Badger](https://privacybadger.org/) eklentilerini de öneriyorum
 
+---
 ### Windows
 - https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresinden listenin tamamını kopyalayın.
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumuna ilerleyin ve hosts dosyasını bulun.
@@ -48,6 +50,7 @@ Filtreleri güncelle butonuna basın ve güle güle kullanın.
 
 NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Böyle bir amacımız yok. Amacımız tarayıcımıza ve ağımıza binen reklam yükünü elimizden geldikçe azaltmak ve sayfaların daha hızlı yüklenmesini sağlamaktır. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda reklam engelleyici kullanarak etkin bir şekilde element filtrelemesi de yapabilirsiniz.
 
+---
 ## Android 
 
 ### Android için AdGuard (ÜCRETLİ)
@@ -55,12 +58,12 @@ NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. B
 Android için AdGuard yazılımı bu konuda en iyisi denilebilir. Ücretli (Premium) sürümde birçok filtre kullanma imkanı size sunuyor ve daha gelişmiş bir reklam engelleme teknolojisi kullanıyor. Dediğim gibi bu uygulama ücretlidir ve [Google reklam politikalarının işine gelmedeği için Google Play'den kaldırılmıştır](https://adguard.com/en/blog/google-removes-adguard-android-app-google-play.html).
 + [Android için AdGuard](https://adguard.com/tr/adguard-android/overview.html)
 + Kurulum ve kullanımı kolaydır, ROOT gerektirmez.
-+ 14 gün ücretsiz bir şekilde tam sürümü deneyebilirsiniz,
++ 7 gün boyunca ücretsiz bir şekilde tam sürümü deneyebilirsiniz.
 + Ayarlardan istediğiniz filtreleri (yukarıdaki filtrelerin aynılarını) etkinleştirebilirsiniz.
 + Filtreleme yöntemini "Yüksek Kaliteli" yapın.
 + HTTPS kullanan reklam ağlarını ve uygulama içi reklamları (Oyun reklamları vb) engelleyebilir.
 
-### DNS66 (Ücretsiz - Cihaz 'ROOTLU' değilse)
+### DNS66 (Ücretsiz - Cihaz 'ROOTSUZ' ise)
 
 Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu garanti kapsamı dışına çıkarabilir. Telefonunuz root edilmemiş ise aşağıdaki adımlarla reklamları engelleyebilirsiniz.
 
@@ -87,5 +90,6 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 - https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
 - Ana menüye dönün güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
 
+---
 ## Uyarı - Disclaimer
 Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz! Bu makaleyi kopyalayabilir, istediğiniz gibi düzenleyip yeniden paylaşabilirsiniz.
