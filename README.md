@@ -1,10 +1,10 @@
 ## bkrucarci turk-adlist
-Açıklama:       Türkçe sitelerde reklamları engellemek için reklam sunucuları listesi  
-Explanation:    Ad servers list to block ads on Turkish websites (for use with hosts files)
+Açıklama:       Türkçe sitelerde reklamları, rahatsız edici öğeleri engellemek için reklam sunucuları listesi ve reklam engelleme listeleri  
+Explanation:    Ad servers list and ad blocking lists to block ads, annoying elements on Turkish sites (for use with hosts files)
 
 ## Neden bu listeyi oluşturdum?
 
-Asıl amaç reklam engelleme konusunda bir farkındalık oluşturmaktır. Reklamları engellemek sadece görsel olarak değil, güvenlik & gizlilik anlamında da sizi gözetir.
+Asıl amaç reklam engelleme konusunda bir farkındalık oluşturmaktır. Reklamları engellemek sadece görsel olarak değil, güvenlik ve gizlilik anlamında da sizi gözetir.
 Reklamlar ve reklam ağları çoğunlukla zararlı yazılım yaymak için kullanılıyor. Reklamları engelleyerek gerçek içeriğe ulaşırken gizliliğinizi koruyun ve zararlı yazılımları cihazınızdan uzak tutun.
 
 ![İnternet Kullanıcısını Bezdiren Sebepler](https://user-images.githubusercontent.com/15933805/146762673-930e2959-ece2-4788-9c89-a3b29dd5fbf5.jpg)
@@ -15,14 +15,14 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 
 ### İnternet Tarayıcıları
 
-İnternet tarayıcıları için birçok reklam engelleme eklentisi mevcut. Bu aşamada benim filtremden daha güçlü olan ve Türkçe filtresi olan [AdGuard Reklam Engelleyici Eklentisini](https://adguard.com/tr/adguard-browser-extension/overview.html) kullanmanızı tavsiye ederim. AdGuard'ın diğer uygulamalarının aksine tarayıcı eklentisi açık kaynak kodlu ve ücretsizdir. Tüm popüler tarayıcılar ile uyumludur. (Chrome - Firefox - Opera - Safari - Edge - Yandex vb.)
+İnternet tarayıcıları için birçok reklam engelleme eklentisi mevcut. Bu aşamada benim filtremden daha güçlü olan ve Türkçe filtresi olan [AdGuard Reklam Engelleyici Eklentisini](https://adguard.com/tr/adguard-browser-extension/overview.html) kullanmanızı tavsiye ederim. AdGuard'ın diğer uygulamalarının aksine tarayıcı eklentisi açık kaynak kodlu ve ücretsizdir. Tüm popüler tarayıcılar ile uyumludur. (Chrome - Firefox - Opera - Safari - Edge - Yandex - vb.)
 
 - Yukarıdaki bağlantıya ilerleyin ve kullandığınız internet tarayıcısının simgesine tıklayın.
 - Tıkladıktan sonra hemen altında ortaya çıkan "İNDİR" butonuna tıklayın.
 - Tarayıcınızın eklenti mağazasından AdGuard eklentisini tarayıcınıza ekleyin ve kurulumun bitmesini bekleyin.
 - Eklenti kurulduktan sonra eklentinin ayarlar bölümüne gidin,
   + AdGuard Temel Filtresi,
-  + AdGuard Takip Engelleme Filtresi,
+  + AdGuard İzleme Koruması Filtresi,
   + AdGuard Sosyal Medya Filtresi,
   + AdGuard Can Sıkıcı Öğeler Filtresi,
   + AdGuard Türkçe Filtresini etkinleştirin.
