@@ -1,0 +1,96 @@
+! bkrucarci I-Do-Not-Want-Your-Mobile-App List
+!
+! Description: This list aims to remove of mobile application banners, offers etc. No one, at least me, wants your app on their phones, tablets while they can view the site in browser!
+! EXPERIMENTAL!!! This list contains lots of generic rules to be light as possible. So expect some false blockings! You can submit your related findings in issues section. 
+!
+! Homepage: https://github.com/bkrucarci/turk-adlist
+! Version: 1.0.0.0
+!
+! --------------
+! Generic Rules
+! --------------
+##.android_link
+##.app
+##.app-appstore
+##.app-download
+##.appStore
+##.app__markets
+##.apple-store
+##.application
+##.apps-markets
+##.appstore
+##.best-buy-app
+##.f-apps
+##.fa-apple.fab
+##.fa-google-play.fab
+##.footer-apps
+##.footer-icons-store-items
+##.footer-market-link
+##.foreks-trader
+##.gf-apps
+##.gf-apps__head
+##.google-apple-btns
+##.googlePlay
+##.googleplay.gf-apps__link
+##.huaweiPhone
+##.huaweiappgallery
+##.icon-app-store
+##.icon-apple-store
+##.icon-google-play
+##.iconLogoAppGallery
+##.iconLogoAppStore
+##.iconLogoGoogStore
+##.icons-mobil
+##.ios
+##.ios_link
+##.ios_v8
+##.mobile-applications
+##.mobile-apps
+##.mobile-buttons
+##.mobile-download-badges
+##.mobile.hbFooter
+##.nsn-footer-download-from-stores-area
+##.redirectToDownloadApp.popup
+##.selfPromo__box--apps.selfPromo__box
+##.selfPromo__wrapper--stores
+##.selfPromo__wrapper--texts
+##.social-share-all-index
+##.stores.row
+##.wds-is-fandom-apps
+##.wds-is-fandom-stores
+##[href^="https://appgallery.cloud.huawei.com/"]
+##[href^="https://play.google.com/store/apps/details"]
+/app-store-badge-*.svg
+/app-store.png
+/app_icon_*.png
+/apple-market.png
+/apps.png
+/appstore.png
+/appstorebanner.png
+! ---------------------------------------------
+! Following websites NOT allowed to be generic
+! ---------------------------------------------
+bilyoner.com##.footer__top__apps
+aa.com.tr##.text-sm-center.mb-3.text-md-left.mb-md-0.mx-auto.col-xl-3.col-lg-3.col-md-3
+birebin.com##[href="/iddaa-mobil-uygulamalar"]
+birgun.net##.main-footer__support
+evrensel.net##.bg-email-sub > div.container > .row > .col-md-4
+flashscore.com.tr##.footer__identityScreen
+fotomac.com.tr##[href^="https://itunes.apple.com/tr/app/fotomac/id647219944"]
+haberaktuel.com##[href="https://itunes.apple.com/tr/app/haber-aktuel/id795844036"]
+iddaa.com##.MobileApplication-sc-oenj51-10
+milligazete.com.tr##div.item-list.item:nth-of-type(2)
+misli.com##div.pb-20.mb-20.footerBlock:nth-of-type(1)
+odatv4.com##div.footer-c.col-md-3.col-sm-6:nth-of-type(3)
+sondakika.com##.footer-cls
+sozcu.com.tr##.mb-4.col-lg-3 > div.mb-2
+sporx.com##[href^="https://itunes.apple.com/tr/app/sporx-spor-haber-canl%C4%B1-skor/id649802640"]
+tuttur.com##.footerContentDownloads
+||www.sporx.com/_img/app/*.png
+www.blutv.com##a.footer-item.jsx-1449111430:nth-of-type(3)
+www.blutv.com##a.footer-item.jsx-1449111430:nth-of-type(1)
+||cdn.dolap.com/web/images/img-1v2.jpg$image
+dolap.com##.billboard-banner.hidden-xs.visual
+www.gittigidiyor.com##.jOxulb.sc-1yvp483-0
+www.koctas.com.tr##.other-platforms
+www.yeniakit.com.tr##[href="https://www.yeniakit.com.tr/kurumsal/uygulama"]
