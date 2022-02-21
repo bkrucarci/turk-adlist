@@ -1,6 +1,5 @@
 [Adblock Plus 3.6]
-! Title: "I Do Not Want Your Mobile App" List
-! bkrucarci I-Do-Not-Want-Your-Mobile-App List
+! Title: 'I Do Not Want Your Mobile App' List
 ! Homepage: https://github.com/bkrucarci/turk-adlist
 ! Version: 1.0.0.0
 !
