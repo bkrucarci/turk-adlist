@@ -24,6 +24,7 @@
 ##.fa-apple.fab
 ##.fa-google-play.fab
 ##.footer-apps
+##.footer-app-buttons
 ##.footer-icons-store-items
 ##.footer-market-link
 ##.foreks-trader
@@ -54,6 +55,7 @@
 ##.selfPromo__box--apps.selfPromo__box
 ##.selfPromo__wrapper--stores
 ##.selfPromo__wrapper--texts
+##.sf-download-app
 ##.social-share-all-index
 ##.stores.row
 ##.wds-is-fandom-apps
