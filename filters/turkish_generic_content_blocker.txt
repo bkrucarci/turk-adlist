@@ -3,7 +3,7 @@
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.0.10 - 22.02.2022
+! Version : 1.0.0.11 - 22.02.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -28,6 +28,7 @@
 ###left-ad
 ###masterpage_reklam_
 ###masthead-reklam
+###nme-ad-98274379510191730
 ###onetrust-consent-sdk
 ###pageSkinReklam
 ###rek1
@@ -60,6 +61,8 @@
 ##.adControl
 ##.adInitRemove
 ##.adInitRemove.ads
+##.adRenderer
+##.adRendererInfinite
 ##.adbImg
 ##.add-banner
 ##.adpro
@@ -122,6 +125,7 @@
 ##.lazy_ads
 ##.masthead-adv.adv-height250
 ##.masthead_detail
+##.mvp-widget-ad
 ##.news-ads
 ##.pgskn > [href="/pagereklam"]
 ##.pop-banner
@@ -222,6 +226,7 @@ mail.google.com#@#.ads
 ! Sosyal Medya Kuralları - Social Media Rules
 ! ---------------------------------------------------------
 ###fbPaylasCont
+###mvp-post-soc-wrap
 ###newsletterSubscriptionForm
 ###paylasim1
 ###paylasimbutonlari
@@ -241,6 +246,7 @@ mail.google.com#@#.ads
 ##.a2a_kit
 ##.addthis_inline_share_toolbox
 ##.addthis_sharing_toolbox
+##.article_social_share
 ##.at-share-btn-elements
 ##.author-socials
 ##.box-share
@@ -254,11 +260,13 @@ mail.google.com#@#.ads
 ##.detail-google-news
 ##.detail-google-news
 ##.detail-social
+##.detay-share-wrapper
 ##.ds-share
 ##.entry-share
 ##.face
 ##.facebook
 ##.fancybox-overlay
+##.fb_iframe_widget
 ##.fc
 ##.fixed-share
 ##.flipboard
@@ -282,9 +290,11 @@ mail.google.com#@#.ads
 ##.news-detail__share
 ##.news-share
 ##.news-social-media-bar
+##.news_share_2
 ##.panel-sosyal
 ##.paylas
 ##.paylasText
+##.pinesocials-shares
 ##.post_share
 ##.product-card__share
 ##.product-social
@@ -297,15 +307,17 @@ mail.google.com#@#.ads
 ##.share-area
 ##.share-article
 ##.share-bar
+##.share-block-99
 ##.share-buttons
 ##.share-fixed
 ##.share-friends
 ##.share-header
+##.share-post
 ##.share-post-link
 ##.share-space
 ##.share-svg
 ##.shareArea
-##.shareBtns
+##.shareBtn
 ##.shareBtns
 ##.shareTitle
 ##.share__link
@@ -324,6 +336,7 @@ mail.google.com#@#.ads
 ##.sociaPayLasim
 ##.social
 ##.social-bar-v2
+##.social-box
 ##.social-buttons
 ##.social-icon-container
 ##.social-icons
@@ -334,6 +347,7 @@ mail.google.com#@#.ads
 ##.social-media-button
 ##.social-media-detail-news
 ##.social-media-follow
+##.social-media-links
 ##.social-media-share
 ##.social-share
 ##.social-share__main
@@ -347,6 +361,7 @@ mail.google.com#@#.ads
 ##.sosyal
 ##.sosyalhaber
 ##.sshare
+##.sticky-header__share
 ##.sub-action-share
 ##.subscribe-google-news
 ##.td-post-sharing-bottom
@@ -386,6 +401,7 @@ mail.google.com#@#.ads
 ! Çerez Kuralları - Cookie Rules
 ! ---------------------------------------------------------
 ###CerezPopupBox
+###CookieAlert
 ###CookieNotificationArea
 ###CybotCookiebotDialog
 ###cboxContent
