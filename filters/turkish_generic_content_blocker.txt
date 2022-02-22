@@ -200,7 +200,6 @@
 ##iframe[src^="https://tpc.googlesyndication.com/"]
 ##span[title="Ads by Google"]
 /Advertisement/
-/Banner/
 /Reklam/
 /_ads/
 /ads/|~duckduckgo.com
@@ -209,7 +208,6 @@
 /detay-reklam.js
 /image/ad/
 /images/ad/
-/rek/
 /reklam/
 /rklm/
 /spnsr/
