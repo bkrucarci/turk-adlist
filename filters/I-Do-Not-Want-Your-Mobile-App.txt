@@ -30,6 +30,7 @@
 ##.foreks-trader
 ##.gf-apps
 ##.gf-apps__head
+##.gcom__footer-general-item--appStore
 ##.google-apple-btns
 ##.googlePlay
 ##.googleplay.gf-apps__link
