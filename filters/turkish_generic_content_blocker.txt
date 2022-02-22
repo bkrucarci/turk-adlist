@@ -3,7 +3,7 @@
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.0.6 - 20.02.2022
+! Version : 1.0.0.7 - 22.02.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -290,6 +290,9 @@
 ! ---------------------------------------------------------
 ! Sosyal Medya Kuralları - Social Media Rules
 ! ---------------------------------------------------------
+##.social-share__main
+##.social-bar-v2
+###social_media
 ###fbPaylasCont
 ###newsletterSubscriptionForm
 ###paylasim1
