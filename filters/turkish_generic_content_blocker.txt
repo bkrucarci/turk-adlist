@@ -1,11 +1,10 @@
-[Adblock Plus 3.6]
-! Title : Turkish Generic Content Blocker Filter
+! Title : Turkish Generic Content Blocker Filter 
 ! Homepage / Anasayfa : https://github.com/bkrucarci/turk-adlist/
-! Version : 1.0.0.8 - 22.02.2022
-!
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
+! Version : 1.0.0.9 - 22.02.2022
+!
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
 ! ---------------------------------------------------------
@@ -201,7 +200,6 @@
 ##iframe[src^="https://tpc.googlesyndication.com/"]
 ##span[title="Ads by Google"]
 /Advertisement/
-/Banner/
 /Reklam/
 /_ads/
 /ads/|~duckduckgo.com
@@ -210,10 +208,13 @@
 /detay-reklam.js
 /image/ad/
 /images/ad/
-/rek/
 /reklam/
 /rklm/
 /spnsr/
+! 
+! Genel Olmayan Kurallar - Not Generic Rules
+! 
+
 ! ---------------------------------------------------------
 ! Sosyal Medya Kuralları - Social Media Rules
 ! ---------------------------------------------------------
@@ -362,6 +363,10 @@
 /jssocials.min.js
 /sharer.js
 ||www.facebook.com/plugins/like.php$subdocument
+! 
+! Genel Olmayan Kurallar - Not Generic Rules
+! 
+
 ! ---------------------------------------------------------
 ! Çerez Kuralları - Cookie Rules
 ! ---------------------------------------------------------
@@ -434,8 +439,10 @@
 ##.wd-cookies-popup
 ##.widget-cookie-banner
 ##.wpcc-container
-! -------------------------------------------------------
-##efilli-riza
+! 
+! Genel Olmayan Kurallar - Not Generic Rules
+! 
+
 ! ---------------------------------------------------------
 ! Abonelik Kuralları - Subscription Rules
 ! ---------------------------------------------------------
@@ -450,8 +457,10 @@
 ##.subscribe
 ##.tcm-link-subscribe
 ##.tds-newsletter
-##a[class*="google-news"]
-##a[href*="https://news.google.com/"]
 ##div[class*="flipboard"]
-##div[class*="google-news-"]
 /google-haberler-abonelik.jp
+
+! 
+! Genel Olmayan Kurallar - Not Generic Rules
+! 
+
