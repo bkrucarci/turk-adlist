@@ -1,5 +1,5 @@
 ! Homepage / Anasayfa : https://github.com/bkrucarci/turk-adlist/
-! 
+! Title : Turkish Generic Content Blocker Filter
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
