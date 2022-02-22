@@ -7,7 +7,7 @@
 ! EXPERIMENTAL!!! This list contains lots of generic rules to be light as possible. So expect some false blockings! You can submit your related findings in issues section. 
 !
 ! ---------------------------------------------------------
-! Mobil Kuralları - Mobile Rules
+! Generic Rules
 ! ---------------------------------------------------------
 ##.android_link
 ##.app
