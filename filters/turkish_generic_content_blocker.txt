@@ -73,7 +73,7 @@
 ##.adsbox__item
 ##.adsbygoogle
 ##.adspace
-##.ads|~mail.google.com
+##.ads
 ##.adtech
 ##.adv
 ##.adv-300
@@ -214,7 +214,7 @@
 ! 
 ! Genel Olmayan Kurallar - Not Generic Rules
 ! 
-
+mail.google.com#@#.ads
 ! ---------------------------------------------------------
 ! Sosyal Medya Kuralları - Social Media Rules
 ! ---------------------------------------------------------
@@ -463,4 +463,3 @@
 ! 
 ! Genel Olmayan Kurallar - Not Generic Rules
 ! 
-
