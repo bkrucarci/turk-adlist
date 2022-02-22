@@ -3,11 +3,12 @@
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.0.9 - 22.02.2022
+! Version : 1.0.0.10 - 22.02.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
 ! ---------------------------------------------------------
+###\33 00x600_reklam
 ###adpro-1
 ###adpro-10
 ###adpro-2
@@ -57,10 +58,12 @@
 ##.ad-with-border
 ##.adBanner
 ##.adControl
+##.adInitRemove
 ##.adInitRemove.ads
 ##.adbImg
 ##.add-banner
 ##.adpro
+##.ads
 ##.ads-box-news
 ##.ads-zone
 ##.adsWidgetSidebar
@@ -72,8 +75,8 @@
 ##.adsbox--vertical
 ##.adsbox__item
 ##.adsbygoogle
+##.adsm
 ##.adspace
-##.ads
 ##.adtech
 ##.adv
 ##.adv-300
@@ -239,6 +242,7 @@ mail.google.com#@#.ads
 ##.addthis_inline_share_toolbox
 ##.addthis_sharing_toolbox
 ##.at-share-btn-elements
+##.author-socials
 ##.box-share
 ##.breadcrumb__google-news
 ##.btn-facebook
@@ -275,6 +279,7 @@ mail.google.com#@#.ads
 ##.linkedin.btn
 ##.m-socialMedia
 ##.news-detail__info__google-news
+##.news-detail__share
 ##.news-share
 ##.news-social-media-bar
 ##.panel-sosyal
@@ -295,6 +300,7 @@ mail.google.com#@#.ads
 ##.share-buttons
 ##.share-fixed
 ##.share-friends
+##.share-header
 ##.share-post-link
 ##.share-space
 ##.share-svg
@@ -321,8 +327,10 @@ mail.google.com#@#.ads
 ##.social-buttons
 ##.social-icon-container
 ##.social-icons
+##.social-icons-widget
 ##.social-items
 ##.social-like
+##.social-list
 ##.social-media-button
 ##.social-media-detail-news
 ##.social-media-follow
@@ -354,6 +362,13 @@ mail.google.com#@#.ads
 ##[href^="https://twitter.com/share"]
 ##[href^="https://www.linkedin.com/cws/share"]
 ##[src="tema/facebook.gif"]
+##a[href^="//telegram.me/share/url"]
+##a[href^="fb-messenger://share/"]
+##a[href^="https://api.whatsapp.com/send"]
+##a[href^="https://share.flipboard.com/bookmarklet/popout"]
+##a[href^="https://twitter.com/intent/tweet"]
+##a[href^="https://www.facebook.com/sharer.php"]
+##a[href^="https://www.linkedin.com/shareArticle"]
 ##div[class$="share_icons"]
 ##div[class*="-sharebox"]
 ##div[class*="share-box"]
@@ -382,9 +397,11 @@ mail.google.com#@#.ads
 ###cookie-policy-app
 ###cookiePolicy
 ###cookiePolicyw
+###cookie_law_notification
 ###cookienotice
 ###cookiepolicy
 ###js-hook-cookie-policy-banner
+###privacy-consent
 ##.CookieLink
 ##.active.policy
 ##.active.type1.widget-cookie-popup
@@ -449,6 +466,7 @@ mail.google.com#@#.ads
 ###EBulletinWrapper
 ###post-newsletter
 ###subscribe-wrapper
+##.googleNews
 ##.google_news
 ##.newsletter
 ##.newsletter-section
@@ -457,6 +475,7 @@ mail.google.com#@#.ads
 ##.subscribe
 ##.tcm-link-subscribe
 ##.tds-newsletter
+##.widget-google-news
 ##div[class*="flipboard"]
 /google-haberler-abonelik.jp
 
