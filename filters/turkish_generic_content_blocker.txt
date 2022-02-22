@@ -457,10 +457,7 @@
 ##.subscribe
 ##.tcm-link-subscribe
 ##.tds-newsletter
-##a[class*="google-news"]
-##a[href*="https://news.google.com/"]
 ##div[class*="flipboard"]
-##div[class*="google-news-"]
 /google-haberler-abonelik.jp
 
 ! 
