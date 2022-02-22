@@ -3,7 +3,7 @@
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.0.10 - 22.02.2022
+! Version : 1.0.0.11 - 22.02.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -90,6 +90,7 @@
 ##.advert
 ##.advertisement
 ##.all-header-reklam
+##.alt-reklam
 ##.altReklam
 ##.ap-728x90
 ##.ara-reklam-wrapper
@@ -165,6 +166,7 @@
 ##.tepe-banner
 ##.thb-ad
 ##.top-banner
+##.ust-reklam
 ##.werbung
 ##.widget-gdpr-banner
 ##.x-comet-dialog-visible
@@ -173,6 +175,8 @@
 ##a[href^="http://popup.taboola.com/"]
 ##a[href^="http://pubads.g.doubleclick.net/gampad/clk"]
 ##a[href^="https://bit.ly/"]
+##a[href^="https://web.bitexen.com"]
+##a[href^="https://www.trbinance.com/"]
 ##div[class$="-adsense"]
 ##div[class*="-reklam"]
 ##div[class*="Reklam_"]
@@ -251,8 +255,7 @@ mail.google.com#@#.ads
 ##.content-share
 ##.crunchify-social
 ##.desktop-social
-##.detail-google-news
-##.detail-google-news
+##.detTarihler
 ##.detail-social
 ##.ds-share
 ##.entry-share
@@ -263,14 +266,9 @@ mail.google.com#@#.ads
 ##.fixed-share
 ##.flipboard
 ##.generalAnnounce.popin
-##.google-news
-##.google-news-button
-##.google-news-button
-##.google-news_wrapper
-##.google-news_wrapper
-##.google-share-btn
 ##.grv-dialog-host
 ##.hs-social-block
+##.inline-share
 ##.interaction-share
 ##.js-share-button
 ##.js-share-modal-btn
@@ -278,7 +276,6 @@ mail.google.com#@#.ads
 ##.jssocials-shares
 ##.linkedin.btn
 ##.m-socialMedia
-##.news-detail__info__google-news
 ##.news-detail__share
 ##.news-share
 ##.news-social-media-bar
@@ -298,6 +295,7 @@ mail.google.com#@#.ads
 ##.share-article
 ##.share-bar
 ##.share-buttons
+##.share-buttons-wrapper
 ##.share-fixed
 ##.share-friends
 ##.share-header
@@ -343,6 +341,7 @@ mail.google.com#@#.ads
 ##.social_group
 ##.social_link
 ##.socialfooter
+##.socials
 ##.socials-sharing
 ##.sosyal
 ##.sosyalhaber
@@ -374,10 +373,12 @@ mail.google.com#@#.ads
 ##div[class*="share-box"]
 ##div[id*="-social-share"]
 ##div[id*="btn-share"]
+##div[id^="post-social"]
 /_iframe/haber_paylas_kutular.php
 /jssocials.min.js
 /sharer.js
 ||www.facebook.com/plugins/like.php$subdocument
+
 ! 
 ! Genel Olmayan Kurallar - Not Generic Rules
 ! 
@@ -391,7 +392,6 @@ mail.google.com#@#.ads
 ###cboxContent
 ###cerekKullanimUyari
 ###cmc-cookie-policy-banner
-###cookie-box
 ###cookie-info-container
 ###cookie-law-info-bar
 ###cookie-policy-app
@@ -466,19 +466,29 @@ mail.google.com#@#.ads
 ###EBulletinWrapper
 ###post-newsletter
 ###subscribe-wrapper
+##.detail-google-news
+##.e-posta-uye
+##.google-news
+##.google-news-button
+##.google-news_wrapper
+##.google-share-btn
 ##.googleNews
 ##.google_news
+##.googlenewsButton
+##.news-detail__info__google-news
 ##.newsletter
 ##.newsletter-section
 ##.pilli-subscribe
 ##.sidebar_bulten
+##.single-gnews
 ##.subscribe
 ##.tcm-link-subscribe
 ##.tds-newsletter
 ##.widget-google-news
 ##div[class*="flipboard"]
 /google-haberler-abonelik.jp
-
 ! 
 ! Genel Olmayan Kurallar - Not Generic Rules
 ! 
+pchocasi.com.tr,milliyet.com.tr,medyaespor.com,gursesgazetesi.com##a[href^="https://news.google.com/"][target="_blank"]
+milliyet.com.tr##.breadcrumb__flipboard
