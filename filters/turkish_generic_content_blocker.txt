@@ -198,7 +198,7 @@
 ##._ning_cont
 ##span[title="Ads by Google"]
 /_ads/
-/ads/
+/ads/|~duckduckgo.com
 /advert/
 /Advertisement/
 /Banner/
@@ -211,82 +211,6 @@
 /reklam/
 /rklm/
 /spnsr/
-! ---------------------------------------------------------
-! Çerez Kuralları - Cookie Rules
-! ---------------------------------------------------------
-###CerezPopupBox
-###CookieNotificationArea
-###CybotCookiebotDialog
-###cboxContent
-###cerekKullanimUyari
-###cmc-cookie-policy-banner
-###cookie-box
-###cookie-info-container
-###cookie-law-info-bar
-###cookie-policy-app
-###cookiePolicy
-###cookiePolicyw
-###cookienotice
-###cookiepolicy
-###js-hook-cookie-policy-banner
-##.CookieLink
-##.active.policy
-##.active.type1.widget-cookie-popup
-##.alerttt
-##.cerez-mesaji
-##.cerez-politikasi-container
-##.cm-cookie-policy
-##.cmp-popup-cookies
-##.consent-banner
-##.container.cookie-policy
-##.cookie-box
-##.cookie-bottom
-##.cookie-choices-info
-##.cookie-consent
-##.cookie-disclaimer
-##.cookie-info
-##.cookie-kutu
-##.cookie-message
-##.cookie-notification
-##.cookie-policy
-##.cookie-policy-confirmation
-##.cookie-policy-container
-##.cookie-text
-##.cookie.box
-##.cookieConsentContainer
-##.cookieNotification
-##.cookie__card
-##.cookies
-##.efilli-riza
-##.ems-cookie-bnr
-##.info-cookie.message
-##.info.alert
-##.kvkkpop
-##.legal-alert
-##.m-cookie
-##.modal--cookie
-##.modal-contentx
-##.noindex.blogCookieCover
-##.notify-main-div
-##.on.f-data-policy.sub-info
-##.onesignal-slidedown-dialog
-##.optanon-alert-box-wrapper
-##.ot-sdk-container
-##.otPlaceholder
-##.policy
-##.privacy-banner
-##.show.cookiealert
-##.sol-kule-ad
-##.solkulereklam
-##.tibrr-cookie-consent-container
-##.veriAltBar
-##.vl-notif-inner
-##.vnotify-container
-##.wd-cookies-popup
-##.widget-cookie-banner
-##.wpcc-container
-! -------------------------------------------------------
-##efilli-riza
 ! ---------------------------------------------------------
 ! Sosyal Medya Kuralları - Social Media Rules
 ! ---------------------------------------------------------
@@ -435,6 +359,82 @@
 /jssocials.min.js
 /sharer.js
 ||www.facebook.com/plugins/like.php$subdocument
+! ---------------------------------------------------------
+! Çerez Kuralları - Cookie Rules
+! ---------------------------------------------------------
+###CerezPopupBox
+###CookieNotificationArea
+###CybotCookiebotDialog
+###cboxContent
+###cerekKullanimUyari
+###cmc-cookie-policy-banner
+###cookie-box
+###cookie-info-container
+###cookie-law-info-bar
+###cookie-policy-app
+###cookiePolicy
+###cookiePolicyw
+###cookienotice
+###cookiepolicy
+###js-hook-cookie-policy-banner
+##.CookieLink
+##.active.policy
+##.active.type1.widget-cookie-popup
+##.alerttt
+##.cerez-mesaji
+##.cerez-politikasi-container
+##.cm-cookie-policy
+##.cmp-popup-cookies
+##.consent-banner
+##.container.cookie-policy
+##.cookie-box
+##.cookie-bottom
+##.cookie-choices-info
+##.cookie-consent
+##.cookie-disclaimer
+##.cookie-info
+##.cookie-kutu
+##.cookie-message
+##.cookie-notification
+##.cookie-policy
+##.cookie-policy-confirmation
+##.cookie-policy-container
+##.cookie-text
+##.cookie.box
+##.cookieConsentContainer
+##.cookieNotification
+##.cookie__card
+##.cookies
+##.efilli-riza
+##.ems-cookie-bnr
+##.info-cookie.message
+##.info.alert
+##.kvkkpop
+##.legal-alert
+##.m-cookie
+##.modal--cookie
+##.modal-contentx
+##.noindex.blogCookieCover
+##.notify-main-div
+##.on.f-data-policy.sub-info
+##.onesignal-slidedown-dialog
+##.optanon-alert-box-wrapper
+##.ot-sdk-container
+##.otPlaceholder
+##.policy
+##.privacy-banner
+##.show.cookiealert
+##.sol-kule-ad
+##.solkulereklam
+##.tibrr-cookie-consent-container
+##.veriAltBar
+##.vl-notif-inner
+##.vnotify-container
+##.wd-cookies-popup
+##.widget-cookie-banner
+##.wpcc-container
+! -------------------------------------------------------
+##efilli-riza
 ! ---------------------------------------------------------
 ! Abonelik Kuralları - Subscription Rules
 ! ---------------------------------------------------------
