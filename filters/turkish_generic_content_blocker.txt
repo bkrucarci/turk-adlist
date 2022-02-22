@@ -5,9 +5,9 @@
 ! 
 ! Version : 1.0.0.6 - 20.02.2022
 !
-! ----------------------------------------------------
+! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
-! ----------------------------------------------------
+! ---------------------------------------------------------
 ###adpro-1
 ###adpro-2
 ###adpro-3
@@ -48,21 +48,19 @@
 ###solreklam
 ###ustReklam
 ###ustreklam
-##.Advertisement
-##.ReklamiKapat
+##.aawp
 ##.ad
 ##.ad-desktop
 ##.ad-with-border
 ##.adBanner
-##.adControl
-##.adInitRemove.ads
 ##.adbImg
+##.adControl
 ##.add-banner
+##.adInitRemove.ads
 ##.adpro
 ##.ads
 ##.ads-box-news
 ##.ads-zone
-##.adsWidgetSidebar
 ##.ads_kare
 ##.ads_kule
 ##.adsbox
@@ -72,17 +70,19 @@
 ##.adsbox__item
 ##.adsbygoogle
 ##.adspace
+##.adsWidgetSidebar
 ##.adtech
 ##.adv
+##.adv300250
 ##.adv-300
 ##.adv-600
-##.adv-height250
 ##.adv-height90
+##.adv-height250
 ##.adv-masthead
 ##.adv-taboola-in-article
-##.adv300250
 ##.advers-box
 ##.advert
+##.Advertisement
 ##.advertisement
 ##.all-header-reklam
 ##.altReklam
@@ -114,6 +114,7 @@
 ##.inner-right-ad-300
 ##.js.ad-channel
 ##.konuiciReklam
+##.lazy_ads
 ##.masthead-adv.adv-height250
 ##.masthead_detail
 ##.news-ads
@@ -131,12 +132,13 @@
 ##.reklam-masthead
 ##.reklam-sec
 ##.reklam-serit
-##.reklamContent
-##.reklamKodu
 ##.reklam_sag
 ##.reklam_siteustu
 ##.reklam_sol
+##.reklamContent
 ##.reklamcover
+##.ReklamiKapat
+##.reklamKodu
 ##.reklamkodumsag
 ##.reklamkodumsol
 ##.reklamkutu
@@ -170,10 +172,10 @@
 ##div[class*="Reklam_"]
 ##div[class*="reklamlar"]
 ##div[class*="sponsored-news-recommendation"]
-##div[class^="Advertisement"]
 ##div[class^="ad-"]
 ##div[class^="ads-"]
 ##div[class^="advert_"]
+##div[class^="Advertisement"]
 ##div[class^="banner"]
 ##div[class^="banner-"]
 ##div[class^="reklam"]
@@ -183,32 +185,35 @@
 ##div[class^="solBanner"]
 ##div[class^="spnsr"]
 ##div[class^="yataybanner"]
-##div[id^="SagReklam"]
-##div[id^="SolReklam"]
 ##div[id^="div-gpt-"]
 ##div[id^="musthead"]
 ##div[id^="reklam"]
 ##div[id^="reklam-"]
+##div[id^="SagReklam"]
+##div[id^="seoneurons-content"]
+##div[id^="SolReklam"]
 ##iframe[id^="google_ads_frame"]
 ##iframe[src^="https://pagead2.googlesyndication.com/"]
 ##iframe[src^="https://tpc.googlesyndication.com/"]
+##._ning_cont
 ##span[title="Ads by Google"]
-/Advertisement/
-/Banner/
-/Reklam/
 /_ads/
 /ads/
 /advert/
+/Advertisement/
+/Banner/
+/binance-banner
 /detay-reklam.js
 /image/ad/
 /images/ad/
 /rek/
+/Reklam/
 /reklam/
 /rklm/
 /spnsr/
-! --------------------------------------------------------------
-! Çerez Genel Kuralları - Cookie Rules
-! --------------------------------------------------------------
+! ---------------------------------------------------------
+! Çerez Kuralları - Cookie Rules
+! ---------------------------------------------------------
 ###CerezPopupBox
 ###CookieNotificationArea
 ###CybotCookiebotDialog
@@ -235,6 +240,7 @@
 ##.consent-banner
 ##.container.cookie-policy
 ##.cookie-box
+##.cookie-bottom
 ##.cookie-choices-info
 ##.cookie-consent
 ##.cookie-disclaimer
@@ -280,15 +286,19 @@
 ##.widget-cookie-banner
 ##.wpcc-container
 ! -------------------------------------------------------
+##efilli-riza
+! ---------------------------------------------------------
 ! Sosyal Medya Kuralları - Social Media Rules
-! -------------------------------------------------------
+! ---------------------------------------------------------
 ###fbPaylasCont
 ###newsletterSubscriptionForm
 ###paylasim1
+###paylasimbutonlari
 ###share
 ###share-bar
-###shareButton
 ###share_link
+###shareButton
+###sp-social-media
 ###sp_message_container_575429
 ###tooplay_share_0_0
 ##.PaylasimAlani
@@ -300,6 +310,7 @@
 ##.at-share-btn-elements
 ##.box-share
 ##.breadcrumb__google-news
+##.btn-facebook
 ##.c-socials
 ##.cb-socials
 ##.content-share
@@ -307,6 +318,8 @@
 ##.desktop-social
 ##.detail-google-news
 ##.detail-google-news
+##.detail-social
+##.ds-share
 ##.entry-share
 ##.face
 ##.facebook
@@ -343,6 +356,7 @@
 ##.product_social_icon_wrapper
 ##.safirShare
 ##.scl
+##.scriptlesssocialsharing
 ##.share
 ##.share-area
 ##.share-article
@@ -362,6 +376,14 @@
 ##.sharing-container
 ##.smlIconSet
 ##.sociaPayLasim
+##.share__link
+##.share_bar
+##.share_detail
+##.shareArea
+##.shareBtns
+##.shares-box
+##.sharing
+##.sharing-container
 ##.social
 ##.social-buttons
 ##.social-icon-container
@@ -371,15 +393,22 @@
 ##.social-media-button
 ##.social-media-detail-news
 ##.social-media-follow
+##.social-media-share
 ##.social-share
 ##.social-shares
 ##.social-sharing-button
+##.social-sharing-icon
 ##.social_group
 ##.social_link
 ##.socialfooter
+##.SocialMediaShareButton
+##.socials-sharing
+##.SocialTools
+##.sociaPayLasim
 ##.sosyal
 ##.sosyalhaber
 ##.sshare
+##.sub-action-share
 ##.subscribe-google-news
 ##.td-post-sharing-bottom
 ##.td-post-sharing-top
@@ -396,7 +425,29 @@
 ##[src="tema/facebook.gif"]
 ##div[class*="-sharebox"]
 ##div[id*="-social-share"]
+##div[class$="share_icons"]
+##div[class*="share-box"]
+##div[id*="btn-share"]
 /_iframe/haber_paylas_kutular.php
 /jssocials.min.js
 /sharer.js
 ||www.facebook.com/plugins/like.php$subdocument
+! ---------------------------------------------------------
+! Abonelik Kuralları - Subscription Rules
+! ---------------------------------------------------------
+###EBulletinWrapper
+###post-newsletter
+###subscribe-wrapper
+##.google_news
+##.newsletter
+##.newsletter-section
+##.pilli-subscribe
+##.sidebar_bulten
+##.subscribe
+##.tcm-link-subscribe
+##.tds-newsletter
+##a[class*="google-news"]
+##a[href*="https://news.google.com/"]
+##div[class*="flipboard"]
+##div[class*="google-news-"]
+/google-haberler-abonelik.jp
