@@ -3,11 +3,12 @@
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.0.11 - 22.02.2022
+! Version : 1.0.0.12 - 23.02.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
 ! ---------------------------------------------------------
+###SonDakika_AnaSayfa_300x250_Kutu1
 ###\33 00x600_reklam
 ###adpro-1
 ###adpro-10
@@ -24,6 +25,7 @@
 ###altreklam
 ###arkaplanreklam
 ###backreklam
+###footerad
 ###haber_detay_ic_reklam_
 ###left-ad
 ###masterpage_reklam_
@@ -89,6 +91,7 @@
 ##.adv-masthead
 ##.adv-taboola-in-article
 ##.adv300250
+##.advMasthead
 ##.advers-box
 ##.advert
 ##.advertisement
@@ -131,6 +134,7 @@
 ##.pgskn > [href="/pagereklam"]
 ##.pop-banner
 ##.position-fixed.reklam
+##.psk
 ##.quads-ad2
 ##.random-banners
 ##.rek
@@ -168,6 +172,7 @@
 ##.solkulereklam
 ##.sponsored
 ##.tepe-banner
+##.textrek
 ##.thb-ad
 ##.top-banner
 ##.ust-reklam
@@ -175,7 +180,9 @@
 ##.widget-gdpr-banner
 ##.x-comet-dialog-visible
 ##.yatay-reklam
+##.yildiz-pageskin-link
 ##[href^="/showad.asp"]
+##[href^="https://baybahisaffiliates.com/"]
 ##a[href^="http://popup.taboola.com/"]
 ##a[href^="http://pubads.g.doubleclick.net/gampad/clk"]
 ##a[href^="https://bit.ly/"]
@@ -222,6 +229,7 @@
 /reklam/
 /rklm/
 /spnsr/
+||www.720p-fullizleme.com/rek/
 ! 
 ! Genel Olmayan Kurallar - Not Generic Rules
 ! 
@@ -230,12 +238,14 @@ mail.google.com#@#.ads
 ! Sosyal Medya Kuralları - Social Media Rules
 ! ---------------------------------------------------------
 ###fbPaylasCont
+###hbrShare
 ###mvp-post-soc-wrap
 ###newsletterSubscriptionForm
 ###paylasim1
 ###paylasimbutonlari
 ###share
 ###share-bar
+###share-buttons
 ###shareButton
 ###share_link
 ###social_media
@@ -260,8 +270,10 @@ mail.google.com#@#.ads
 ##.cb-socials
 ##.content-share
 ##.crunchify-social
+##.d-share
 ##.desktop-social
 ##.detTarihler
+##.detail-share
 ##.detail-social
 ##.detay-share-wrapper
 ##.ds-share
@@ -269,6 +281,8 @@ mail.google.com#@#.ads
 ##.face
 ##.facebook
 ##.fancybox-overlay
+##.fb-like
+##.fb-share-button
 ##.fb_iframe_widget
 ##.fc
 ##.fixed-share
@@ -284,6 +298,7 @@ mail.google.com#@#.ads
 ##.jssocials-shares
 ##.linkedin.btn
 ##.m-socialMedia
+##.new-detail-share
 ##.news-detail__share
 ##.news-share
 ##.news-social-media-bar
@@ -300,6 +315,7 @@ mail.google.com#@#.ads
 ##.safirShare
 ##.scl
 ##.scriptlesssocialsharing
+##.section__detail-share
 ##.share
 ##.share-area
 ##.share-article
@@ -314,6 +330,7 @@ mail.google.com#@#.ads
 ##.share-post-link
 ##.share-space
 ##.share-svg
+##.share-tools
 ##.shareArea
 ##.shareBtn
 ##.shareBtns
@@ -408,6 +425,7 @@ mail.google.com#@#.ads
 ###cboxContent
 ###cerekKullanimUyari
 ###cmc-cookie-policy-banner
+###cookie-consent
 ###cookie-info-container
 ###cookie-law-info-bar
 ###cookie-policy-app
@@ -421,7 +439,11 @@ mail.google.com#@#.ads
 ##.CookieLink
 ##.active.policy
 ##.active.type1.widget-cookie-popup
+##.alert-info.alert-message
 ##.alerttt
+##.bar--cookie-bar.bar
+##.cc-banner.cc-window
+##.cc_banner-wrapper
 ##.cerez-mesaji
 ##.cerez-politikasi-container
 ##.cm-cookie-policy
@@ -448,6 +470,7 @@ mail.google.com#@#.ads
 ##.cookies
 ##.efilli-riza
 ##.ems-cookie-bnr
+##.footer-cookies-bar
 ##.info-cookie.message
 ##.info.alert
 ##.kvkkpop
@@ -472,6 +495,7 @@ mail.google.com#@#.ads
 ##.wd-cookies-popup
 ##.widget-cookie-banner
 ##.wpcc-container
+##.x-comet-dialog.x-comet-reset
 ! 
 ! Genel Olmayan Kurallar - Not Generic Rules
 ! 
