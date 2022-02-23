@@ -221,7 +221,6 @@
 /Reklam/
 /_ads/
 /ads/|~duckduckgo.com
-/advert/
 /binance-banner
 /detay-reklam.js
 /image/ad/

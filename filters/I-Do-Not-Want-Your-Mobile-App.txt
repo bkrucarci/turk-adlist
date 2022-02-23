@@ -54,6 +54,7 @@
 ##.ios_v8
 ##.MacAppStore
 ##.mobile-app-link
+##.mobile-app-links
 ##.mobile-applications
 ##.mobile-apps
 ##.mobile-buttons
@@ -76,10 +77,12 @@
 ##.wds-is-fandom-apps
 ##.wds-is-fandom-stores
 ##[href^="//play.google.com/store/apps/details"]
+##[href^="https://appgallery7.huawei.com/#/app"]
 ##[href^="https://appgallery.cloud.huawei.com/"]
 ##[href^="https://appgallery.huawei.com/#/app"]
 ##[href^="https://apps.apple.com/tr/app"]
 ##[href^="https://itunes.apple.com/tr/app"]
+##[href^="https://itunes.apple.com/us/app"]
 ##[href^="https://play.google.com/store/apps/details"]
 ##div[class*="MobileAppMarket"]
 ##img[alt="huawei"]
