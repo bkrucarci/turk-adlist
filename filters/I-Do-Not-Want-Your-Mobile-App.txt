@@ -111,7 +111,7 @@ mediamarkt.com.tr##.ms-row__column:last-child  > .ms-link-list:last-child > .ms-
 trendyol.com##.footer__wrapper > div:nth-child(2) > div > ul > li > .footer__wrapper--mediumTitle
 n11.com##.fWrapper > .footerSocial > div:nth-child(3) > h4
 tozlu.com##.ticiContainer > .linkler > .blink > ul > li > span:nth-child(3)
-gratis.com##.container.relative > .row > .col-md-2:last-child > h4
+gratis.com##.row > .col-md-2:last-child > h4
 modanisa.com##.row1 > ul > .item.double.last:nth-child(4) > .head3:nth-child(3)
 migros.com.tr##.inner-grid > .mdc-layout-grid__cell--span-4 > .mdc-layout-grid__cell--span-6 > .title:nth-child(3)
 turk.net##.elementor-column:last-child > .elementor-widget-wrap > .elementor-widget-heading:first-child
