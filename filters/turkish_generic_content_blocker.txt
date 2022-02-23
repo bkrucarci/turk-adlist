@@ -3,7 +3,7 @@
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.0.13 - 23.02.2022
+! Version : 1.0.0.14 - 23.02.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -270,6 +270,7 @@ mail.google.com#@#.ads
 ##.cb-socials
 ##.content-share
 ##.crunchify-social
+##.custom_share
 ##.d-share
 ##.desktop-social
 ##.detTarihler
@@ -326,6 +327,7 @@ mail.google.com#@#.ads
 ##.share-fixed
 ##.share-friends
 ##.share-header
+##.share-items
 ##.share-post
 ##.share-post-link
 ##.share-space
@@ -369,6 +371,7 @@ mail.google.com#@#.ads
 ##.social-shares
 ##.social-sharing-button
 ##.social-sharing-icon
+##.socialBar
 ##.social_group
 ##.social_link
 ##.socialfooter
@@ -418,23 +421,24 @@ mail.google.com#@#.ads
 ! ---------------------------------------------------------
 ! Çerez Kuralları - Cookie Rules
 ! ---------------------------------------------------------
+###CerezPopupBox
+###CookieAlert
+###CookieNotificationArea
+###CybotCookiebotDialog
 ###btz-cookie-popup
 ###cboxContent
 ###cerekKullanimUyari
-###CerezPopupBox
 ###cmc-cookie-policy-banner
 ###cookie-consent
 ###cookie-info-container
 ###cookie-law-info-bar
 ###cookie-policy-app
-###cookie_law_notification
-###CookieAlert
-###cookienotice
-###CookieNotificationArea
 ###cookiePolicy
-###cookiepolicy
 ###cookiePolicyw
-###CybotCookiebotDialog
+###cookie_law_notification
+###cookienotice
+###cookiepolicy
+###gizlilikpolitikasi
 ###js-hook-cookie-policy-banner
 ###privacy-consent
 ##.CookieLink
@@ -454,6 +458,7 @@ mail.google.com#@#.ads
 ##.cookie-bottom
 ##.cookie-box
 ##.cookie-choices-info
+##.cookie-confirmation
 ##.cookie-consent
 ##.cookie-disclaimer
 ##.cookie-info
@@ -468,7 +473,10 @@ mail.google.com#@#.ads
 ##.cookieConsentContainer
 ##.cookieNotification
 ##.cookie__card
+##.cookie_warning
+##.cookieinfo
 ##.cookies
+##.cookieseal-banner-body
 ##.efilli-riza
 ##.ems-cookie-bnr
 ##.footer-cookies-bar
@@ -489,6 +497,7 @@ mail.google.com#@#.ads
 ##.policy
 ##.privacy-banner
 ##.show.cookiealert
+##.styles_cookie__3hmxT
 ##.tibrr-cookie-consent-container
 ##.veriAltBar
 ##.vl-notif-inner
@@ -505,11 +514,12 @@ mail.google.com#@#.ads
 ! Abonelik Kuralları - Subscription Rules
 ! ---------------------------------------------------------
 ###EBulletinWrapper
+###newsletter
 ###post-newsletter
 ###subscribe-wrapper
-##.detail-google-news
 ##.bulletin
 ##.cnt-subscribe
+##.detail-google-news
 ##.e-bulletin
 ##.e-posta-uye
 ##.ebultenDiv
@@ -519,8 +529,8 @@ mail.google.com#@#.ads
 ##.google-news-button
 ##.google-news_wrapper
 ##.google-share-btn
-##.google_news
 ##.googleNews
+##.google_news
 ##.googlenewsButton
 ##.home-footer__newsletter
 ##.news-detail__info__google-news
