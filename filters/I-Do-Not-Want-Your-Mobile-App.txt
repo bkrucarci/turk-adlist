@@ -1,7 +1,7 @@
 [Adblock Plus 3.6]
 ! Title: 'I Do Not Want Your Mobile App' List
 ! Homepage: https://github.com/bkrucarci/turk-adlist
-! Version: 1.0.0.2
+! Version: 1.0.0.3
 !
 ! Description: This list aims to remove of mobile application banners, offers etc. No one, at least me, wants your app on their phones, tablets while they can view the site in browser!
 ! EXPERIMENTAL!!! This list contains lots of generic rules to be light as possible. So expect some false blockings! You can submit your related findings in issues section. 
@@ -11,31 +11,37 @@
 ! ---------------------------------------------------------
 ##.android_link
 ##.app-appstore
+##.app-container
 ##.app-download
+##.app-ios
 ##.app-store
-##.appStore
 ##.app__markets
 ##.apple-store
 ##.application
 ##.apps-markets
+##.appStore
 ##.appstore
 ##.best-buy-app
 ##.f-apps
 ##.fa-apple.fab
 ##.fa-google-play.fab
-##.footer-apps
 ##.footer-app-buttons
+##.footer-applink
+##.footer-apps
 ##.footer-icons-store-items
 ##.footer-market-link
+##.footer__extras__title
 ##.foreks-trader
+##.ft-koton-app
+##.fv2-app-menu
+##.gcom__footer-general-item--appStore
 ##.gf-apps
 ##.gf-apps__head
-##.gcom__footer-general-item--appStore
 ##.google-apple-btns
 ##.googlePlay
 ##.googleplay.gf-apps__link
-##.huaweiPhone
 ##.huaweiappgallery
+##.huaweiPhone
 ##.icon-app-store
 ##.icon-apple-store
 ##.icon-google-play
@@ -46,35 +52,74 @@
 ##.ios
 ##.ios_link
 ##.ios_v8
+##.MacAppStore
+##.mobile-app-link
 ##.mobile-applications
 ##.mobile-apps
 ##.mobile-buttons
 ##.mobile-download-badges
 ##.mobile.hbFooter
+##.mobileApplications
 ##.nsn-footer-download-from-stores-area
+##.o-footer__app
+##.our-apps__links
+##.our-apps__title
 ##.redirectToDownloadApp.popup
 ##.selfPromo__box--apps.selfPromo__box
 ##.selfPromo__wrapper--stores
 ##.selfPromo__wrapper--texts
 ##.sf-download-app
 ##.social-share-all-index
+##.storeLinks
 ##.stores.row
+##.top-mobile
 ##.wds-is-fandom-apps
 ##.wds-is-fandom-stores
+##[href^="//play.google.com/store/apps/details"]
 ##[href^="https://appgallery.cloud.huawei.com/"]
+##[href^="https://appgallery.huawei.com/#/app"]
+##[href^="https://apps.apple.com/tr/app"]
+##[href^="https://itunes.apple.com/tr/app"]
 ##[href^="https://play.google.com/store/apps/details"]
+##div[class*="MobileAppMarket"]
+##img[alt="huawei"]
+##img[alt="itunes"]
+/androidStoreLogo.png
 /app-store-badge-*.svg
+/app-store-icon.png
 /app-store.png
+/app-store.svg
 /app_icon_*.png
 /apple-market.png
+/apple-store.png
 /apps.png
+/appstore.jpg
 /appstore.png
 /appstorebanner.png
+/appStoreLogo.png
+/galaxyStoreLogo.png
+/google-play.svg
+/google-store.png
+/huawei-store.png
+/huaweiStoreLogo.png
+/storeapp.png
 ! ---------------------------------------------------------
 ! Following websites NOT allowed to be generic
 ! ---------------------------------------------------------
+vatanbilgisayar.com##div[style="padding-left: 0; padding-right: 0;"] > .footer-vatan-info > .footer-vatan-info__title
+mediamarkt.com.tr##.ms-row__column:last-child  > .ms-link-list:last-child > .ms-link-list__title
+trendyol.com##.footer__wrapper > div:nth-child(2) > div > ul > li > .footer__wrapper--mediumTitle
+n11.com##.fWrapper > .footerSocial > div:nth-child(3) > h4
+tozlu.com##.ticiContainer > .linkler > .blink > ul > li > span:nth-child(3)
+gratis.com##.container.relative > .row > .col-md-2:last-child > h4
+modanisa.com##.row1 > ul > .item.double.last:nth-child(4) > .head3:nth-child(3)
+migros.com.tr##.inner-grid > .mdc-layout-grid__cell--span-4 > .mdc-layout-grid__cell--span-6 > .title:nth-child(3)
+turk.net##.elementor-column:last-child > .elementor-widget-wrap > .elementor-widget-heading:first-child
+morhipo.com##.row > div.col-md-2:nth-child(4) > .h4
+bilyoner.com##.SmRKw
+bilyoner.com##._3MKjb
 bilyoner.com##.footer__top__apps
-aa.com.tr##.text-sm-center.mb-3.text-md-left.mb-md-0.mx-auto.col-xl-3.col-lg-3.col-md-3
+aa.com.tr##.row > .text-md-left:nth-child(4)
 birebin.com##[href="/iddaa-mobil-uygulamalar"]
 birgun.net##.main-footer__support
 evrensel.net##.bg-email-sub > div.container > .row > .col-md-4
