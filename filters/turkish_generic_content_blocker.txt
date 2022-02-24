@@ -244,6 +244,7 @@ arabam.com#@#div[class^="banner"]
 ! ---------------------------------------------------------
 ###fbPaylasCont
 ###hbrShare
+###mobilpaylas
 ###mvp-post-soc-wrap
 ###newsletterSubscriptionForm
 ###paylasim1
