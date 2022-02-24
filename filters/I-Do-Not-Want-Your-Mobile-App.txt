@@ -11,7 +11,6 @@
 ! ---------------------------------------------------------
 ##.android_link
 ##.app-appstore
-##.app-container
 ##.app-download
 ##.app-ios
 ##.app-store
