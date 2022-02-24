@@ -3,7 +3,7 @@
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.0.16 - 24.02.2022
+! Version : 1.0.0.17 - 24.02.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -230,7 +230,7 @@
 /spnsr/
 ||www.720p-fullizleme.com/rek/
 ! 
-! ------ Genel Olmayan Kurallar - Not Generic Rules ------ 
+! ------ Genel Olmayan Kurallar - Reklam ------ 
 ! 
 mail.google.com#@#.ads
 ~arabam.com##div[class^="banner-"]
@@ -423,9 +423,10 @@ mail.google.com#@#.ads
 ||www.facebook.com/plugins/like.php$subdocument
 
 ! 
-! ------ Genel Olmayan Kurallar - Not Generic Rules ------ 
+! ------ Genel Olmayan Kurallar - Paylaş Butonları ------ 
 ! 
-
+gezilesiyer.com##.wc_ss_btns
+gezilesiyer.com##.my-auto
 ! ---------------------------------------------------------
 ! Çerez Kuralları - Cookie Rules
 ! ---------------------------------------------------------
@@ -493,6 +494,7 @@ mail.google.com#@#.ads
 ##.footer-cookies-bar
 ##.info-cookie.message
 ##.info.alert
+##.kvkpolicy
 ##.kvkkpop
 ##.legal-alert
 ##.m-cookie
@@ -519,9 +521,11 @@ mail.google.com#@#.ads
 ##.wpcc-container
 ##.x-comet-dialog.x-comet-reset
 ! 
-! ------ Genel Olmayan Kurallar - Not Generic Rules ------ 
+! ------ Genel Olmayan Kurallar - Çerez Uyarıları ------ 
 ! 
-
+airbnb.com.tr##._153hgp9
+tatildekirala.com##.css-1fl91wo
+!
 ! ---------------------------------------------------------
 ! Abonelik Kuralları - Subscription Rules
 ! ---------------------------------------------------------
@@ -545,6 +549,7 @@ mail.google.com#@#.ads
 ##.google_news
 ##.googlenewsButton
 ##.home-footer__newsletter
+##.NewsletterFormArea
 ##.news-detail__info__google-news
 ##.newsletter
 ##.newsletter-section
@@ -558,7 +563,7 @@ mail.google.com#@#.ads
 ##div[class*="flipboard"]
 /google-haberler-abonelik.jp
 ! 
-! ------ Genel Olmayan Kurallar - Not Generic Rules ------ 
+! ------ Genel Olmayan Kurallar - Abonelik ------ 
 ! 
 pchocasi.com.tr,milliyet.com.tr,medyaespor.com,gursesgazetesi.com##a[href^="https://news.google.com/"][target="_blank"]
 milliyet.com.tr##.breadcrumb__flipboard
