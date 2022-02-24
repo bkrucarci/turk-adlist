@@ -415,7 +415,6 @@ arabam.com#@#div[class^="banner"]
 ##div[id*="btn-share"]
 ##div[id^="post-social"]
 /_iframe/haber_paylas_kutular.php
-/jssocials.min.js
 /sharer.js
 ||www.facebook.com/plugins/like.php$subdocument
 
