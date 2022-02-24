@@ -1,7 +1,7 @@
 [Adblock Plus 3.6]
 ! Title: 'I Do Not Want Your Mobile App' List
 ! Homepage: https://github.com/bkrucarci/turk-adlist
-! Version: 1.0.0.3
+! Version: 1.0.0.4
 !
 ! Description: This list aims to remove of mobile application banners, offers etc. No one, at least me, wants your app on their phones, tablets while they can view the site in browser!
 ! EXPERIMENTAL!!! This list contains lots of generic rules to be light as possible. So expect some false blockings! You can submit your related findings in issues section. 
@@ -9,15 +9,16 @@
 ! ---------------------------------------------------------
 ! Generic Rules
 ! ---------------------------------------------------------
+##.MacAppStore
 ##.android_link
 ##.app-appstore
 ##.app-download
 ##.app-ios
 ##.app-store
+##.appStore
 ##.app__markets
 ##.apple-store
 ##.apps-markets
-##.appStore
 ##.appstore
 ##.best-buy-app
 ##.f-apps
@@ -28,6 +29,8 @@
 ##.footer-apps
 ##.footer-icons-store-items
 ##.footer-market-link
+##.footer-mobile-app-links
+##.footer-social-mobile
 ##.footer__extras__title
 ##.foreks-trader
 ##.ft-koton-app
@@ -38,8 +41,10 @@
 ##.google-apple-btns
 ##.googlePlay
 ##.googleplay.gf-apps__link
-##.huaweiappgallery
+##.he-footer-app__content
+##.he-footer-app__title
 ##.huaweiPhone
+##.huaweiappgallery
 ##.icon-app-store
 ##.icon-apple-store
 ##.icon-google-play
@@ -50,7 +55,7 @@
 ##.ios
 ##.ios_link
 ##.ios_v8
-##.MacAppStore
+##.jumbotron-promote-mobile-app
 ##.mobile-app-link
 ##.mobile-app-links
 ##.mobile-applications
@@ -75,9 +80,9 @@
 ##.wds-is-fandom-apps
 ##.wds-is-fandom-stores
 ##[href^="//play.google.com/store/apps/details"]
-##[href^="https://appgallery7.huawei.com/#/app"]
 ##[href^="https://appgallery.cloud.huawei.com/"]
 ##[href^="https://appgallery.huawei.com/#/app"]
+##[href^="https://appgallery7.huawei.com/#/app"]
 ##[href^="https://apps.apple.com/tr/app"]
 ##[href^="https://itunes.apple.com/tr/app"]
 ##[href^="https://itunes.apple.com/us/app"]
@@ -90,6 +95,7 @@
 /app-store-icon.png
 /app-store.png
 /app-store.svg
+/appStoreLogo.png
 /app_icon_*.png
 /apple-market.png
 /apple-store.png
@@ -97,7 +103,6 @@
 /appstore.jpg
 /appstore.png
 /appstorebanner.png
-/appStoreLogo.png
 /galaxyStoreLogo.png
 /google-play.svg
 /google-store.png
