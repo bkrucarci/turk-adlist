@@ -141,6 +141,9 @@ www.blutv.com##a.footer-item.jsx-1449111430:nth-of-type(3)
 www.blutv.com##a.footer-item.jsx-1449111430:nth-of-type(1)
 ||cdn.dolap.com/web/images/img-1v2.jpg$image
 dolap.com##.billboard-banner.hidden-xs.visual
-www.gittigidiyor.com##.jOxulb.sc-1yvp483-0
-www.koctas.com.tr##.other-platforms
-www.yeniakit.com.tr##[href="https://www.yeniakit.com.tr/kurumsal/uygulama"]
+gittigidiyor.com##.jOxulb.sc-1yvp483-0
+koctas.com.tr##.other-platforms
+yeniakit.com.tr##[href="https://www.yeniakit.com.tr/kurumsal/uygulama"]
+exxen.com##.bottom-device-text
+exxen.com##.big-device
+exxen.com##.app-market-link
