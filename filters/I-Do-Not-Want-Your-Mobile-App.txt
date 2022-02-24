@@ -17,7 +17,6 @@
 ##.app-store
 ##.app__markets
 ##.apple-store
-##.application
 ##.apps-markets
 ##.appStore
 ##.appstore
