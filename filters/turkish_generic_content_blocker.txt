@@ -3,7 +3,7 @@
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.0.17 - 24.02.2022
+! Version : 1.0.0.18 - 24.02.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -29,6 +29,7 @@
 ###haber_detay_ic_reklam_
 ###left-ad
 ###masterpage_reklam_
+###masthead-ad
 ###masthead-reklam
 ###nme-ad-98274379510191730
 ###onetrust-consent-sdk
@@ -230,7 +231,15 @@
 ||www.720p-fullizleme.com/rek/
 ! 
 ! ------ Genel Olmayan Kurallar - Reklam ------ 
-! 
+!
+memurlar.net##.widget-970x250
+memurlar.net##div.widget-336x280
+memurlar.net##.widget-580x400
+forum.memurlar.net###masth
+61saat.com,61trabzonhaber.com##[href*="/banner.php"]
+!
+! ------ Genel Kuralların Düzeltmeleri - Reklam ------ 
+!
 mail.google.com#@#.ads
 ~arabam.com##div[class^="banner-"]
 ~arabam.com##div[class^="banner"]
@@ -241,6 +250,7 @@ mail.google.com#@#.ads
 ! Sosyal Medya Kuralları - Social Media Rules
 ! ---------------------------------------------------------
 ###fbPaylasCont
+###footer-share
 ###hbrShare
 ###mobilpaylas
 ###mvp-post-soc-wrap
@@ -252,10 +262,13 @@ mail.google.com#@#.ads
 ###share-buttons
 ###shareButton
 ###share_link
+###single-share
+###social-platforms
 ###social_media
 ###sp-social-media
 ###sp_message_container_575429
 ###tooplay_share_0_0
+##.DetayPaylas
 ##.PaylasimAlani
 ##.SocialMediaShareButton
 ##.SocialMediaShareButton
@@ -272,6 +285,7 @@ mail.google.com#@#.ads
 ##.btn-facebook
 ##.c-socials
 ##.cb-socials
+##.clearfix.rhd-social-box-wrapper
 ##.content-share
 ##.crunchify-social
 ##.custom_share
@@ -311,6 +325,7 @@ mail.google.com#@#.ads
 ##.panel-sosyal
 ##.paylas
 ##.paylasText
+##.paylas_button
 ##.pinesocials-shares
 ##.post_share
 ##.product-card__share
@@ -333,6 +348,7 @@ mail.google.com#@#.ads
 ##.share-friends
 ##.share-header
 ##.share-items
+##.share-link.post-share
 ##.share-post
 ##.share-post-link
 ##.share-space
@@ -355,6 +371,7 @@ mail.google.com#@#.ads
 ##.sharing-container
 ##.sharing-container
 ##.smlIconSet
+##.sns-shares
 ##.sociaPayLasim
 ##.sociaPayLasim
 ##.social
@@ -420,12 +437,12 @@ mail.google.com#@#.ads
 /_iframe/haber_paylas_kutular.php
 /sharer.js
 ||www.facebook.com/plugins/like.php$subdocument
-
 ! 
 ! ------ Genel Olmayan Kurallar - Paylaş Butonları ------ 
 ! 
 gezilesiyer.com##.wc_ss_btns
 gezilesiyer.com##.my-auto
+!
 ! ---------------------------------------------------------
 ! Çerez Kuralları - Cookie Rules
 ! ---------------------------------------------------------
@@ -447,6 +464,7 @@ gezilesiyer.com##.my-auto
 ###cookie_law_notification
 ###cookienotice
 ###cookiepolicy
+###cookies-message
 ###gizlilikpolitikasi
 ###js-hook-cookie-policy-banner
 ###privacy-consent
@@ -479,6 +497,9 @@ gezilesiyer.com##.my-auto
 ##.cookie-policy
 ##.cookie-policy-confirmation
 ##.cookie-policy-container
+##.cookie-policy-content
+##.cookie-policy-popup
+##.cookie-sticky-wrap
 ##.cookie-text
 ##.cookie.box
 ##.cookieConsentContainer
@@ -487,14 +508,15 @@ gezilesiyer.com##.my-auto
 ##.cookie_warning
 ##.cookieinfo
 ##.cookies
+##.cookies-notification
 ##.cookieseal-banner-body
 ##.efilli-riza
 ##.ems-cookie-bnr
 ##.footer-cookies-bar
 ##.info-cookie.message
 ##.info.alert
-##.kvkpolicy
 ##.kvkkpop
+##.kvkpolicy
 ##.legal-alert
 ##.m-cookie
 ##.modal--cookie
@@ -509,9 +531,11 @@ gezilesiyer.com##.my-auto
 ##.otPlaceholder
 ##.policy
 ##.privacy-banner
+##.show-cookie
 ##.show.cookiealert
 ##.styles_cookie__3hmxT
 ##.tibrr-cookie-consent-container
+##.tsoft-push--in-notification
 ##.veriAltBar
 ##.vl-notif-inner
 ##.vnotify-container
@@ -532,6 +556,7 @@ tatildekirala.com##.css-1fl91wo
 ###newsletter
 ###post-newsletter
 ###subscribe-wrapper
+##.NewsletterFormArea
 ##.bulletin
 ##.cnt-subscribe
 ##.detail-google-news
@@ -548,10 +573,10 @@ tatildekirala.com##.css-1fl91wo
 ##.google_news
 ##.googlenewsButton
 ##.home-footer__newsletter
-##.NewsletterFormArea
 ##.news-detail__info__google-news
 ##.newsletter
 ##.newsletter-section
+##.newsletter__item
 ##.pilli-subscribe
 ##.sidebar_bulten
 ##.single-gnews
