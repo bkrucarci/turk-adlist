@@ -219,7 +219,6 @@
 ##span[title="Ads by Google"]
 /Advertisement/
 /Reklam/
-/_ads/
 /ads/|~duckduckgo.com
 /binance-banner
 /detay-reklam.js
