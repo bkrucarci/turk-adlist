@@ -229,6 +229,14 @@
 /rklm/
 /spnsr/
 ||www.720p-fullizleme.com/rek/
+##.w620-ad
+##.multimedia-ad
+##.economy-ad
+##.comment-ad
+##.blockofad
+##.sidebar-ad
+###tv-ads-div-02
+/hit-increment/
 ! 
 ! ------ Genel Olmayan Kurallar - Reklam ------ 
 !
@@ -236,7 +244,10 @@ memurlar.net##.widget-970x250
 memurlar.net##div.widget-336x280
 memurlar.net##.widget-580x400
 forum.memurlar.net###masth
-61saat.com,61trabzonhaber.com##[href*="/banner.php"]
+61saat.com,61trabzonhaber.com,haberinadresi.com##[href*="/banner.php"]
+cnnturk.com##.adv-block
+www.haber7.com##.masthead-frame
+sozcu.com.tr##.load_masthead.masthead
 !
 ! ------ Genel Kuralların Düzeltmeleri - Reklam ------ 
 !
@@ -543,11 +554,14 @@ gezilesiyer.com##.my-auto
 ##.widget-cookie-banner
 ##.wpcc-container
 ##.x-comet-dialog.x-comet-reset
+##.cookie-popup
+##.cookie_cookie__3NG06
 ! 
 ! ------ Genel Olmayan Kurallar - Çerez Uyarıları ------ 
 ! 
 airbnb.com.tr##._153hgp9
 tatildekirala.com##.css-1fl91wo
+getir.com##.jbEkbL.style__Drawer-sc-1hjieh1-0
 !
 ! ---------------------------------------------------------
 ! Abonelik Kuralları - Subscription Rules
