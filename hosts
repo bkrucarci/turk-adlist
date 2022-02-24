@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    22 Feb 2022
+# Last update:    24 Feb 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -18,8 +18,11 @@
 127.0.0.1 109.73.75.29
 127.0.0.1 109.73.75.3
 127.0.0.1 1686607364.rsc.cdn77.org
+127.0.0.1 1rx.io
 127.0.0.1 217.195.197.45
+127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
+127.0.0.1 4dex.io
 127.0.0.1 82o9v830.com
 127.0.0.1 8digits.com
 127.0.0.1 a-ads.com
@@ -136,6 +139,7 @@
 127.0.0.1 ads-rouge.haber7.com
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads.ak.facebook.com.edgesuite.net
+127.0.0.1 ads.betweendigital.com
 127.0.0.1 ads.bluelithium.com
 127.0.0.1 ads.code.com.tr
 127.0.0.1 ads.converge-digital.com
@@ -230,6 +234,7 @@
 127.0.0.1 adworld.com.tr
 127.0.0.1 adworldmedia.com
 127.0.0.1 adx.ligadx.com
+127.0.0.1 adx.opera.com
 127.0.0.1 adxpremium.com
 127.0.0.1 adzbaba.com
 127.0.0.1 adzerk.net
@@ -265,6 +270,7 @@
 127.0.0.1 analytics.kkb.com.tr
 127.0.0.1 analytics.live.com
 127.0.0.1 analytics.mobile.walmart.com
+127.0.0.1 analytics.mobile.yandex.net
 127.0.0.1 analytics.mopub.com
 127.0.0.1 analytics.olay.com.tr
 127.0.0.1 analytics.query.yahoo.com
@@ -272,6 +278,7 @@
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analytics.yeniakit.com.tr
+127.0.0.1 analytik.xyz
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 api-adservices.apple.com
 127.0.0.1 api-stg.ensonhaber.com
@@ -280,6 +287,8 @@
 127.0.0.1 api.opencandy.com
 127.0.0.1 api.recommendedsw.com
 127.0.0.1 api.rubic.com.tr
+127.0.0.1 app-analytics-v2.snapchat.com
+127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app-measurement.com
 127.0.0.1 app.adjust.com
 127.0.0.1 app.gelirartisi.com
@@ -395,6 +404,7 @@
 127.0.0.1 codeonclick.com
 127.0.0.1 collect-test.arabam.com
 127.0.0.1 collector.puhutv.com
+127.0.0.1 connectad.io
 127.0.0.1 connextra.com
 127.0.0.1 consent.cookiebot.com
 127.0.0.1 content.bitsontherun.com
@@ -675,12 +685,14 @@
 127.0.0.1 ontek-serv.com
 127.0.0.1 onthe.io
 127.0.0.1 openx.net
+127.0.0.1 optad360.io
 127.0.0.1 optimizely.com
 127.0.0.1 oringmedia.com
 127.0.0.1 orjinalmarket.net
 127.0.0.1 orjinalshop.net
 127.0.0.1 os.yefeneri2.com
 127.0.0.1 os2.yefeneri2.com
+127.0.0.1 otclick-adv.ru
 127.0.0.1 outbrain.com
 127.0.0.1 outbrainimg.com
 127.0.0.1 outcome.supersonicads.com
@@ -735,6 +747,7 @@
 127.0.0.1 powferads.com
 127.0.0.1 pradma.com
 127.0.0.1 pre.footprintpredict.com
+127.0.0.1 prebid.a-mo.net
 127.0.0.1 prfct.co
 127.0.0.1 pro-market.net
 127.0.0.1 programattik.com
