@@ -151,3 +151,5 @@ yeniakit.com.tr##[href="https://www.yeniakit.com.tr/kurumsal/uygulama"]
 exxen.com##.bottom-device-text
 exxen.com##.big-device
 exxen.com##.app-market-link
+||www.superfb.com/_img/banner/sfb2.png
+www.superfb.com##div.box:nth-of-type(4)
