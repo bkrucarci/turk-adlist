@@ -678,6 +678,7 @@
 127.0.0.1 logger-08.vty.dailymotion.com
 127.0.0.1 logger-09.vty.dailymotion.com
 127.0.0.1 logger.virgul.com
+127.0.0.1 logs.viadata.store
 127.0.0.1 mads.com
 127.0.0.1 madserv.net
 127.0.0.1 madsone.com
@@ -708,6 +709,7 @@
 127.0.0.1 metrica.yandex.com.tr
 127.0.0.1 metrics.egencia.com.tr
 127.0.0.1 metrics.icloud.com
+127.0.0.1 metrics.similac.com.tr
 127.0.0.1 metrics34.com
 127.0.0.1 metrika.yandex.com.tr
 127.0.0.1 mgid.com
@@ -1023,6 +1025,9 @@
 127.0.0.1 supert.ag
 127.0.0.1 sw1block.com
 127.0.0.1 swbdds.com
+127.0.0.1 swwcyk.aspor.com.tr
+127.0.0.1 swwcyk.atv.com.tr
+127.0.0.1 swwcyk.takvim.com.tr
 127.0.0.1 sync.adaptv.advertising.com
 127.0.0.1 t1.clipkit.com
 127.0.0.1 taboola.com
@@ -1074,6 +1079,7 @@
 127.0.0.1 tutkazan1.com
 127.0.0.1 tynt.com
 127.0.0.1 ua.supersonicads.com
+127.0.0.1 uazmti.a101.com.tr
 127.0.0.1 ukbet99.com
 127.0.0.1 ulife17yeter.com
 127.0.0.1 usa-media.net
@@ -1083,6 +1089,7 @@
 127.0.0.1 uzreklam.com
 127.0.0.1 v.jwpcdn.com
 127.0.0.1 vdaffiliates.com
+127.0.0.1 vedznh.cumhuriyet.com.tr
 127.0.0.1 veeseo.com
 127.0.0.1 vegabet.net
 127.0.0.1 veloxity.net
@@ -1110,8 +1117,6 @@
 127.0.0.1 webtemsilcisi.com
 127.0.0.1 webtrekk.net
 127.0.0.1 webview.unityads.unity3d.com
-127.0.0.1 whatsapp-chat.xyz
-127.0.0.1 whatsappsohbetet.com
 127.0.0.1 widengle.com
 127.0.0.1 widget.boomads.com
 127.0.0.1 widget.cdn.vidyome.com
@@ -1123,6 +1128,7 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.omaze.com
 127.0.0.1 x.ligatus.com
+127.0.0.1 xenaly.sozcu.com.tr
 127.0.0.1 xmtrk.com
 127.0.0.1 xyztanitim.com
 127.0.0.1 ycreklam.com
