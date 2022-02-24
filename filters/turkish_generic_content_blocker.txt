@@ -3,7 +3,7 @@
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.0.15 - 23.02.2022
+! Version : 1.0.0.16 - 24.02.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -232,12 +232,11 @@
 ! 
 ! ------ Genel Olmayan Kurallar - Not Generic Rules ------ 
 ! 
-! GMail sorunu çözüldü
 mail.google.com#@#.ads
-! arabam.com sorunları çözüldü.
-arabam.com#@#div[class^="banner-"]
-arabam.com#@#div[class^="banner"]
+~arabam.com##div[class^="banner-"]
+~arabam.com##div[class^="banner"]
 @@||arbimg1.mncdn.com^$domain=arabam.com
+~ikincielotoaraba.com##div[class^="ad-"]
 !
 ! ---------------------------------------------------------
 ! Sosyal Medya Kuralları - Social Media Rules
@@ -330,6 +329,7 @@ arabam.com#@#div[class^="banner"]
 ##.share-block-99
 ##.share-buttons
 ##.share-buttons-wrapper
+##.share-fb
 ##.share-fixed
 ##.share-friends
 ##.share-header
@@ -339,6 +339,7 @@ arabam.com#@#div[class^="banner"]
 ##.share-space
 ##.share-svg
 ##.share-tools
+##.share-wp
 ##.shareArea
 ##.shareBtn
 ##.shareBtns
@@ -397,9 +398,11 @@ arabam.com#@#div[class^="banner"]
 ##.twitter.btn
 ##.twt
 ##.wapp
+##[href^="https://pinterest.com/pin/create/button/"]
 ##[href^="https://plus.google.com/share"]
 ##[href^="https://sbredir.com/tr"]
 ##[href^="https://twitter.com/share"]
+##[href^="https://www.facebook.com/sharer/sharer.php"]
 ##[href^="https://www.linkedin.com/cws/share"]
 ##[src="tema/facebook.gif"]
 ##a[href^="//telegram.me/share/url"]
@@ -440,12 +443,14 @@ arabam.com#@#div[class^="banner"]
 ###cookie-policy-app
 ###cookiePolicy
 ###cookiePolicyw
+###cookie_directive_container
 ###cookie_law_notification
 ###cookienotice
 ###cookiepolicy
 ###gizlilikpolitikasi
 ###js-hook-cookie-policy-banner
 ###privacy-consent
+##.CookieAdvicestyles__CookieContainer-sc-8lqsze-0
 ##.CookieLink
 ##.active.policy
 ##.active.type1.widget-cookie-popup
@@ -470,6 +475,7 @@ arabam.com#@#div[class^="banner"]
 ##.cookie-kutu
 ##.cookie-message
 ##.cookie-notification
+##.cookie-operation-message
 ##.cookie-policy
 ##.cookie-policy-confirmation
 ##.cookie-policy-container
@@ -492,6 +498,7 @@ arabam.com#@#div[class^="banner"]
 ##.m-cookie
 ##.modal--cookie
 ##.modal-contentx
+##.no-scrollable.type-cookie
 ##.noindex.blogCookieCover
 ##.notify-main-div
 ##.on.f-data-policy.sub-info
