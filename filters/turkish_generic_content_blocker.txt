@@ -198,8 +198,6 @@
 ##div[class^="ad-"]
 ##div[class^="ads-"]
 ##div[class^="advert_"]
-##div[class^="banner"]
-##div[class^="banner-"]
 ##div[class^="reklam"]
 ##div[class^="reklam-"]
 ##div[class^="reklam-alani"]
