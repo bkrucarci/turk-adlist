@@ -226,7 +226,6 @@
 /image/ad/
 /images/ad/
 /reklam/
-/rklm/
 /spnsr/
 ||www.720p-fullizleme.com/rek/
 ##.w620-ad
