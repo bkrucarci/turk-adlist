@@ -249,7 +249,6 @@
 /image/ad/
 /images/ad/
 /reklam/
-/spnsr/
 ||www.720p-fullizleme.com/rek/
 ! 
 ! ------ Genel Olmayan Kurallar - Reklam ------ 
