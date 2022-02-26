@@ -8,6 +8,18 @@
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
 ! ---------------------------------------------------------
+##.thb-ad-title
+##.thb-sponsored-content-container
+##.reklamayar
+##.adversAreaa
+##.ustReklam2019
+###player-ads
+##.ytp-ad-module
+##.video-ads
+###masthead-ad
+##.ad-interrupting
+##.ad-showing
+##.ad-created
 ###SonDakika_AnaSayfa_300x250_Kutu1
 ###\33 00x600_reklam
 ###adpro-1
@@ -469,6 +481,16 @@ gezilesiyer.com##.my-auto
 ! ---------------------------------------------------------
 ! Çerez Kuralları - Cookie Rules
 ! ---------------------------------------------------------
+###cookiealert
+##.cookie-notice-container
+###cconsent-bar
+##.fixed-cookie-content
+###secondCookiModal
+###cookie-notification
+##.ins-politika
+##.o-cookie
+##.eu-cookie-compliance-banner
+###redim-cookiehint-bottom
 ###CerezPopupBox
 ###CookieAlert
 ###CookieNotificationArea
@@ -581,6 +603,7 @@ gezilesiyer.com##.my-auto
 airbnb.com.tr##._153hgp9
 tatildekirala.com##.css-1fl91wo
 getir.com##.jbEkbL.style__Drawer-sc-1hjieh1-0
+www.cimri.com##.kmtqNo.s1a29zcm-13
 !
 ! ---------------------------------------------------------
 ! Abonelik Kuralları - Subscription Rules
