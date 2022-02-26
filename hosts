@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    26 Feb 2022
+# Last update:    27 Feb 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -224,6 +224,7 @@
 127.0.0.1 adserver.a24.com.tr
 127.0.0.1 adserver.adklik.com.tr
 127.0.0.1 adserver.advrstcdn.com
+127.0.0.1 adserver.bafrahaber.com
 127.0.0.1 adserver.reklamstore.com
 127.0.0.1 adserver.snapads.com
 127.0.0.1 adserver.tagon.co
@@ -500,6 +501,7 @@
 127.0.0.1 danmeneldur.com
 127.0.0.1 datacollection.beymen.com
 127.0.0.1 dataroid.com
+127.0.0.1 demand.supply
 127.0.0.1 demdex.net
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 dimml.io
@@ -660,6 +662,7 @@
 127.0.0.1 l.sharethis.com
 127.0.0.1 launchingonsetwhirlwind.com
 127.0.0.1 leetmedia.com
+127.0.0.1 letreach.com
 127.0.0.1 liadm.com
 127.0.0.1 liftdna.com
 127.0.0.1 ligadx.com
