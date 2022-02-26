@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    25 Feb 2022
+# Last update:    26 Feb 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -140,6 +140,7 @@
 127.0.0.1 adplay.com.tr
 127.0.0.1 adplus.yaani.com.tr
 127.0.0.1 adplxmd.com
+127.0.0.1 adpone.com
 127.0.0.1 adport.com.tr
 127.0.0.1 adpozitif.com
 127.0.0.1 adpre.com
@@ -483,6 +484,7 @@
 127.0.0.1 cxense.com
 127.0.0.1 czilladx.com
 127.0.0.1 d.applovin.com
+127.0.0.1 d.haberciniz.biz
 127.0.0.1 d.haberler.com
 127.0.0.1 d.turn.com
 127.0.0.1 d1d8vn0fpluuz7.cloudfront.net
@@ -578,6 +580,7 @@
 127.0.0.1 gravityrd-services.com
 127.0.0.1 grimex.net
 127.0.0.1 gtssl2-ocsp.geotrust.com
+127.0.0.1 guandads.com
 127.0.0.1 h.online-metrix.net
 127.0.0.1 happilyswitching.net
 127.0.0.1 hepsiads-bff.hepsiburada.com
@@ -833,7 +836,9 @@
 127.0.0.1 piaads.com
 127.0.0.1 ping.staticmoly.me
 127.0.0.1 pingdom.net
+127.0.0.1 pippio.com
 127.0.0.1 pixel.adsafeprotected.com
+127.0.0.1 pixel.tapad.com
 127.0.0.1 pixels.ingbank.com.tr
 127.0.0.1 pixenka.com
 127.0.0.1 plista.com
@@ -928,7 +933,10 @@
 127.0.0.1 reviveservers.com
 127.0.0.1 revotas.com
 127.0.0.1 revsci.net
+127.0.0.1 rezync.com
+127.0.0.1 rfihub.com
 127.0.0.1 richaudience.com
+127.0.0.1 rlcdn.com
 127.0.0.1 rotabetaffiliates.com
 127.0.0.1 rp.yefeneri2.com
 127.0.0.1 rpc.tapjoy.com
@@ -1043,6 +1051,7 @@
 127.0.0.1 tagon.co
 127.0.0.1 tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
 127.0.0.1 tanidigital.com
+127.0.0.1 tapad.com
 127.0.0.1 tapfiliate.com
 127.0.0.1 tapjoy.com
 127.0.0.1 tarpitbar.com
@@ -1108,6 +1117,7 @@
 127.0.0.1 videoclip.cdn.vidyome.com
 127.0.0.1 videogenetic.com
 127.0.0.1 videoustu.com
+127.0.0.1 viglink.com
 127.0.0.1 viralvideos.pw
 127.0.0.1 virgul.com
 127.0.0.1 visilabs.com
@@ -1153,6 +1163,7 @@
 127.0.0.1 youtubex.top
 127.0.0.1 yx-ads6.com
 127.0.0.1 zafrc.5780.site
+127.0.01 web.webpushs.com
 #
 # --- [ END ] --- #
 #
