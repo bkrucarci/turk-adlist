@@ -3,11 +3,14 @@
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.1.1 - 26.02.2022
+! Version : 1.0.1.2 - 27.02.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
 ! ---------------------------------------------------------
+##.adv-box
+##.col-adv
+##.ads-336x-280
 ###SonDakika_AnaSayfa_300x250_Kutu1
 ###\33 00x600_reklam
 ###adpro-1
@@ -269,6 +272,8 @@
 /image/ad/
 /images/ad/
 /reklam/
+/simple-ads-manager/
+/adrotate-pro/
 !
 ! #################### Genel Olmayan URL Filtreleme Kurallar - Reklam #################### 
 !
@@ -298,6 +303,8 @@
 ! 
 ! #################### Genel Olmayan Kurallar - Reklam #################### 
 !
+degisimmedya.com###popupContactx
+denizlihaber.com##.ap
 istikbalgazetesi.com##[href^="http://www.istikbalgazetesi.com/git.asp"]
 lidergazetesi.com##.c-marka.col
 haberturk.com##.gtm-tracker.head
@@ -727,3 +734,4 @@ milatgazetesi.com##.sp-prompt
 ! 
 pchocasi.com.tr,milliyet.com.tr,medyaespor.com,gursesgazetesi.com##a[href^="https://news.google.com/"][target="_blank"]
 milliyet.com.tr##.breadcrumb__flipboard
+adiyamanhaber.com##.news-abone
