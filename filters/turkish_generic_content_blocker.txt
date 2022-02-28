@@ -3,7 +3,7 @@
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.1.4 - 01.03.2022
+! Version : 1.0.1.5 - 01.03.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -302,6 +302,7 @@
 ! 
 ! #################### Genel Olmayan Kurallar - Reklam #################### 
 !
+ensonhaber.com##[href*="https://ensonhaber.me/"]
 degisimmedya.com###popupContactx
 denizlihaber.com##.ap
 istikbalgazetesi.com##[href^="http://www.istikbalgazetesi.com/git.asp"]
