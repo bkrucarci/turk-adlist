@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    27 Feb 2022
+# Last update:    28 Feb 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -591,7 +591,6 @@
 127.0.0.1 hepsiburada01.webtrekk.net
 127.0.0.1 histats.com
 127.0.0.1 hit.8digits.com
-127.0.0.1 hit.api.useinsider.com
 127.0.0.1 hit.demirorenteknoloji.com
 127.0.0.1 hit.dogannet.tv
 127.0.0.1 hit.gemius.pl
@@ -676,7 +675,6 @@
 127.0.0.1 liverail.com
 127.0.0.1 load.sumome.com
 127.0.0.1 localytics.com
-127.0.0.1 log.api.useinsider.com
 127.0.0.1 log.haberturk.com
 127.0.0.1 log.newsbreak.com.tr
 127.0.0.1 log.yapaytech.com
@@ -1105,6 +1103,7 @@
 127.0.0.1 ulife17yeter.com
 127.0.0.1 usa-media.net
 127.0.0.1 usabilla.com
+127.0.0.1 useinsider.com
 127.0.0.1 usergrid.com
 127.0.0.1 uzmanreklam.com
 127.0.0.1 uzreklam.com
