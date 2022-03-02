@@ -261,8 +261,18 @@
 !
 ! ## Genel URL Filtreleme Kuralları ## 
 !
+.tr/*/ad/
+.tr/*/ads/
+.tr/*/banner/
+.tr/*/banners/
+.tr/ad/
+.tr/ads/
+.tr/banner/
+.tr/banners/
+/320x250/
 /Advertisement/
 /Reklam/
+/adrotate-pro/
 /ads/|~duckduckgo.com
 /binance-banner
 /detay-reklam.js
@@ -271,7 +281,6 @@
 /images/ad/
 /reklam/
 /simple-ads-manager/
-/adrotate-pro/
 !
 ! #################### Genel Olmayan URL Filtreleme Kurallar - Reklam #################### 
 !
