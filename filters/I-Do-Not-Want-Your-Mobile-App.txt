@@ -1,7 +1,7 @@
 [Adblock Plus 3.6]
 ! Title: 'I Do Not Want Your Mobile App' List
 ! Homepage: https://github.com/bkrucarci/turk-adlist
-! Version: 1.0.0.6
+! Version: 1.0.0.7 - 02.03.2022
 !
 ! Description: This list aims to remove of mobile application banners, offers etc. No one, at least me, wants your app on their phones, tablets while they can view the site in browser!
 ! EXPERIMENTAL!!! This list contains lots of generic rules to be light as possible. So expect some false blockings! You can submit your related findings in issues section. 
@@ -55,10 +55,12 @@
 ##.ios_link
 ##.ios_v8
 ##.jumbotron-promote-mobile-app
+##.mobile-app
 ##.mobile-app-link
 ##.mobile-app-links
 ##.mobile-applications
 ##.mobile-apps
+##.mobile-apps-store
 ##.mobile-buttons
 ##.mobile-download-badges
 ##.mobile.hbFooter
@@ -155,3 +157,5 @@ www.superfb.com##div.box:nth-of-type(4)
 trthaber.com##.app-buttons-container
 haber365.com.tr##.my-apps-in.shadow.d-grid
 ||haber365.com.tr/img/app/
+trt.net.tr##.trtuygu
+trtcocuk.net.tr##.un-footer-top-apps
