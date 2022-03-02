@@ -3,7 +3,7 @@
 ! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.1.5 - 01.03.2022
+! Version : 1.0.1.6 - 02.03.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -308,15 +308,12 @@ denizlihaber.com##.ap
 istikbalgazetesi.com##[href^="http://www.istikbalgazetesi.com/git.asp"]
 lidergazetesi.com##.c-marka.col
 haberturk.com##.gtm-tracker.head
-ekohaber.com.tr##[href^="https://www.ekohaber.com.tr/banner.php"]
-tarsushaber.com##[href^="https://www.tarsushaber.com/banner.php"]
-yenisakarya.com##[href^="https://www.yenisakarya.com/banner.php"]
 gazeteyenigun.com.tr##[href*="https://www.gazeteyenigun.com.tr/advert/"]
 memurlar.net##.widget-970x250
 memurlar.net##div.widget-336x280
 memurlar.net##.widget-580x400
 forum.memurlar.net###masth
-61saat.com,61trabzonhaber.com,haberinadresi.com##[href*="/banner.php"]
+ekohaber.com.tr,tarsushaber.com,yenisakarya.com,61saat.com,61trabzonhaber.com,haberinadresi.com##[href*="/banner.php"]
 cnnturk.com##.adv-block
 www.haber7.com##.masthead-frame
 sozcu.com.tr##.load_masthead.masthead
