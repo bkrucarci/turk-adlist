@@ -1,7 +1,7 @@
 [Adblock Plus 3.6]
 ! Title: 'I Do Not Want Your Mobile App' List
 ! Homepage: https://github.com/bkrucarci/turk-adlist
-! Version: 1.0.0.7 - 02.03.2022
+! Version: 1.0.0.8 - 03.03.2022
 !
 ! Description: This list aims to remove of mobile application banners, offers etc. No one, at least me, wants your app on their phones, tablets while they can view the site in browser!
 ! EXPERIMENTAL!!! This list contains lots of generic rules to be light as possible. So expect some false blockings! You can submit your related findings in issues section. 
@@ -85,6 +85,8 @@
 ##[href^="https://appgallery.huawei.com/#/app"]
 ##[href^="https://appgallery7.huawei.com/#/app"]
 ##[href^="https://apps.apple.com/tr/app"]
+##[href^="https://itunes.apple.com/US/app"]
+##[href^="https://itunes.apple.com/app"]
 ##[href^="https://itunes.apple.com/tr/app"]
 ##[href^="https://itunes.apple.com/us/app"]
 ##[href^="https://play.google.com/store/apps/details"]
@@ -107,12 +109,15 @@
 /galaxyStoreLogo.png
 /google-play.svg
 /google-store.png
+/googleplay.png
 /huawei-store.png
 /huaweiStoreLogo.png
 /storeapp.png
 ! ---------------------------------------------------------
 ! Following websites NOT allowed to be generic
 ! ---------------------------------------------------------
+superhaber.tv##.apps
+dr.com.tr##.store-menu
 vatanbilgisayar.com##div[style="padding-left: 0; padding-right: 0;"] > .footer-vatan-info > .footer-vatan-info__title
 mediamarkt.com.tr##.ms-row__column:last-child  > .ms-link-list:last-child > .ms-link-list__title
 trendyol.com##.footer__wrapper > div:nth-child(2) > div > ul > li > .footer__wrapper--mediumTitle
