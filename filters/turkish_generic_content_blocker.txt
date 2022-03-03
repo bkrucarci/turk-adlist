@@ -1,20 +1,15 @@
 ! Title: Turkish Generic Content Blocker Filter 
 ! Homepage / Anasayfa : https://github.com/bkrucarci/turk-adlist/
-! This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
+! Description: This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version : 1.0.1.7 - 03.03.2022
+! Version: 1.0.1.8 - 03.03.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
 ! ---------------------------------------------------------
-##.adv-box
-##.col-adv
-##.ads-336x-280
-###SonDakika_AnaSayfa_300x250_Kutu1
 ###\33 00x600_reklam
 ###adpro-1
-###adpro-10
 ###adpro-2
 ###adpro-3
 ###adpro-4
@@ -23,6 +18,7 @@
 ###adpro-7
 ###adpro-8
 ###adpro-9
+###adpro-10
 ###advancenative
 ###advertising_billboard
 ###altreklam
@@ -30,9 +26,11 @@
 ###backreklam
 ###footerad
 ###haber_detay_ic_reklam_
+###halkbank-reklam
+###kayanReklamSag
+###kayanReklamSol
 ###left-ad
 ###masterpage_reklam_
-###masthead-ad
 ###masthead-ad
 ###masthead-reklam
 ###nme-ad-98274379510191730
@@ -43,8 +41,8 @@
 ###rek2
 ###rek3
 ###reklam
-###reklam-sag
 ###reklam1
+###reklam-sag
 ###reklam_sag
 ###reklam_sol
 ###reklamlar
@@ -56,6 +54,8 @@
 ###sag_blok_reklam1_
 ###sagreklam
 ###solreklam
+###SonDakika_AnaSayfa_300x250_Kutu1
+###sp-reklam
 ###tv-ads-div-02
 ###ustReklam
 ###ustreklam
@@ -77,8 +77,10 @@
 ##.adRendererInfinite
 ##.adbImg
 ##.add-banner
+##.add-inner
 ##.adpro
 ##.ads
+##.ads-336x-280
 ##.ads-box-news
 ##.ads-zone
 ##.adsWidgetSidebar
@@ -96,6 +98,7 @@
 ##.adv
 ##.adv-300
 ##.adv-600
+##.adv-box
 ##.adv-height250
 ##.adv-height90
 ##.adv-masthead
@@ -126,6 +129,7 @@
 ##.btbg
 ##.center.adv
 ##.centered-banner
+##.col-adv
 ##.col-adv.item
 ##.comment-ad
 ##.detail-first-ad
@@ -212,20 +216,25 @@
 ##.top-banner
 ##.ust-reklam
 ##.ustReklam2019
+##.vid-onlyDesktop
 ##.w620-ad
 ##.werbung
 ##.widget-ad-image
 ##.widget-gdpr-banner
 ##.x-comet-dialog-visible
 ##.yatay-reklam
+##.yeniv-postad
 ##.yildiz-pageskin-link
 ##.ytp-ad-module
 ##[href*="/reklam/"]
 ##[href*="/reklamlariniz/"]
 ##[href^="/showad.asp"]
+##[href^="https://accounts.binance.com/"]
 ##[href^="https://baybahisaffiliates.com/"]
+##[href^="https://betso0.com/"]
 ##[src*="/kral_oran_icon.png"]
 ##[src*="https://iddaa.sporx.com/web/"]
+##[src="https://www.hayat.ro/files/uploads/advert/"]
 ##a[href^="http://popup.taboola.com/"]
 ##a[href^="http://pubads.g.doubleclick.net/gampad/clk"]
 ##a[href^="https://bit.ly/"]
@@ -302,6 +311,7 @@
 !
 ! Diğer
 !
+||isghaber.com.tr/service/advertchannels
 ||bolununsesi.com/ilangorsel/
 ||kemergozcu.com/files/uploads/advert/
 ||nigdehaber.com.tr/files/uploads/advert/
@@ -311,6 +321,16 @@
 ! 
 ! #################### Genel Olmayan Kurallar - Reklam #################### 
 !
+hayat.ro##.header_big_advert
+hayat.ro##.advert
+teknoloji.org###custom_html-2
+teknoloji.org###custom_html-3
+teknoloji.org###custom_html-5
+teknoloji.org###custom_html-10
+ukraynahaber.com###custom_html-20
+haber34.com##[alt="original ad 300"]
+balkangunlugu.com.tr##.balkan-masthead
+almanyabulteni.de##.paragraph-body
 ensonhaber.com##[href*="https://ensonhaber.me/"]
 degisimmedya.com###popupContactx
 denizlihaber.com##.ap
@@ -381,6 +401,7 @@ mail.google.com#@#.ads
 ##.crunchify-social
 ##.custom_share
 ##.d-share
+##.desktop-share-button
 ##.desktop-social
 ##.detTarihler
 ##.detail-share
@@ -423,6 +444,7 @@ mail.google.com#@#.ads
 ##.pinesocials-shares
 ##.post_share
 ##.product-card__share
+##.product-detail-social
 ##.product-social
 ##.product__helper--share
 ##.product_social_icon_wrapper
@@ -522,6 +544,7 @@ mail.google.com#@#.ads
 ##.wapp
 ##.whatsapp.lnk-paylas
 ##.wpusb-whatsapp.wpusb-item
+##[data-testid="share-icons"]
 ##[href^="http://www.facebook.com/share.php"]
 ##[href^="http://www.linkedin.com/shareArticle"]
 ##[href^="https://pinterest.com/pin/create/button/"]
@@ -547,10 +570,10 @@ mail.google.com#@#.ads
 /_iframe/haber_paylas_kutular.php
 /sharer.js
 ||facebook.com/plugins/like.php$subdocument
-
 ! 
 ! #################### Genel Olmayan Kurallar - Paylaş Butonları #################### 
 !
+euronews.com##.c-scribblelive__social
 sabah.com.tr##.boxShadowSet.pageTools
 gezilesiyer.com##.wc_ss_btns
 gezilesiyer.com##.my-auto
@@ -592,6 +615,7 @@ aspor.com.tr##.social-media
 ###gizlilikpolitikasi
 ###js-hook-cookie-policy-banner
 ###privacy-consent
+###rb-cookie
 ###redim-cookiehint-bottom
 ###secondCookiModal
 ##.CookieAdvicestyles__CookieContainer-sc-8lqsze-0
@@ -648,6 +672,7 @@ aspor.com.tr##.social-media
 ##.info-cookie.message
 ##.info.alert
 ##.ins-politika
+##.js-cookies-popup
 ##.kvk-footer-warning
 ##.kvkkpop
 ##.kvkpolicy
@@ -683,6 +708,7 @@ aspor.com.tr##.social-media
 ! 
 ! #################### Genel Olmayan Kurallar - Çerez Uyarıları #################### 
 ! 
+bonherre.com###shopify-section-cookies_law
 airbnb.com.tr##._153hgp9
 tatildekirala.com##.css-1fl91wo
 getir.com##.jbEkbL.style__Drawer-sc-1hjieh1-0
@@ -699,7 +725,9 @@ milatgazetesi.com##.sp-prompt
 ##.NewsletterFormArea
 ##.aboneOlNews
 ##.article__google-news
+##.article__google-news
 ##.bulletin
+##.bulten_sidebar
 ##.clearfix.hs-sosyal
 ##.cnt-subscribe
 ##.detail-google-news
@@ -721,6 +749,7 @@ milatgazetesi.com##.sp-prompt
 ##.googlenewsButton
 ##.googlenewsm-btn
 ##.home-footer__newsletter
+##.kanews-service-link
 ##.news-detail__info__google-news
 ##.newsletter
 ##.newsletter-section
@@ -730,17 +759,23 @@ milatgazetesi.com##.sp-prompt
 ##.single-gnews
 ##.subscribe
 ##.subscribe-google-news
+##.subscription
 ##.tcm-link-subscribe
 ##.tds-newsletter
 ##.widget-google-news
 ##.widget-socials
+##.widget_mailpoet_form
+##.widget_youtube-widget
+##[href*="https://abone.evrensel.net"]
 ##[href*="https://news.google.com/"]
 ##div[class*="flipboard"]
 /google-haberler-abonelik.jp
+/youtube-subscribe.png
 ! 
 ! #################### Genel Olmayan Kurallar - Abonelik #################### 
 ! 
-pchocasi.com.tr,milliyet.com.tr,medyaespor.com,gursesgazetesi.com##a[href^="https://news.google.com/"][target="_blank"]
+kanalben.com##.pull-right
+pchocasi.com.tr,milliyet.com.tr,medyaespor.com,gursesgazetesi.com,sputniknews.com##a[href^="https://news.google.com/"][target="_blank"]
 milliyet.com.tr##.breadcrumb__flipboard
 adiyamanhaber.com##.news-abone
 trtworld.com##.contact05-email
