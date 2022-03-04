@@ -3,7 +3,7 @@
 ! Description: This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version: 1.0.1.8 - 03.03.2022
+! Version: 1.0.1.9 - 04.03.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -596,6 +596,7 @@ aspor.com.tr##.social-media
 ###cconsent-bar
 ###cerekKullanimUyari
 ###cmc-cookie-policy-banner
+###cookie-box
 ###cookie-consent
 ###cookie-info-container
 ###cookie-law-info-bar
@@ -759,6 +760,7 @@ milatgazetesi.com##.sp-prompt
 ##.single-gnews
 ##.subscribe
 ##.subscribe-google-news
+##.subscribe-widget
 ##.subscription
 ##.tcm-link-subscribe
 ##.tds-newsletter
