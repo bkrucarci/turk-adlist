@@ -50,7 +50,7 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Böyle bir amacımız yok. Amacımız tarayıcımıza ve ağımıza binen reklam yükünü elimizden geldikçe azaltmak ve sayfaların daha hızlı yüklenmesini sağlamaktır. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda reklam engelleyici kullanarak etkin bir şekilde element filtrelemesi de yapabilirsiniz.
 
 ---
-## Android 
+### Android 
 
 ### Android için AdGuard (ÜCRETLİ)
 
@@ -62,8 +62,24 @@ Android için AdGuard yazılımı bu konuda en iyisi denilebilir. Ücretli (Prem
 + Filtreleme yöntemini "Yüksek Kaliteli" yapın.
 + HTTPS kullanan reklam ağlarını ve uygulama içi reklamları (Oyun reklamları vb) engelleyebilir.
 
+---
+
 **NOT: AdGuard Android uygulaması, YouTube üzerindeki reklamları engelleyemez! Şu an piyasada hiçbir reklam engelleme uygulaması, YouTube'un resmi mobil uygulamalarındaki reklamları engelleyemez! Tekrar okuyun!**
 
+---
+### YouTube Reklamlarını Nasıl Engelleyebiliriz?
+
+Yukarıda yazdığım gibi resmi uygulamayı kullanarak reklamsız YouTube deneyimi mümkün değil. 3. parti uygulamalar ile ancak mümkün olmaktadır.
+
++ iOS üzerinde reklamsız YouTube için bir seçenek yok! [AdGuard İçerik Engelleyici](https://adguard.com/tr/adguard-ios/overview.html) ile birlikte Safari üzerinden YouTube açarsanız reklamları engelleyebilirsiniz.
++ Android üzerinde ise "modlanmış" uygulamalar aracılığı ile reklamsız YouTube deneyimi elde edebilirsiniz. Modlanmış uygulamalar Google Play Store üzerinden indirilemez. Bu uygulamalar market dışından olduğu için özel izinler ile tüm riskleri alarak kullanabilirsiniz.
+
+Alternatif "Modlu" Android YouTube Uygulamaları
+
++ [YouTube Vanced](https://vancedapp.com/) uygulaması ücretsizdir ancak açık kaynaklı değildir. Çok daha kapsamlı özellikler sunmaktadır. Google Hesabınızla giriş yapabilirsiniz. "Micro G" modülü üzerinden Google hesabınıza erişerek, reklamsız birebir resmi YouTube uygulamasının deneyemini "reklamsız" elde edebilirsiniz.
++ [NewPipe](https://github.com/TeamNewPipe/NewPipe/#readme) özgür ve ücretsiz bir programdır. Herhangi bir Google Hesabı, Google API olmadan video izlyebilir ve indirebilirsiniz. NewPipe uygulamasını arkaplanda kapanmadan çalıştırabilirsiniz.
+
+---
 ### DNS66 (Ücretsiz - Cihaz 'ROOTSUZ' ise)
 
 Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu garanti kapsamı dışına çıkarabilir. Telefonunuz root edilmemiş ise aşağıdaki adımlarla reklamları engelleyebilirsiniz.
@@ -92,5 +108,5 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 - Ana menüye dönün güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
 
 ---
-## Uyarı - Disclaimer
+### Uyarı - Disclaimer
 Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz! Bu makaleyi kopyalayabilir, istediğiniz gibi düzenleyip yeniden paylaşabilirsiniz.
