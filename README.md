@@ -62,6 +62,8 @@ Android için AdGuard yazılımı bu konuda en iyisi denilebilir. Ücretli (Prem
 + Filtreleme yöntemini "Yüksek Kaliteli" yapın.
 + HTTPS kullanan reklam ağlarını ve uygulama içi reklamları (Oyun reklamları vb) engelleyebilir.
 
+**NOT: AdGuard Android uygulaması, YouTube üzerindeki reklamları engelleyemez! Şu an piyasada hiçbir reklam engelleme uygulaması, YouTube'un resmi mobil uygulamalarındaki reklamları engelleyemez! Tekrar okuyun!**
+
 ### DNS66 (Ücretsiz - Cihaz 'ROOTSUZ' ise)
 
 Telefonunuzda root işlemi yapmak biraz zor ve riskli olabilir. Telefonunuzu garanti kapsamı dışına çıkarabilir. Telefonunuz root edilmemiş ise aşağıdaki adımlarla reklamları engelleyebilirsiniz.
