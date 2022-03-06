@@ -29,8 +29,6 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
   + Ayrıca benim oluşturduğum [deneysel filtreyi](https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/filters/turkish_generic_content_blocker.txt) de "Özel" filtre kısmına ekleyerek kullanabilirsiniz.
   + Filtreleri güncelle butonuna basın ve güle güle kullanın.
 
-#### Ufak bir hediye! Ekstra gizlilik ve güvenlik için tarayıcılarınıza [HTTPS Everywhere](https://www.eff.org/https-everywhere) ve [Privacy Badger](https://privacybadger.org/) eklentilerini de öneriyorum
-
 ---
 ### Windows
 - https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresinden listenin tamamını kopyalayın.
@@ -38,6 +36,7 @@ Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve rek
 - hosts dosyasını notepad ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
 
+---
 ### MacOS
 - https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresinden listenin tamamını kopyalayın.
 - Terminali açın.
