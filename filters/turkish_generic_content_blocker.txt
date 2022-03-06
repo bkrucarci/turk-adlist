@@ -3,11 +3,12 @@
 ! Description: This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version: 1.0.1.9 - 04.03.2022
+! Version: 1.0.1.10 - 06.03.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
 ! ---------------------------------------------------------
+###SonDakika_AnaSayfa_300x250_Kutu1
 ###\33 00x600_reklam
 ###adpro-1
 ###adpro-2
@@ -41,8 +42,8 @@
 ###rek2
 ###rek3
 ###reklam
-###reklam1
 ###reklam-sag
+###reklam1
 ###reklam_sag
 ###reklam_sol
 ###reklamlar
@@ -54,7 +55,6 @@
 ###sag_blok_reklam1_
 ###sagreklam
 ###solreklam
-###SonDakika_AnaSayfa_300x250_Kutu1
 ###sp-reklam
 ###tv-ads-div-02
 ###ustReklam
@@ -296,11 +296,11 @@
 ! /d/banner/ Kuralları (Bu kural genel filtrelemeye eklenebilir!)
 !
 ||bolugundem.com/d/banner/
+||d.sisligazetesi.com.tr/banner/
 ||gebzehaber.net/d/banner/
 ||gundemgazetesi.net/d/banner/
 ||memleket.com.tr/d/banner/
 ||merhabahaber.com/d/banner/
-||d.sisligazetesi.com.tr/banner/
 !
 ! /images/banner/ Kuralları (Bu kural genel filtrelemeye eklenebilir!)
 !
@@ -311,46 +311,46 @@
 !
 ! Diğer
 !
-||isghaber.com.tr/service/advertchannels
 ||bolununsesi.com/ilangorsel/
+||hudutgazetesi.com/files/advertising/
+||isghaber.com.tr/service/advertchannels
 ||kemergozcu.com/files/uploads/advert/
 ||nigdehaber.com.tr/files/uploads/advert/
-||hudutgazetesi.com/files/advertising/
 ||sef.link/
 ||www.720p-fullizleme.com/rek/
 ! 
 ! #################### Genel Olmayan Kurallar - Reklam #################### 
 !
-hayat.ro##.header_big_advert
+almanyabulteni.de##.paragraph-body
+balkangunlugu.com.tr##.balkan-masthead
+cnnturk.com##.adv-block
+degisimmedya.com###popupContactx
+denizlihaber.com##.ap
+ekohaber.com.tr,tarsushaber.com,yenisakarya.com,61saat.com,61trabzonhaber.com,haberinadresi.com##[href*="/banner.php"]
+ensonhaber.com##[href*="https://ensonhaber.me/"]
+forum.memurlar.net###masth
+gazeteyenigun.com.tr##[href*="https://www.gazeteyenigun.com.tr/advert/"]
+haber34.com##[alt="original ad 300"]
+haberturk.com##.gtm-tracker.head
 hayat.ro##.advert
+hayat.ro##.header_big_advert
+istikbalgazetesi.com##[href^="http://www.istikbalgazetesi.com/git.asp"]
+lidergazetesi.com##.c-marka.col
+memurlar.net##.widget-580x400
+memurlar.net##.widget-970x250
+memurlar.net##div.widget-336x280
+sozcu.com.tr##.load_masthead.masthead
+teknoloji.org###custom_html-10
 teknoloji.org###custom_html-2
 teknoloji.org###custom_html-3
 teknoloji.org###custom_html-5
-teknoloji.org###custom_html-10
 ukraynahaber.com###custom_html-20
-haber34.com##[alt="original ad 300"]
-balkangunlugu.com.tr##.balkan-masthead
-almanyabulteni.de##.paragraph-body
-ensonhaber.com##[href*="https://ensonhaber.me/"]
-degisimmedya.com###popupContactx
-denizlihaber.com##.ap
-istikbalgazetesi.com##[href^="http://www.istikbalgazetesi.com/git.asp"]
-lidergazetesi.com##.c-marka.col
-haberturk.com##.gtm-tracker.head
-gazeteyenigun.com.tr##[href*="https://www.gazeteyenigun.com.tr/advert/"]
-memurlar.net##.widget-970x250
-memurlar.net##div.widget-336x280
-memurlar.net##.widget-580x400
-forum.memurlar.net###masth
-ekohaber.com.tr,tarsushaber.com,yenisakarya.com,61saat.com,61trabzonhaber.com,haberinadresi.com##[href*="/banner.php"]
-cnnturk.com##.adv-block
 www.haber7.com##.masthead-frame
-sozcu.com.tr##.load_masthead.masthead
 !
 ! #################### Genel Kuralların Düzeltmeleri - Reklam #################### 
 !
-mail.google.com#@#.ads
 @@||arbimg1.mncdn.com^$domain=arabam.com
+mail.google.com#@#.ads
 ~ikincielotoaraba.com##div[class^="ad-"]
 ~odeabank.com.tr##.top-banner
 !
@@ -546,8 +546,6 @@ mail.google.com#@#.ads
 ##.wpusb-whatsapp.wpusb-item
 ##[data-testid="share-icons"]
 ##[href^="http://www.facebook.com/share.php"]
-##[href^="http://www.linkedin.com/shareArticle"]
-##[href^="https://pinterest.com/pin/create/button/"]
 ##[href^="https://plus.google.com/share"]
 ##[href^="https://sbredir.com/tr"]
 ##[href^="https://twitter.com/share"]
@@ -557,10 +555,11 @@ mail.google.com#@#.ads
 ##a[href^="//telegram.me/share/url"]
 ##a[href^="fb-messenger://share/"]
 ##a[href^="https://api.whatsapp.com/send"]
+##a[href^="https://news.google.com/"][target="_blank"]
 ##a[href^="https://share.flipboard.com/bookmarklet/popout"]
 ##a[href^="https://twitter.com/intent/tweet"]
+##a[href^="https://twitter.com/intent/tweet?"]
 ##a[href^="https://www.facebook.com/sharer.php"]
-##a[href^="https://www.linkedin.com/shareArticle"]
 ##div[class$="share_icons"]
 ##div[class*="-sharebox"]
 ##div[class*="share-box"]
@@ -570,19 +569,21 @@ mail.google.com#@#.ads
 /_iframe/haber_paylas_kutular.php
 /sharer.js
 ||facebook.com/plugins/like.php$subdocument
+~linkedin.com##[href^="https://pinterest.com/pin/create/button/"]
+~linkedin.com##a[href^="https://www.linkedin.com/shareArticle"]
 ! 
 ! #################### Genel Olmayan Kurallar - Paylaş Butonları #################### 
 !
-euronews.com##.c-scribblelive__social
-sabah.com.tr##.boxShadowSet.pageTools
-gezilesiyer.com##.wc_ss_btns
-gezilesiyer.com##.my-auto
-bolgegazetesi.com##.paylas-button
-bolgegazetesi.com###kodac
-darendehaber.com##.Paylas_Butonlari_001
 anamurekspres.com##.socialize_info_badge
-gazetevatan.com##.nd-social.multi-sticky-wrapper
 aspor.com.tr##.social-media
+bolgegazetesi.com###kodac
+bolgegazetesi.com##.paylas-button
+darendehaber.com##.Paylas_Butonlari_001
+euronews.com##.c-scribblelive__social
+gazetevatan.com##.nd-social.multi-sticky-wrapper
+gezilesiyer.com##.my-auto
+gezilesiyer.com##.wc_ss_btns
+sabah.com.tr##.boxShadowSet.pageTools
 !
 ! ---------------------------------------------------------
 ! Çerez Kuralları - Cookie Rules
@@ -709,12 +710,12 @@ aspor.com.tr##.social-media
 ! 
 ! #################### Genel Olmayan Kurallar - Çerez Uyarıları #################### 
 ! 
-bonherre.com###shopify-section-cookies_law
 airbnb.com.tr##._153hgp9
-tatildekirala.com##.css-1fl91wo
+bonherre.com###shopify-section-cookies_law
 getir.com##.jbEkbL.style__Drawer-sc-1hjieh1-0
-www.cimri.com##.kmtqNo.s1a29zcm-13
 milatgazetesi.com##.sp-prompt
+tatildekirala.com##.css-1fl91wo
+www.cimri.com##.kmtqNo.s1a29zcm-13
 !
 ! ---------------------------------------------------------
 ! Abonelik Kuralları - Subscription Rules
@@ -776,8 +777,9 @@ milatgazetesi.com##.sp-prompt
 ! 
 ! #################### Genel Olmayan Kurallar - Abonelik #################### 
 ! 
-kanalben.com##.pull-right
-pchocasi.com.tr,milliyet.com.tr,medyaespor.com,gursesgazetesi.com,sputniknews.com##a[href^="https://news.google.com/"][target="_blank"]
-milliyet.com.tr##.breadcrumb__flipboard
 adiyamanhaber.com##.news-abone
+kanalben.com##.pull-right
+milliyet.com.tr##.breadcrumb__flipboard
+ntv.com.tr##.article-socialFrame-widget
+pchocasi.com.tr,milliyet.com.tr,medyaespor.com,gursesgazetesi.com,sputniknews.com##a[href^="https://news.google.com/"][target="_blank"]
 trtworld.com##.contact05-email
