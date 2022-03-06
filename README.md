@@ -67,7 +67,7 @@ Android için AdGuard yazılımı bu konuda en iyisi denilebilir. Ücretli (Prem
 **NOT: AdGuard Android uygulaması, YouTube üzerindeki reklamları engelleyemez! Şu an piyasada hiçbir reklam engelleme uygulaması, YouTube'un resmi mobil uygulamalarındaki reklamları engelleyemez! Tekrar okuyun!**
 
 ---
-### YouTube Reklamlarını Nasıl Engelleyebiliriz?
+### Telefonda-Tablette YouTube Reklamları Nasıl Engellenir?
 
 Yukarıda yazdığım gibi resmi uygulamayı kullanarak reklamsız YouTube deneyimi mümkün değil. 3. parti uygulamalar ile ancak mümkün olmaktadır.
 
