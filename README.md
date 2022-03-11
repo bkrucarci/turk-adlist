@@ -51,7 +51,7 @@ Bilgisayarınızda, cep telefonunuzda, akıllı TV'nizde hatta router üzerine k
 
 ---
 
-**NOT : YouTube 'resmi' uygulaması üzerinde reklamları engellemek teknik açıdan şu an mümkün değil! Şu an piyasada hiçbir reklam engelleme uygulaması, YouTube'un 'resmi' mobil uygulamalarındaki reklamları engelleyemez! Tekrar okuyun! Şu an piyasada hiçbir reklam engelleme uygulaması, YouTube'un 'resmi' mobil uygulamalarındaki reklamları engelleyemez!**
+**NOT : YouTube 'resmi' mobil uygulamaları üzerinde reklamları engellemek teknik açıdan şu an mümkün değil! Şu an piyasada hiçbir reklam engelleme uygulaması, YouTube'un 'resmi' mobil uygulamalarındaki reklamları engelleyemez! Tekrar okuyun! Şu an piyasada hiçbir reklam engelleme uygulaması, YouTube'un 'resmi' mobil uygulamalarındaki reklamları engelleyemez!**
 
 (Bu teknoloji bir gün mümkün olduğunda bu klavuz güncellenecektir!)
 
