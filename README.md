@@ -80,7 +80,7 @@ Dikkat! Bu önerdiğim uygulamalar dışındaki uygulamalardan kaçının. Yukar
 - hosts dosyasını notepad ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
 
-NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Böyle bir amacımız yok. Amacımız tarayıcımıza ve ağımıza binen reklam yükünü elimizden geldikçe azaltmak ve sayfaların daha hızlı yüklenmesini sağlamaktır. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda [AdGuard Reklam Engelleyici](https://adguard.com/tr/adguard-browser-extension/overview.html) kullanarak etkin bir şekilde içerik engelleme yapabilirsiniz.
+NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Böyle bir amacımız yok. Amacımız tarayıcımıza ve ağımıza binen reklam yükünü elimizden geldikçe azaltmak ve sayfaların daha hızlı yüklenmesini sağlamaktır. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda [AdGuard Reklam Engelleyici](https://github.com/bkrucarci/turk-adlist#reklamlar%C4%B1-nas%C4%B1l-engelleyebilirim) kullanarak etkin bir şekilde içerik engelleme yapabilirsiniz.
 
 ---
 ### MacOS
@@ -93,7 +93,7 @@ NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. B
 - `$ sudo cat /etc/hosts` komutunu çalıştırdığınızda listeyi görüyorsanız doğru yapmışsınızdır.
 - Çalışmadığı durumda `$ sudo dscacheutil -flushcache` komutuyla host veritabınını yenileyebilirsiniz.
 
-NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Böyle bir amacımız yok. Amacımız tarayıcımıza ve ağımıza binen reklam yükünü elimizden geldikçe azaltmak ve sayfaların daha hızlı yüklenmesini sağlamaktır. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda [AdGuard Reklam Engelleyici](https://adguard.com/tr/adguard-browser-extension/overview.html) kullanarak etkin bir şekilde içerik engelleme yapabilirsiniz.
+NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Böyle bir amacımız yok. Amacımız tarayıcımıza ve ağımıza binen reklam yükünü elimizden geldikçe azaltmak ve sayfaların daha hızlı yüklenmesini sağlamaktır. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda [AdGuard Reklam Engelleyici](https://github.com/bkrucarci/turk-adlist#reklamlar%C4%B1-nas%C4%B1l-engelleyebilirim) kullanarak etkin bir şekilde içerik engelleme yapabilirsiniz.
 
 ---
 ### Uyarı - Disclaimer
