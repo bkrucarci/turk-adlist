@@ -19,7 +19,9 @@ Aşağıdaki başlıklarda herhangi bir platformda internetinizi reklamsız nas�
 
 İnternet tarayıcıları için birçok reklam engelleme eklentisi mevcut.
 
-Bu aşamada benim filtremden daha güçlü olan ve Türkçe filtresi olan [AdGuard Reklam Engelleyici Eklentisini](https://adguard.com/tr/adguard-browser-extension/overview.html) kullanmanızı tavsiye ederim.
+Bu aşamada sizlere Türkçe filtresi olan [AdGuard Reklam Engelleyici Eklentisini](https://adguard.com/tr/adguard-browser-extension/overview.html) kullanmanızı tavsiye ederim.
+
+turk-adlist reklamları engellemek için yeterli olsa da sayfalarda reklamların bıraktığı boşlukları kapatabilmek, gizleyebilmek için "içerik engelleme" gereklidir. İçerik engelleme, host filtreleme ile mümkün değildir. Bu nedenle bir eklenti kullanmamız gereklidir. Sayfalardaki diğer içerikleri engelleme ve gizleme yeteneklerine AdGuard tarayıcı eklentisi ile sahip olabilirsinz.
 
 AdGuard'ın tarayıcı eklentisi açık kaynak kodlu ve ücretsizdir.
 
@@ -49,7 +51,9 @@ NextDNS sizi her türlü bilinen güvenlik tehdidinden korur, web sitelerinde ve
 
 ---
 
-**NOT : YouTube 'resmi' mobil uygulamaları üzerinde reklamları engellemek teknik açıdan şu an mümkün değil! Şu an piyasada hiçbir reklam engelleme uygulaması, YouTube'un 'resmi' mobil uygulamalarındaki reklamları engelleyemez! Tekrar okuyun! Şu an piyasada hiçbir reklam engelleme uygulaması, YouTube'un 'resmi' mobil uygulamalarındaki reklamları engelleyemez!**
+**NOT : YouTube 'resmi' mobil uygulamaları üzerinde reklamları engellemek teknik açıdan şu an mümkün değil! Şu an piyasada hiçbir reklam engelleme uygulaması, YouTube'un 'resmi' mobil uygulamalarındaki reklamları engelleyemez! Tekrar okuyun!**
+
+**Şu an piyasada hiçbir reklam engelleme uygulaması, YouTube'un 'resmi' mobil uygulamalarındaki reklamları engelleyemez!**
 
 (Bu teknoloji bir gün mümkün olduğunda bu klavuz güncellenecektir!)
 
@@ -64,34 +68,12 @@ YouTube, Google'a ait bir platformdur. Gelirinin neredeyse tamamını reklamlard
 Bu nedenle modlanmış uygulamalar Google Play Store üzerinden indirilemez.
 Bu uygulamalar market dışından olduğu için "market dışından uygulama yüklemeye izin vererek" aşağıdaki uygulamaları kullanabilirsiniz.
 
-##### "Modlanmış" Android YouTube Uygulamaları
+#### "Modlanmış" Android YouTube Uygulamaları
 
 + [YouTube Vanced](https://vancedapp.com/) uygulaması ücretsizdir ancak açık kaynaklı değildir. Çok daha kapsamlı özellikler sunmaktadır. Google Hesabınızla giriş yapabilirsiniz. "Micro G" modülü üzerinden Google hesabınıza erişerek, reklamsız birebir resmi YouTube uygulamasının deneyemini "reklamsız" elde edebilirsiniz.
 + [NewPipe](https://github.com/TeamNewPipe/NewPipe/#readme) özgür ve ücretsiz bir programdır. Herhangi bir Google Hesabı, Google API olmadan video izlyebilir ve indirebilirsiniz. NewPipe uygulamasını arkaplanda kapanmadan çalıştırabilirsiniz.
 
 Dikkat! Bu önerdiğim uygulamalar dışındaki uygulamalardan kaçının. Yukarıda önerdiğim uygulamalar uzun zamandır geniş bir topluluk tarafından kullanılan, test edilen ve güvenilirliğini ispatlamış uygulamalardır. Reklam engellemek uğruna telefonunuza az bilinen, kim tarafından geliştirildiği belli olmayan uygulamaları kurmayın!
-
----
-### Windows
-- https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresinden listenin tamamını kopyalayın.
-- Bilgisayarınızda C:\Windows\System32\drivers\etc konumuna ilerleyin ve hosts dosyasını bulun.
-- hosts dosyasını notepad ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
-- Bilgisayarınızı yeniden başlatın.
-
-NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Böyle bir amacımız yok. Amacımız tarayıcımıza ve ağımıza binen reklam yükünü elimizden geldikçe azaltmak ve sayfaların daha hızlı yüklenmesini sağlamaktır. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda [AdGuard Reklam Engelleyici](https://github.com/bkrucarci/turk-adlist#reklamlar%C4%B1-nas%C4%B1l-engelleyebilirim) kullanarak etkin bir şekilde içerik engelleme yapabilirsiniz.
-
----
-### MacOS
-- https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresinden listenin tamamını kopyalayın.
-- Terminali açın.
-- `$ sudo nano /etc/hosts` komutunu çalıştırın.
-- Listeyi dosyanın sonuna yapıştırın
-- Control + O tuşlarına basın ve sonrasın enter tuşuna basın.
-- Command + X tuşuyla çıkış yapın.
-- `$ sudo cat /etc/hosts` komutunu çalıştırdığınızda listeyi görüyorsanız doğru yapmışsınızdır.
-- Çalışmadığı durumda `$ sudo dscacheutil -flushcache` komutuyla host veritabınını yenileyebilirsiniz.
-
-NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Böyle bir amacımız yok. Amacımız tarayıcımıza ve ağımıza binen reklam yükünü elimizden geldikçe azaltmak ve sayfaların daha hızlı yüklenmesini sağlamaktır. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda [AdGuard Reklam Engelleyici](https://github.com/bkrucarci/turk-adlist#reklamlar%C4%B1-nas%C4%B1l-engelleyebilirim) kullanarak etkin bir şekilde içerik engelleme yapabilirsiniz.
 
 ---
 ### Uyarı - Disclaimer
