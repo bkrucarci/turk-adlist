@@ -35,7 +35,7 @@ Bu listeler sürekli güncellenmektedir. Mobilde ve bilgisayarda karşınıza ç
 
 bkrucarci turk-adlist filtresini de listede göreceksiniz. Etkinleştirmeyi unutmayın!
 
-![](https://i.imgur.com/qsiy8jN.png)
+![](https://i.hizliresim.com/90qwctq.png)
 
 ---
 ### Yerel İzleme Koruması
