@@ -1,7 +1,6 @@
-"Modern internetin yeni ağ duvarı" parolası ile yola çıkan bir internet servisi NextDNS.
-
----
 ### NextDNS nedir, ne işe yarar, neden kullanmalıyım?
+
+"Modern internetin yeni ağ duvarı" parolası ile yola çıkan bir internet servisi NextDNS.
 
 NextDNS sizi her türlü bilinen güvenlik tehdidinden korur, web sitelerinde ve uygulamalarda reklamları ve izleyicileri engeller. Tüm cihazlarınızda ve tüm ağlarda çocuklar için güvenli ve kontrol edilebilir bir internet deneyimi sağlar.
 
