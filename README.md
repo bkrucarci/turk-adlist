@@ -47,7 +47,7 @@ Reklam engelleme için NextDNS uygulamasını öneriyorum. NextDNS üzerinde "bk
 
 NextDNS sizi her türlü bilinen güvenlik tehdidinden korur, web sitelerinde ve uygulamalarda reklamları ve izleyicileri engeller. Tüm cihazlarınızda ve tüm ağlarda çocuklar için güvenli ve kontrol edilebilir bir internet deneyimi sağlar.
 
-Bilgisayarınızda, cep telefonunuzda, akıllı TV'nizde hatta router üzerine kurarsanız akıllı buzdolabınızda bile NextDNS yapılandırmanızı kullanabilirsiniz. İlk okuduğunuzda ütopik gelebilir, ne alakası var diyebilirsiniz ancak dünya, tüm cihazların internete bağlanabildiği ve bu cihazların birbiri ile internet üzerinden iletişim kurduğu bir çağa doğru hızla ilerliyor.
+- [**NextDNS Kurulum Rehberi**](https://github.com/bkrucarci/turk-adlist/blob/master/NextDNS_Rehberi.md#nextdns-nedir-ne-i%C5%9Fe-yarar-neden-kullanmal%C4%B1y%C4%B1m)'ne gözatın
 
 ---
 
