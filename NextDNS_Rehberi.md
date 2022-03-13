@@ -29,7 +29,11 @@ Hesabınızı oluşturup panele girdiğiniz zaman aşağıdaki gibi bir ekran si
 
 ![](https://i.hizliresim.com/78bazo0.png)
 
-Engelleme listesi ekle diyerek reklam ağlarının geniş bir listesini etkinleştirelim. Benim de kullandığım filtre yapılandırması görseldeki gibidir. Bu listeler sürekli güncellenmektedir. Mobilde ve bilgisayarda karşınıza çıkacak bilinen tüm reklam ağları engellenecektir. Bu şekilde akıcı ve temiz bir internete kavuşacaksınız.
+Engelleme listesi ekle diyerek reklam ağlarının geniş bir listesini etkinleştirelim. Benim de kullandığım filtre yapılandırması görseldeki gibidir.
+
+Bu listeler sürekli güncellenmektedir. Mobilde ve bilgisayarda karşınıza çıkacak bilinen tüm reklam ağları engellenecektir. Bu şekilde akıcı ve temiz bir internete kavuşacaksınız.
+
+bkrucarci turk-adlist filtresini de listede göreceksiniz. Etkinleştirmeyi unutmayın!
 
 ![](https://i.imgur.com/qsiy8jN.png)
 
