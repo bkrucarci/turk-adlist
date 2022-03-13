@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    09 Mar 2022
+# Last update:    13 Mar 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -147,8 +147,8 @@
 127.0.0.1 adpre.com
 127.0.0.1 adprotected.com
 127.0.0.1 adproxy.fyber.com
-127.0.0.1 adpushup.com
 127.0.0.1 adpush.goforandroid.com
+127.0.0.1 adpushup.com
 127.0.0.1 adrayon.com
 127.0.0.1 adrayon.net
 127.0.0.1 adrazzi.com
@@ -183,6 +183,7 @@
 127.0.0.1 ads.ilbetaff.com
 127.0.0.1 ads.inegolonline.com
 127.0.0.1 ads.kiosked.com
+127.0.0.1 ads.linkedin.com
 127.0.0.1 ads.linksrequest.com
 127.0.0.1 ads.macskorlari.net
 127.0.0.1 ads.macsonuclari.mobi
@@ -434,7 +435,6 @@
 127.0.0.1 cdn.smartclick.io
 127.0.0.1 cdn.solimba.com
 127.0.0.1 cdn.sportlabs.online
-127.0.0.1 cdn.teads.tv
 127.0.0.1 cdn.trackjs.com
 127.0.0.1 cdn.tuto4pc.com
 127.0.0.1 cdn.visualbee.net
@@ -1065,6 +1065,7 @@
 127.0.0.1 tapfiliate.com
 127.0.0.1 tapjoy.com
 127.0.0.1 tarpitbar.com
+127.0.0.1 teads.tv
 127.0.0.1 tempobanners.com
 127.0.0.1 terraclicks.com
 127.0.0.1 theadx.com
@@ -1140,6 +1141,7 @@
 127.0.0.1 vungle.com
 127.0.0.1 vxhrhnvtucv.com
 127.0.0.1 wawlabs.com
+127.0.0.1 web.webpushs.com
 127.0.0.1 webanalyzer.bussion.com
 127.0.0.1 webinstats.com
 127.0.0.1 webservis.gen.tr
@@ -1175,7 +1177,6 @@
 127.0.0.1 youtubex.top
 127.0.0.1 yx-ads6.com
 127.0.0.1 zafrc.5780.site
-127.0.0.1 web.webpushs.com
 #
 # --- [ END ] --- #
 #
