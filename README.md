@@ -74,7 +74,3 @@ Bu uygulamalar market dışından olduğu için "market dışından uygulama yü
 + [NewPipe](https://github.com/TeamNewPipe/NewPipe/#readme) özgür ve ücretsiz bir programdır. Herhangi bir Google Hesabı, Google API olmadan video izlyebilir ve indirebilirsiniz. NewPipe uygulamasını arkaplanda kapanmadan çalıştırabilirsiniz.
 
 Dikkat! Bu önerdiğim uygulamalar dışındaki uygulamalardan kaçının. Yukarıda önerdiğim uygulamalar uzun zamandır geniş bir topluluk tarafından kullanılan, test edilen ve güvenilirliğini ispatlamış uygulamalardır. Reklam engellemek uğruna telefonunuza az bilinen, kim tarafından geliştirildiği belli olmayan uygulamaları kurmayın!
-
----
-#### Uyarı - Disclaimer
-Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz! Bu makaleyi kopyalayabilir, istediğiniz gibi düzenleyip yeniden paylaşabilirsiniz.
