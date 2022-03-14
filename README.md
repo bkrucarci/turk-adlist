@@ -70,10 +70,9 @@ Bu uygulamalar market dışından olduğu için "market dışından uygulama yü
 
 #### "Modlanmış" Android YouTube Uygulamaları
 
++ [NewPipe](https://github.com/TeamNewPipe/NewPipe/#readme) özgür ve ücretsiz bir programdır. Herhangi bir Google Hesabı, Google API olmadan video izlyebilir ve indirebilirsiniz. NewPipe uygulamasını arkaplanda kapanmadan çalıştırabilirsiniz.
 + [YouTube Vanced](https://vancedapp.com/) uygulaması ücretsizdir ancak açık kaynaklı değildir. Çok daha kapsamlı özellikler sunmaktadır. Google Hesabınızla giriş yapabilirsiniz. "Micro G" modülü üzerinden Google hesabınıza erişerek, reklamsız birebir resmi YouTube uygulamasının deneyemini "reklamsız" elde edebilirsiniz.
 
-(Not: Vanced uygulaması 13.03.2022 tarihinde Google'ın yasal yaptırımları sonucu "[geliştirilmesi durdurulmuştur.](https://twitter.com/YTVanced/status/1503052250268286980)" Bundan sonraki süreçte uygulama güncelleme almayacaktır. Aşağıdaki alternatifleri incelemenizi tavsiye ederim.)
-
-+ [NewPipe](https://github.com/TeamNewPipe/NewPipe/#readme) özgür ve ücretsiz bir programdır. Herhangi bir Google Hesabı, Google API olmadan video izlyebilir ve indirebilirsiniz. NewPipe uygulamasını arkaplanda kapanmadan çalıştırabilirsiniz.
+(Not: Vanced uygulaması 13.03.2022 tarihinde Google'ın yasal yaptırımları sonucu "[geliştirilmesi durdurulmuştur.](https://twitter.com/YTVanced/status/1503052250268286980)" Bundan sonraki süreçte uygulama güncelleme almayacaktır. [NewPipe](https://github.com/TeamNewPipe/NewPipe/#readme) kullanmanızı tavsiye ederim.)
 
 Dikkat! Bu önerdiğim uygulamalar dışındaki uygulamalardan kaçının. Yukarıda önerdiğim uygulamalar uzun zamandır geniş bir topluluk tarafından kullanılan, test edilen ve güvenilirliğini ispatlamış uygulamalardır. Reklam engellemek uğruna telefonunuza az bilinen, kim tarafından geliştirildiği belli olmayan uygulamaları kurmayın!
