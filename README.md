@@ -45,7 +45,7 @@ Tüm popüler tarayıcılar ile uyumludur. (Chrome - Firefox - Opera - Safari - 
 
 ![](https://i.hizliresim.com/1ysnl6x.png)
 
-Reklam engelleme için NextDNS uygulamasını öneriyorum. NextDNS üzerinde "bkrucarci turk-adlist" filtremizi yapılandırmanızı hazırlarken "Gizlilik" sekmesinde görebilir, etkinleştirebilirsiniz. NextDNS ile tüm ağınızda diğer listeleri de ekleyerek etkin bir filtreleme yapabilirsiniz.
+Reklam engelleme için NextDNS uygulamasını öneriyorum. NextDNS üzerinde "bkrucarci turk-adlist" filtremizi, yapılandırmanızı hazırlarken "Gizlilik" sekmesinde görebilir, etkinleştirebilirsiniz. NextDNS ile tüm ağınızda diğer listeleri de ekleyerek etkin bir filtreleme yapabilirsiniz.
 
 NextDNS sizi her türlü bilinen güvenlik tehdidinden korur, web sitelerinde ve uygulamalarda reklamları ve izleyicileri engeller. Tüm cihazlarınızda ve tüm ağlarda çocuklar için güvenli ve kontrol edilebilir bir internet deneyimi sağlar.
 
