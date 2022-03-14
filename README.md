@@ -37,6 +37,8 @@ Tüm popüler tarayıcılar ile uyumludur. (Chrome - Firefox - Opera - Safari - 
   + AdGuard Can Sıkıcı Öğeler Filtresi,
   + AdGuard Türkçe Filtresini etkinleştirin.
   + Filtreleri güncelle butonuna basın ve güle güle kullanın.
+   
+  (UYARI! Reklamları engelleyeceğim derken ayarlarda gördüğünüz tüm filtreleri etkinleştirmeyin! Aynı işi yapan 3-4 filtreyi açmak bir fayda sağlamadığı gibi sayfaların açılış hızını yavaşlatacaktır. Optimum filtre kombinasyonu yukarıdaki gibidir.)
 
 ---
 ### TÜM PLATFORMLARDA DNS İLE REKLAM ENGELLEME
@@ -62,7 +64,7 @@ NextDNS sizi her türlü bilinen güvenlik tehdidinden korur, web sitelerinde ve
 
 Yukarıda yazdığım gibi resmi uygulamayı kullanarak reklamsız YouTube deneyimi mümkün değil. 3. parti uygulamalar ile ancak mümkün olmaktadır.
 
-+ iOS üzerinde reklamsız YouTube için bir seçenek yok! [AdGuard İçerik Engelleyici](https://adguard.com/tr/adguard-ios/overview.html) ile birlikte Safari üzerinden YouTube açarsanız reklamları engelleyebilirsiniz. Apple kısıtlamaları nedeniyle iPhone ve iPad üzerinde farklı bir şansınız bulunmuyor.
++ iOS üzerinde reklamsız YouTube için bir seçenek yok! [Safari için AdGuard](https://adguard.com/tr/adguard-ios/overview.html) uygulaması ile birlikte Safari üzerinden YouTube websitesini açarsanız reklamları engelleyebilirsiniz. Apple kısıtlamaları nedeniyle iPhone ve iPad üzerinde farklı bir şansınız bulunmuyor.
 + Android üzerinde iOS cihazlara oranla daha özgür olduğumuz için "modlanmış" uygulamalar aracılığı ile reklamsız YouTube deneyimi elde edebilirsiniz.
 YouTube, Google'a ait bir platformdur. Gelirinin neredeyse tamamını reklamlardan elde eden Google kendi uygulama mağazasında YouTube reklamlarını engelleyebilen alternatiflerine izin vermemektedir.
 Bu nedenle modlanmış uygulamalar Google Play Store üzerinden indirilemez.
