@@ -3,7 +3,7 @@
 ! Description: This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version: 1.0.1.11 - 09.03.2022
+! Version: 1.0.1.12 - 15.03.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -25,6 +25,7 @@
 ###altreklam
 ###arkaplanreklam
 ###backreklam
+###bottomads
 ###footerad
 ###haber_detay_ic_reklam_
 ###halkbank-reklam
@@ -66,6 +67,7 @@
 ##.aawp
 ##.ad
 ##.ad-desktop
+##.ad-inside-news
 ##.ad-interrupting
 ##.ad-showing
 ##.ad-with-border
@@ -139,6 +141,7 @@
 ##.detail_right_ads_3
 ##.dikey-reklam
 ##.economy-ad
+##.ezoic-ad
 ##.footer-sticky
 ##.header-banner
 ##.header_720x90v2
@@ -208,6 +211,7 @@
 ##.solkulereklam
 ##.sponsored
 ##.td-a-ad
+##.td-adspot-title
 ##.tepe-banner
 ##.textrek
 ##.thb-ad
@@ -232,14 +236,15 @@
 ##[href^="https://accounts.binance.com/"]
 ##[href^="https://baybahisaffiliates.com/"]
 ##[href^="https://betso0.com/"]
+##[href^="https://track.adform.net/"]
 ##[src*="/kral_oran_icon.png"]
 ##[src*="https://iddaa.sporx.com/web/"]
 ##a[href^="http://popup.taboola.com/"]
 ##a[href^="http://pubads.g.doubleclick.net/gampad/clk"]
+##a[href^="https://accounts.binance.me/"]
 ##a[href^="https://bit.ly/"]
 ##a[href^="https://web.bitexen.com"]
 ##a[href^="https://www.trbinance.com/"]
-##a[href^="https://accounts.binance.me/"]
 ##div[class$="-adsense"]
 ##div[class*="-reklam"]
 ##div[class*="Reklam_"]
@@ -270,6 +275,7 @@
 !
 ! ## Genel URL Filtreleme Kuralları ## 
 !
+*/IncrementViewCount
 .tr/*/ad/
 .tr/*/ads/
 .tr/*/banner/
@@ -281,6 +287,7 @@
 /320x250/
 /Advertisement/
 /Reklam/
+/_ajax/tebilisim.php?
 /adrotate-pro/
 /ads/|~duckduckgo.com
 /binance-banner
@@ -290,7 +297,9 @@
 /images/ad/
 /reklam/
 /simple-ads-manager/
-*/IncrementViewCount
+/te/plugins/advert/
+/ticimax/analytics.js
+||cdn.tebilisim.com/analytics.js
 !
 ! #################### Genel Olmayan URL Filtreleme Kurallar - Reklam #################### 
 !
@@ -313,13 +322,17 @@
 ! Diğer
 !
 ||bolununsesi.com/ilangorsel/
+||dizirix.*/rklm/
 ||hayat.ro/files/uploads/advert/
 ||hudutgazetesi.com/files/advertising/
 ||isghaber.com.tr/service/advertchannels
+||kamu3.com/images/reklam/
+||kamudanhaber.net/advert/
 ||kemergozcu.com/files/uploads/advert/
 ||nigdehaber.com.tr/files/uploads/advert/
 ||sef.link/
 ||www.720p-fullizleme.com/rek/
+||yenisafak.com/ads/
 ! 
 ! #################### Genel Olmayan Kurallar - Reklam #################### 
 !
@@ -333,6 +346,7 @@ ensonhaber.com##[href*="https://ensonhaber.me/"]
 forum.memurlar.net###masth
 gazeteyenigun.com.tr##[href*="https://www.gazeteyenigun.com.tr/advert/"]
 haber34.com##[alt="original ad 300"]
+haber7.com##.masthead-frame
 haberturk.com##.gtm-tracker.head
 hayat.ro##.advert
 hayat.ro##.header_big_advert
@@ -341,23 +355,24 @@ lidergazetesi.com##.c-marka.col
 memurlar.net##.widget-580x400
 memurlar.net##.widget-970x250
 memurlar.net##div.widget-336x280
+onedio.com###icerikYaniMid1-container
+onedio.com###icerikYaniMid2-container
+onedio.com###icerikYaniSponMid1-container
+onedio.com###icerikYaniSponTop-container
+onedio.com###icerikYaniTop-container
+onedio.com###mansetAlti-container
+onedio.com###masthead-container
+onedio.com###masthead-container > .u-center
+onedio.com##.mb-4.max-w-\[1100px\].w-full.u-center.mx-auto
+onedio.com##.z-2.mb-2\.5.u-center
 sozcu.com.tr##.load_masthead.masthead
+tatil360.net##.top-head-banner
 teknoloji.org###custom_html-10
 teknoloji.org###custom_html-2
 teknoloji.org###custom_html-3
 teknoloji.org###custom_html-5
-ukraynahaber.com###custom_html-20
-haber7.com##.masthead-frame
-onedio.com###mansetAlti-container
-onedio.com###masthead-container > .u-center
-onedio.com##.mb-4.max-w-\[1100px\].w-full.u-center.mx-auto
-onedio.com##.z-2.mb-2\.5.u-center
-onedio.com###icerikYaniSponTop-container
-onedio.com###icerikYaniTop-container
-onedio.com###icerikYaniMid1-container
-onedio.com###icerikYaniSponMid1-container
-onedio.com###icerikYaniMid2-container
 tr.investing.com##.promo-strip-wrapper
+ukraynahaber.com###custom_html-20
 !
 ! #################### Genel Kuralların Düzeltmeleri - Reklam #################### 
 !
@@ -454,6 +469,7 @@ mail.google.com#@#.ads
 ##.paylas
 ##.paylasText
 ##.paylas_button
+##.penci-social-share-footer
 ##.pinesocials-shares
 ##.post_share
 ##.product-card__share
@@ -594,9 +610,12 @@ bolgegazetesi.com###kodac
 bolgegazetesi.com##.paylas-button
 darendehaber.com##.Paylas_Butonlari_001
 euronews.com##.c-scribblelive__social
+flypgs.com##.sm-share-mobile
 gazetevatan.com##.nd-social.multi-sticky-wrapper
 gezilesiyer.com##.my-auto
 gezilesiyer.com##.wc_ss_btns
+gezimanya.com##.share-button
+gezinomi.com##.shareBlock
 sabah.com.tr##.boxShadowSet.pageTools
 !
 ! ---------------------------------------------------------
@@ -628,6 +647,7 @@ sabah.com.tr##.boxShadowSet.pageTools
 ###cookienotice
 ###cookiepolicy
 ###cookies-message
+###ezmobfooter
 ###gizlilikpolitikasi
 ###js-hook-cookie-policy-banner
 ###privacy-consent
@@ -650,6 +670,7 @@ sabah.com.tr##.boxShadowSet.pageTools
 ##.consent-banner
 ##.container-cookie-policy
 ##.container.cookie-policy
+##.cookie
 ##.cookie-bottom
 ##.cookie-box
 ##.cookie-choices-info
@@ -673,6 +694,7 @@ sabah.com.tr##.boxShadowSet.pageTools
 ##.cookie.box
 ##.cookieConsentContainer
 ##.cookieNotification
+##.cookiePolicy
 ##.cookie__card
 ##.cookie_cookie__3NG06
 ##.cookie_warning
@@ -684,6 +706,7 @@ sabah.com.tr##.boxShadowSet.pageTools
 ##.ems-cookie-bnr
 ##.eu-cookie-compliance-banner
 ##.fixed-cookie-content
+##.fixedprotectionOfData
 ##.footer-cookies-bar
 ##.info-cookie.message
 ##.info.alert
@@ -726,10 +749,12 @@ sabah.com.tr##.boxShadowSet.pageTools
 ! 
 airbnb.com.tr##._153hgp9
 bonherre.com###shopify-section-cookies_law
+cimri.com##.kmtqNo.s1a29zcm-13
+flypgs.com##.nxm2CookieBar
 getir.com##.jbEkbL.style__Drawer-sc-1hjieh1-0
 milatgazetesi.com##.sp-prompt
+neredekal.com##.css-1fl0mfv
 tatildekirala.com##.css-1fl91wo
-www.cimri.com##.kmtqNo.s1a29zcm-13
 !
 ! ---------------------------------------------------------
 ! Abonelik Kuralları - Subscription Rules
@@ -765,7 +790,9 @@ www.cimri.com##.kmtqNo.s1a29zcm-13
 ##.googlenewsButton
 ##.googlenewsm-btn
 ##.home-footer__newsletter
+##.jetpack_subscription_widget
 ##.kanews-service-link
+##.news-abone
 ##.news-detail__info__google-news
 ##.newsletter
 ##.newsletter-section
