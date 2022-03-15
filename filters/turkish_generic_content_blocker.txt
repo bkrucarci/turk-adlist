@@ -3,7 +3,7 @@
 ! Description: This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version: 1.0.1.12 - 15.03.2022
+! Version: 1.0.1.13 - 15.03.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -236,7 +236,9 @@
 ##[href^="https://accounts.binance.com/"]
 ##[href^="https://baybahisaffiliates.com/"]
 ##[href^="https://betso0.com/"]
+##[href^="https://lizbonaff.com"]
 ##[href^="https://track.adform.net/"]
+##[href^="https://www.roxonet.com/"]
 ##[src*="/kral_oran_icon.png"]
 ##[src*="https://iddaa.sporx.com/web/"]
 ##a[href^="http://popup.taboola.com/"]
@@ -250,10 +252,11 @@
 ##div[class*="Reklam_"]
 ##div[class*="reklamlar"]
 ##div[class*="sponsored-news-recommendation"]
-##div[class^="Advertisement"]
 ##div[class^="ad-"]
 ##div[class^="ads-"]
 ##div[class^="advert_"]
+##div[class^="Advertisement"]
+##div[class^="detail_right_ads_"]
 ##div[class^="reklam"]
 ##div[class^="reklam-"]
 ##div[class^="reklam-alani"]
@@ -404,12 +407,6 @@ mail.google.com#@#.ads
 ###sp-social-media
 ###sp_message_container_575429
 ###tooplay_share_0_0
-##.DetayPaylas
-##.PaylasimAlani
-##.SocialMediaShareButton
-##.SocialMediaShareButton
-##.SocialTools
-##.SocialTools
 ##.a2a_kit
 ##.addthis_inline_share_toolbox
 ##.addthis_sharing_toolbox
@@ -431,10 +428,11 @@ mail.google.com#@#.ads
 ##.d-share
 ##.desktop-share-button
 ##.desktop-social
-##.detTarihler
 ##.detail-share
 ##.detail-social
 ##.detay-share-wrapper
+##.DetayPaylas
+##.detTarihler
 ##.ds-share
 ##.entry-share
 ##.face
@@ -467,8 +465,9 @@ mail.google.com#@#.ads
 ##.nws-share-txt-td
 ##.panel-sosyal
 ##.paylas
-##.paylasText
 ##.paylas_button
+##.PaylasimAlani
+##.paylasText
 ##.penci-social-share-footer
 ##.pinesocials-shares
 ##.post_share
@@ -493,6 +492,7 @@ mail.google.com#@#.ads
 ##.share-fixed
 ##.share-friends
 ##.share-header
+##.share-item
 ##.share-items
 ##.share-link.post-share
 ##.share-post
@@ -501,28 +501,21 @@ mail.google.com#@#.ads
 ##.share-svg
 ##.share-tools
 ##.share-wp
+##.share__link
+##.share_bar
+##.share_detail
 ##.shareArea
 ##.shareBtn
 ##.shareBtns
-##.shareTitle
-##.share__link
-##.share__link
-##.share_bar
-##.share_bar
-##.share_detail
-##.share_detail
 ##.shares-box
 ##.sharethis-inline-share-buttons
+##.shareTitle
 ##.sharing
-##.sharing
-##.sharing-container
 ##.sharing-container
 ##.si-share
 ##.single-social-media
 ##.smlIconSet
 ##.sns-shares
-##.sociaPayLasim
-##.sociaPayLasim
 ##.social
 ##.social-bar-v2
 ##.social-box
@@ -544,18 +537,22 @@ mail.google.com#@#.ads
 ##.social-share__main
 ##.social-shares
 ##.social-sharing-button
+##.social-sharing-buttons
 ##.social-sharing-icon
-##.socialBar
 ##.social_fb
 ##.social_group
 ##.social_link
 ##.social_tw
+##.socialBar
 ##.socialfooter
+##.SocialMediaShareButton
 ##.socials
 ##.socials-sharing
+##.SocialTools
+##.sociaPayLasim
 ##.sosyal
-##.sosyalMedya
 ##.sosyalhaber
+##.sosyalMedya
 ##.sshare
 ##.sticky-header__share
 ##.sub-action-share
@@ -604,6 +601,10 @@ mail.google.com#@#.ads
 ! 
 ! #################### Genel Olmayan Kurallar - Paylaş Butonları #################### 
 !
+boluhavadis.net###paylas-alan
+sondakikabolu.com##.sosyalinfo
+bizbolulular.com##.paylasDesktop
+vatanbilgisayar.com##.socialShareBtn
 anamurekspres.com##.socialize_info_badge
 aspor.com.tr##.social-media
 bolgegazetesi.com###kodac
@@ -621,14 +622,10 @@ sabah.com.tr##.boxShadowSet.pageTools
 ! ---------------------------------------------------------
 ! Çerez Kuralları - Cookie Rules
 ! ---------------------------------------------------------
-###CerezPopupBox
-###CookieAlert
-###CookieNotificationArea
-###CybotCookiebotDialog
 ###btz-cookie-popup
-###cboxContent
 ###cconsent-bar
 ###cerekKullanimUyari
+###CerezPopupBox
 ###cmc-cookie-policy-banner
 ###cookie-box
 ###cookie-consent
@@ -637,16 +634,19 @@ sabah.com.tr##.boxShadowSet.pageTools
 ###cookie-notification
 ###cookie-policy
 ###cookie-policy-app
-###cookieBar
-###cookieInfo
-###cookiePolicy
-###cookiePolicyw
 ###cookie_directive_container
 ###cookie_law_notification
+###CookieAlert
 ###cookiealert
+###cookieBar
+###cookieInfo
 ###cookienotice
+###CookieNotificationArea
+###cookiePolicy
 ###cookiepolicy
+###cookiePolicyw
 ###cookies-message
+###CybotCookiebotDialog
 ###ezmobfooter
 ###gizlilikpolitikasi
 ###js-hook-cookie-policy-banner
@@ -654,8 +654,6 @@ sabah.com.tr##.boxShadowSet.pageTools
 ###rb-cookie
 ###redim-cookiehint-bottom
 ###secondCookiModal
-##.CookieAdvicestyles__CookieContainer-sc-8lqsze-0
-##.CookieLink
 ##.active.policy
 ##.active.type1.widget-cookie-popup
 ##.alert-info.alert-message
@@ -676,6 +674,7 @@ sabah.com.tr##.boxShadowSet.pageTools
 ##.cookie-choices-info
 ##.cookie-confirmation
 ##.cookie-consent
+##.cookie-description
 ##.cookie-disclaimer
 ##.cookie-info
 ##.cookie-kutu
@@ -692,13 +691,16 @@ sabah.com.tr##.boxShadowSet.pageTools
 ##.cookie-sticky-wrap
 ##.cookie-text
 ##.cookie.box
-##.cookieConsentContainer
-##.cookieNotification
-##.cookiePolicy
 ##.cookie__card
 ##.cookie_cookie__3NG06
 ##.cookie_warning
+##.CookieAdvicestyles__CookieContainer-sc-8lqsze-0
+##.cookieConsentContainer
 ##.cookieinfo
+##.cookielayer__layer
+##.CookieLink
+##.cookieNotification
+##.cookiePolicy
 ##.cookies
 ##.cookies-notification
 ##.cookieseal-banner-body
@@ -818,7 +820,8 @@ tatildekirala.com##.css-1fl91wo
 ! 
 ! #################### Genel Olmayan Kurallar - Abonelik #################### 
 ! 
-adiyamanhaber.com##.news-abone
+finans.mynet.com##.bulletinContent
+cumrapostasi.com,adiyamanhaber.com##.news-abone
 kanalben.com##.pull-right
 milliyet.com.tr##.breadcrumb__flipboard
 ntv.com.tr##.article-socialFrame-widget

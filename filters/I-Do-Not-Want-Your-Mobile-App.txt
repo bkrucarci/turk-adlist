@@ -1,7 +1,7 @@
 [Adblock Plus 3.6]
 ! Title: 'I Do Not Want Your Mobile App' List
 ! Homepage: https://github.com/bkrucarci/turk-adlist
-! Version: 1.0.0.12 - 15.03.2022
+! Version: 1.0.0.13 - 15.03.2022
 !
 ! Description: This list aims to remove of mobile application banners, offers etc. No one, at least me, wants your app on their phones, tablets while they can view the site in browser!
 ! EXPERIMENTAL!!! This list contains lots of generic rules to be light as possible. So expect some false blockings! You can submit your related findings in issues section. 
@@ -82,13 +82,15 @@
 ##.wds-is-fandom-stores
 ##[href="/mobil-uygulamalar"]
 ##[href^="//play.google.com/store/apps/details"]
+##[href^="https://app.stormgain.com"]
+##[href^="https://appgallery7.huawei.com/#/app"]
 ##[href^="https://appgallery.cloud.huawei.com/"]
 ##[href^="https://appgallery.huawei.com/#/app"]
-##[href^="https://appgallery7.huawei.com/#/app"]
+##[href^="https://apps.apple.com/ru/app"]
 ##[href^="https://apps.apple.com/tr/app"]
-##[href^="https://itunes.apple.com/US/app"]
 ##[href^="https://itunes.apple.com/app"]
 ##[href^="https://itunes.apple.com/tr/app"]
+##[href^="https://itunes.apple.com/US/app"]
 ##[href^="https://itunes.apple.com/us/app"]
 ##[href^="https://play.google.com/store/apps/details"]
 ##div[class*="MobileAppMarket"]
@@ -118,13 +120,21 @@
 ! ---------------------------------------------------------
 ! Following websites NOT allowed to be generic
 ! ---------------------------------------------------------
-aa.com.tr##.row > .text-md-left:nth-child(4)
+nedir.com###apps
+24.hu##.-appCol
+netgazete.com##.footer-alan-sag
+detmir.ru##.eA
+sbermegamarket.ru##.mobile-app-widget
+gearbest.com##.appDownload_panel
+bizbolulular.com##.app-area
+aa.com.tr##div.text-md-left:contains(Güvenilir haber her an yanınızda)
 bilyoner.com##.SmRKw
 bilyoner.com##._3MKjb
 bilyoner.com##.footer__top__apps
 birebin.com##[href="/iddaa-mobil-uygulamalar"]
 birgun.net##.main-footer__support
-dolap.com##.billboard-banner.hidden-xs.visual
+dolap.com##.billboard-banner
+dolap.com##.redirectToDownloadApp
 dr.com.tr##.store-menu
 ecosia.org##li.full-footer__mobile-badge
 evrensel.net##.bg-email-sub > div.container > .row > .col-md-4
@@ -135,39 +145,40 @@ flashscore.com.tr##.footer__identityScreen
 fotomac.com.tr##[href^="https://itunes.apple.com/tr/app/fotomac/id647219944"]
 gittigidiyor.com##.jOxulb.sc-1yvp483-0
 gratis.com##.row > .col-md-2:last-child > h4
-haber365.com.tr##.my-apps-in.shadow.d-grid
+haber365.com.tr##.my-apps-in
 haberaktuel.com##[href="https://itunes.apple.com/tr/app/haber-aktuel/id795844036"]
 hayday.com##.appButtons__image
 iddaa.com##.MobileApplication-sc-oenj51-10
 koctas.com.tr##.other-platforms
-mediamarkt.com.tr##.ms-row__column:last-child  > .ms-link-list:last-child > .ms-link-list__title
+mediamarkt.com.tr##div.ms-link-list:contains(Mobil Uygulamalar)
 migros.com.tr##.inner-grid > .mdc-layout-grid__cell--span-4 > .mdc-layout-grid__cell--span-6 > .title:nth-child(3)
-milligazete.com.tr##div.item-list.item:nth-of-type(2)
-misli.com##div.pb-20.mb-20.footerBlock:nth-of-type(1)
+milligazete.com.tr##div.item-list:contains(Mobil Uygulamalar)
+misli.com##div.footerBlock:contains(MOBİL UYGULAMALARIMIZ)
 modanisa.com##.row1 > ul > .item.double.last:nth-child(4) > .head3:nth-child(3)
 morhipo.com##.row > div.col-md-2:nth-child(4) > .h4
-n11.com##.fWrapper > .footerSocial > div:nth-child(3) > h4
+n11.com##.footerSocial > div:nth-child(3) > h4
 nesine.com##.app
-odatv4.com##div.footer-c.col-md-3.col-sm-6:nth-of-type(3)
+odatv4.com##div.footer-c:contains(Mobil Uygulamalar)
 sondakika.com##.footer-cls
 sozcu.com.tr##.mb-4.col-lg-3 > div.mb-2
 sporx.com##[href^="https://itunes.apple.com/tr/app/sporx-spor-haber-canl%C4%B1-skor/id649802640"]
 superhaber.tv##.apps
 tozlu.com##.ticiContainer > .linkler > .blink > ul > li > span:nth-child(3)
-trendyol.com##.footer__wrapper > div:nth-child(2) > div > ul > li > .footer__wrapper--mediumTitle
+trendyol.com##.footer__wrapper--mediumTitle
 trt.net.tr##.trtuygu
 trtcocuk.net.tr##.un-footer-top-apps
 trtdinle.com##.sidebar-app-promo
 trthaber.com##.app-buttons-container
 turk.net##.elementor-column:last-child > .elementor-widget-wrap > .elementor-widget-heading:first-child
 tuttur.com##.footerContentDownloads
-vatanbilgisayar.com##div[style="padding-left: 0; padding-right: 0;"] > .footer-vatan-info > .footer-vatan-info__title
+vatanbilgisayar.com##div.footer-vatan-info:contains(İndirmek İçin:)
 www.blutv.com##a.footer-item.jsx-1449111430:nth-of-type(1)
 www.blutv.com##a.footer-item.jsx-1449111430:nth-of-type(3)
 www.superfb.com##div.box:nth-of-type(4)
 yeniakit.com.tr##[href="https://www.yeniakit.com.tr/kurumsal/uygulama"]
 yenicaggazetesi.com.tr##.icon-android
 yenicaggazetesi.com.tr##.icon-ios
+||haber8.pro/*/biz-bolulular-mobil-uygulamasiyla-yayinda-8122021-1118.jpg
 ||cdn.dolap.com/web/images/img-1v2.jpg$image
 ||haber365.com.tr/img/app/
 ||www.sporx.com/_img/app/*.png
