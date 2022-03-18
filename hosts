@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    13 Mar 2022
+# Last update:    18 Mar 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -32,6 +32,7 @@
 127.0.0.1 a.ads2.msn.com
 127.0.0.1 a1.mzstatic.com
 127.0.0.1 aadserving.com
+127.0.0.1 aaxads.com
 127.0.0.1 ac3.msn.com
 127.0.0.1 acc-hd.de
 127.0.0.1 action.adzcore.com
@@ -251,6 +252,7 @@
 127.0.0.1 adtarget.com.tr
 127.0.0.1 adtech.com
 127.0.0.1 adtech.de
+127.0.0.1 adtilt.com
 127.0.0.1 adtrack.king.com
 127.0.0.1 adv.letitbit.net
 127.0.0.1 advancenative.com
@@ -455,6 +457,7 @@
 127.0.0.1 cmt.setrowid.com
 127.0.0.1 cntadvertising.com
 127.0.0.1 code.createjs.com
+127.0.0.1 code.jivosite.com
 127.0.0.1 codeonclick.com
 127.0.0.1 collect-test.arabam.com
 127.0.0.1 collect.dolap.com
@@ -508,6 +511,7 @@
 127.0.0.1 danmeneldur.com
 127.0.0.1 datacollection.beymen.com
 127.0.0.1 dataroid.com
+127.0.0.1 dbfukofby5ycr.cloudfront.net
 127.0.0.1 demand.supply
 127.0.0.1 demdex.net
 127.0.0.1 device-metrics-us-2.amazon.com
@@ -684,6 +688,7 @@
 127.0.0.1 liverail.com
 127.0.0.1 load.sumome.com
 127.0.0.1 localytics.com
+127.0.0.1 log.clarity.ms
 127.0.0.1 log.haberturk.com
 127.0.0.1 log.newsbreak.com.tr
 127.0.0.1 log.yapaytech.com
@@ -1067,6 +1072,7 @@
 127.0.0.1 tapjoy.com
 127.0.0.1 tarpitbar.com
 127.0.0.1 teads.tv
+127.0.0.1 telemetry.jivosite.com
 127.0.0.1 tempobanners.com
 127.0.0.1 terraclicks.com
 127.0.0.1 theadx.com
@@ -1113,6 +1119,8 @@
 127.0.0.1 uazmti.a101.com.tr
 127.0.0.1 ukbet99.com
 127.0.0.1 ulife17yeter.com
+127.0.0.1 unityads.unity3d.com
+127.0.0.1 uqd.io
 127.0.0.1 usa-media.net
 127.0.0.1 usabilla.com
 127.0.0.1 useinsider.com
