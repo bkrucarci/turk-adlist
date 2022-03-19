@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    18 Mar 2022
+# Last update:    19 Mar 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -221,6 +221,7 @@
 127.0.0.1 ads3.fingersoft.net
 127.0.0.1 ads5-adnow.com
 127.0.0.1 ads5.sabah.com.tr
+127.0.0.1 adsafeprotected.com
 127.0.0.1 adsbetkoy.com
 127.0.0.1 adsblok.com
 127.0.0.1 adscale.de
@@ -605,6 +606,7 @@
 127.0.0.1 hit.8digits.com
 127.0.0.1 hit.demirorenteknoloji.com
 127.0.0.1 hit.dogannet.tv
+127.0.0.1 hit.duhnet.tv
 127.0.0.1 hit.gemius.pl
 127.0.0.1 hit.mynet.com
 127.0.0.1 hitgelsin.com
@@ -632,6 +634,7 @@
 127.0.0.1 indisancal.com
 127.0.0.1 inegolreklam.net
 127.0.0.1 infolinks.com
+127.0.0.1 ingest.sentry.io
 127.0.0.1 init.supersonicads.com
 127.0.0.1 inmobi.com
 127.0.0.1 inno.bisrv.com
@@ -1000,6 +1003,8 @@
 127.0.0.1 slhgfdsir.com
 127.0.0.1 smaclick.com
 127.0.0.1 smartadserver.com
+127.0.0.1 smartlook.cloud
+127.0.0.1 smartlook.com
 127.0.0.1 smetrics.capitalone.com
 127.0.0.1 smetrics.kone.com.tr
 127.0.0.1 smetrics.vodafone.com.tr
