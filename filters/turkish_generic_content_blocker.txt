@@ -3,7 +3,7 @@
 ! Description: This is experimental generic element hiding rules for Turkish websites. Attention! This filter can potentially cause conflicts and mess with websites!
 ! Türkçe siteler için deneysel genel öğe gizleme filtresi. Dikkat! Bu filtre, olası çakışmalara ve sitelerin düzgün çalışmamasına sebep olabilir!
 ! 
-! Version: 1.0.1.13 - 15.03.2022
+! Version: 1.0.1.14 - 23.03.2022
 !
 ! ---------------------------------------------------------
 ! Reklam Gizleme Kuralları - Ad Hiding Rules
@@ -69,6 +69,7 @@
 ##.ad-desktop
 ##.ad-inside-news
 ##.ad-interrupting
+##.ad-masthead
 ##.ad-showing
 ##.ad-with-border
 ##.adBanner
@@ -252,10 +253,10 @@
 ##div[class*="Reklam_"]
 ##div[class*="reklamlar"]
 ##div[class*="sponsored-news-recommendation"]
+##div[class^="Advertisement"]
 ##div[class^="ad-"]
 ##div[class^="ads-"]
 ##div[class^="advert_"]
-##div[class^="Advertisement"]
 ##div[class^="detail_right_ads_"]
 ##div[class^="reklam"]
 ##div[class^="reklam-"]
@@ -279,6 +280,7 @@
 ! ## Genel URL Filtreleme Kuralları ## 
 !
 */IncrementViewCount
+*/adservice/
 .tr/*/ad/
 .tr/*/ads/
 .tr/*/banner/
@@ -287,6 +289,7 @@
 .tr/ads/
 .tr/banner/
 .tr/banners/
+/1x1.*
 /320x250/
 /Advertisement/
 /Reklam/
@@ -376,6 +379,9 @@ teknoloji.org###custom_html-3
 teknoloji.org###custom_html-5
 tr.investing.com##.promo-strip-wrapper
 ukraynahaber.com###custom_html-20
+aspor.com.tr##.sub-board-frame
+yeniasya.com.tr,bolgegundem.com##.banner
+medyafaresi.com###globalsun
 !
 ! #################### Genel Kuralların Düzeltmeleri - Reklam #################### 
 !
@@ -407,6 +413,10 @@ mail.google.com#@#.ads
 ###sp-social-media
 ###sp_message_container_575429
 ###tooplay_share_0_0
+##.DetayPaylas
+##.PaylasimAlani
+##.SocialMediaShareButton
+##.SocialTools
 ##.a2a_kit
 ##.addthis_inline_share_toolbox
 ##.addthis_sharing_toolbox
@@ -418,6 +428,7 @@ mail.google.com#@#.ads
 ##.box-share
 ##.breadcrumb__google-news
 ##.btn-facebook
+##.c-social-buttons
 ##.c-socials
 ##.cb-socials
 ##.clearfix.rhd-social-box-wrapper
@@ -428,11 +439,10 @@ mail.google.com#@#.ads
 ##.d-share
 ##.desktop-share-button
 ##.desktop-social
+##.detTarihler
 ##.detail-share
 ##.detail-social
 ##.detay-share-wrapper
-##.DetayPaylas
-##.detTarihler
 ##.ds-share
 ##.entry-share
 ##.face
@@ -452,11 +462,13 @@ mail.google.com#@#.ads
 ##.js-share-button
 ##.js-share-modal-btn
 ##.js-sticky-block
+##.js_share-tools
 ##.jssocials-shares
 ##.kanews-article-share
 ##.linkedin.btn
 ##.m-socialMedia
 ##.new-detail-share
+##.news-detail-sticky__share
 ##.news-detail__share
 ##.news-share
 ##.news-social-media-bar
@@ -465,9 +477,8 @@ mail.google.com#@#.ads
 ##.nws-share-txt-td
 ##.panel-sosyal
 ##.paylas
-##.paylas_button
-##.PaylasimAlani
 ##.paylasText
+##.paylas_button
 ##.penci-social-share-footer
 ##.pinesocials-shares
 ##.post_share
@@ -501,21 +512,22 @@ mail.google.com#@#.ads
 ##.share-svg
 ##.share-tools
 ##.share-wp
-##.share__link
-##.share_bar
-##.share_detail
 ##.shareArea
 ##.shareBtn
 ##.shareBtns
+##.shareTitle
+##.share__link
+##.share_bar
+##.share_detail
 ##.shares-box
 ##.sharethis-inline-share-buttons
-##.shareTitle
 ##.sharing
 ##.sharing-container
 ##.si-share
 ##.single-social-media
 ##.smlIconSet
 ##.sns-shares
+##.sociaPayLasim
 ##.social
 ##.social-bar-v2
 ##.social-box
@@ -539,20 +551,17 @@ mail.google.com#@#.ads
 ##.social-sharing-button
 ##.social-sharing-buttons
 ##.social-sharing-icon
+##.socialBar
 ##.social_fb
 ##.social_group
 ##.social_link
 ##.social_tw
-##.socialBar
 ##.socialfooter
-##.SocialMediaShareButton
 ##.socials
 ##.socials-sharing
-##.SocialTools
-##.sociaPayLasim
 ##.sosyal
-##.sosyalhaber
 ##.sosyalMedya
+##.sosyalhaber
 ##.sshare
 ##.sticky-header__share
 ##.sub-action-share
@@ -575,7 +584,9 @@ mail.google.com#@#.ads
 ##[href^="http://www.facebook.com/share.php"]
 ##[href^="https://plus.google.com/share"]
 ##[href^="https://sbredir.com/tr"]
+##[href^="https://t.me/share/url"]
 ##[href^="https://twitter.com/share"]
+##[href^="https://web.whatsapp.com/send"]
 ##[href^="https://www.facebook.com/sharer/sharer.php"]
 ##[href^="https://www.linkedin.com/cws/share"]
 ##[src="tema/facebook.gif"]
@@ -622,10 +633,13 @@ sabah.com.tr##.boxShadowSet.pageTools
 ! ---------------------------------------------------------
 ! Çerez Kuralları - Cookie Rules
 ! ---------------------------------------------------------
+###CerezPopupBox
+###CookieAlert
+###CookieNotificationArea
+###CybotCookiebotDialog
 ###btz-cookie-popup
 ###cconsent-bar
 ###cerekKullanimUyari
-###CerezPopupBox
 ###cmc-cookie-policy-banner
 ###cookie-box
 ###cookie-consent
@@ -634,19 +648,16 @@ sabah.com.tr##.boxShadowSet.pageTools
 ###cookie-notification
 ###cookie-policy
 ###cookie-policy-app
-###cookie_directive_container
-###cookie_law_notification
-###CookieAlert
-###cookiealert
 ###cookieBar
 ###cookieInfo
-###cookienotice
-###CookieNotificationArea
 ###cookiePolicy
-###cookiepolicy
 ###cookiePolicyw
+###cookie_directive_container
+###cookie_law_notification
+###cookiealert
+###cookienotice
+###cookiepolicy
 ###cookies-message
-###CybotCookiebotDialog
 ###ezmobfooter
 ###gizlilikpolitikasi
 ###js-hook-cookie-policy-banner
@@ -654,6 +665,8 @@ sabah.com.tr##.boxShadowSet.pageTools
 ###rb-cookie
 ###redim-cookiehint-bottom
 ###secondCookiModal
+##.CookieAdvicestyles__CookieContainer-sc-8lqsze-0
+##.CookieLink
 ##.active.policy
 ##.active.type1.widget-cookie-popup
 ##.alert-info.alert-message
@@ -681,6 +694,7 @@ sabah.com.tr##.boxShadowSet.pageTools
 ##.cookie-message
 ##.cookie-notice-container
 ##.cookie-notification
+##.cookie-notify
 ##.cookie-operation-message
 ##.cookie-policy
 ##.cookie-policy-confirmation
@@ -691,16 +705,14 @@ sabah.com.tr##.boxShadowSet.pageTools
 ##.cookie-sticky-wrap
 ##.cookie-text
 ##.cookie.box
+##.cookieConsentContainer
+##.cookieNotification
+##.cookiePolicy
 ##.cookie__card
 ##.cookie_cookie__3NG06
 ##.cookie_warning
-##.CookieAdvicestyles__CookieContainer-sc-8lqsze-0
-##.cookieConsentContainer
 ##.cookieinfo
 ##.cookielayer__layer
-##.CookieLink
-##.cookieNotification
-##.cookiePolicy
 ##.cookies
 ##.cookies-notification
 ##.cookieseal-banner-body
@@ -797,6 +809,7 @@ tatildekirala.com##.css-1fl91wo
 ##.news-abone
 ##.news-detail__info__google-news
 ##.newsletter
+##.newsletter-form
 ##.newsletter-section
 ##.newsletter__item
 ##.pilli-subscribe
@@ -804,6 +817,7 @@ tatildekirala.com##.css-1fl91wo
 ##.single-gnews
 ##.subscribe
 ##.subscribe-google-news
+##.subscribe-list
 ##.subscribe-widget
 ##.subscription
 ##.tcm-link-subscribe
