@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    06 Apr 2022
+# Last update:    12 Apr 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -309,7 +309,6 @@
 127.0.0.1 analytics.edgekey.net
 127.0.0.1 analytics.edgesuite.net
 127.0.0.1 analytics.google.com
-127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analytics.kkb.com.tr
 127.0.0.1 analytics.live.com
 127.0.0.1 analytics.mobile.walmart.com
@@ -716,7 +715,6 @@
 127.0.0.1 makroo.kanal7-cdn.com
 127.0.0.1 mamydirect.com
 127.0.0.1 marinsm.com
-127.0.0.1 mark.isbank.com.tr
 127.0.0.1 marketing.modalife.com
 127.0.0.1 marketing.turkiyefinans.com.tr
 127.0.0.1 marketo.net
