@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    12 Apr 2022
+# Last update:    28 Apr 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -47,6 +47,7 @@
 127.0.0.1 ad.atdmt.com
 127.0.0.1 ad.bestsportstream.com
 127.0.0.1 ad.bilgin.pro
+127.0.0.1 ad.dline.com.tr
 127.0.0.1 ad.doganburda.com
 127.0.0.1 ad.donanimhaber.com
 127.0.0.1 ad.doubleclick.net
