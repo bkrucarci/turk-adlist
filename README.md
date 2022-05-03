@@ -68,6 +68,7 @@ Yukarıda yazdığım gibi resmi uygulamayı kullanarak reklamsız YouTube deney
 
 + iOS üzerinde reklamsız YouTube için bir seçenek yok! [Safari için AdGuard](https://adguard.com/tr/adguard-ios/overview.html) uygulaması ile birlikte Safari üzerinden YouTube websitesini açarsanız reklamları engelleyebilirsiniz. Apple kısıtlamaları nedeniyle iPhone ve iPad üzerinde farklı bir şansınız bulunmuyor.
 + Android üzerinde iOS cihazlara oranla daha özgür olduğumuz için "özgür" uygulamalar aracılığı ile reklamsız YouTube deneyimi elde edebilirsiniz.
+
 YouTube, Google'a ait bir platformdur. Gelirinin neredeyse tamamını reklamlardan elde eden Google kendi uygulama mağazasında YouTube reklamlarını engelleyebilen alternatiflere izin vermemektedir.
 Bu nedenle modlanmış uygulamalar ve reklamsız YouTube görüntüleme uygulamaları, Google Play Store üzerinden indirilemez! En bilinen modlanmış uygulama olan [YouTube Vanced](https://vancedapp.com/), 13.03.2022 tarihinde Google'ın yasal yaptırımları sonucu "[geliştirilmesi durdurulmuştur.](https://twitter.com/YTVanced/status/1503052250268286980)" Bundan sonraki süreçte bu uygulama güncelleme almayacaktır.
 Bu uygulamalar Google Play Store üzerinden indirilemediği için telefonunuzda Ayarlar > Uygulamalar > "Bilinmeyen Kaynaklardan Uygulama Yüklemeye İzin Ver" seçeneğini etkinleştirerek aşağıdaki uygulamaları kullanabilirsiniz.
