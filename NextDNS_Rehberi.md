@@ -40,7 +40,9 @@ bkrucarci turk-adlist filtresini de listede göreceksiniz. Etkinleştirmeyi unut
 ---
 ### Yerel İzleme Koruması
 
-Kullandığımız telefon, tablet ve akıllı televizyonlar içindir. Bu cihazların alışkanlıklarınızı anlamak ve bu alışkanlıklarınızı analiz ederek size hedeflenmiş bir pazarlama yapmak adına kulandığı takip yöntemlerinden kurtulabilirsiniz. NextDNS kullanacağınız cihaz veya cihazlar için de filtreleme ekleyin.
+Kullandığımız telefon, tablet ve akıllı televizyonlar içindir. Bu cihazların alışkanlıklarınızı anlamak ve bu alışkanlıklarınızı analiz ederek size hedeflenmiş bir pazarlama yapmak adına kulandığı takip yöntemlerinden kurtulabilirsiniz. NextDNS yapılandırmanızı kullanacağınız cihaz veya cihazlar için de filtreleme ekleyin.
+
+Ör. eşinizin Xiaomi telefonunda ve kendi Samsung telefonunuzda NextDNS yapılandırmanızı kullanacaksanız Samsung ve Xiaomi filtrelerini etkinleştirmelisiniz.
 
 ![](https://i.hizliresim.com/kva68uf.png)
 
