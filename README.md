@@ -67,16 +67,15 @@ Nasıl kullanacağınızı öğrenmek istiyorsanız;
 Yukarıda yazdığım gibi resmi uygulamayı kullanarak reklamsız YouTube deneyimi mümkün değil. 3. parti uygulamalar ile ancak mümkün olmaktadır.
 
 + iOS üzerinde reklamsız YouTube için bir seçenek yok! [Safari için AdGuard](https://adguard.com/tr/adguard-ios/overview.html) uygulaması ile birlikte Safari üzerinden YouTube websitesini açarsanız reklamları engelleyebilirsiniz. Apple kısıtlamaları nedeniyle iPhone ve iPad üzerinde farklı bir şansınız bulunmuyor.
-+ Android üzerinde iOS cihazlara oranla daha özgür olduğumuz için "modlanmış" uygulamalar aracılığı ile reklamsız YouTube deneyimi elde edebilirsiniz.
-YouTube, Google'a ait bir platformdur. Gelirinin neredeyse tamamını reklamlardan elde eden Google kendi uygulama mağazasında YouTube reklamlarını engelleyebilen alternatiflerine izin vermemektedir.
-Bu nedenle modlanmış uygulamalar Google Play Store üzerinden indirilemez.
-Bu uygulamalar market dışından olduğu için "market dışından uygulama yüklemeye izin vererek" aşağıdaki uygulamaları kullanabilirsiniz.
++ Android üzerinde iOS cihazlara oranla daha özgür olduğumuz için "özgür" uygulamalar aracılığı ile reklamsız YouTube deneyimi elde edebilirsiniz.
+YouTube, Google'a ait bir platformdur. Gelirinin neredeyse tamamını reklamlardan elde eden Google kendi uygulama mağazasında YouTube reklamlarını engelleyebilen alternatiflere izin vermemektedir.
+Bu nedenle modlanmış uygulamalar ve reklamsız YouTube görüntüleme uygulamaları, Google Play Store üzerinden indirilemez! En bilinen modlanmış uygulama olan [YouTube Vanced](https://vancedapp.com/), 13.03.2022 tarihinde Google'ın yasal yaptırımları sonucu "[geliştirilmesi durdurulmuştur.](https://twitter.com/YTVanced/status/1503052250268286980)" Bundan sonraki süreçte bu uygulama güncelleme almayacaktır.
+Bu uygulamalar Google Play Store üzerinden indirilemediği için telefonunuzda Ayarlar > Uygulamalar > "Bilinmeyen Kaynaklardan Uygulama Yüklemeye İzin Ver" seçeneğini etkinleştirerek aşağıdaki uygulamaları kullanabilirsiniz.
 
-#### "Modlanmış" Android YouTube Uygulamaları
+#### "Reklamsız" Android YouTube Uygulamaları
 
 + [NewPipe](https://newpipe.net/) özgür ve ücretsiz bir uygulamadır. Herhangi bir Google Hesabı, Google API olmadan video izleyebilir ve indirebilirsiniz. NewPipe uygulamasını arkaplanda kapanmadan çalıştırabilirsiniz.
 + [SkyTube](https://skytube-app.com/) özgür ve ücretsiz bir uygulamadır. Herhangi bir Google Hesabı, Google API olmadan video izleyebilir hatta favori kanallarınızı takip edebilirsiniz. İstemediğiniz videoları engelleyebilirsiniz. Beğendiğiniz videolara yerimi ekleyerek daha sonra tekrar izleyebilirsiniz.
 + [LibreTube](https://github.com/libre-tube/LibreTube) LibreTube, şu anda beta olarak kullanılabilen geliştirilmesi devam eden açık kaynaklı özgür bir YouTube arayüzüdür. Reklamsız  YouTube görüntüleme deneyimi ve video indirme gibi temel özellikleri barındırır.
-+ [YouTube Vanced](https://vancedapp.com/) uygulaması 13.03.2022 tarihinde Google'ın yasal yaptırımları sonucu "[geliştirilmesi durdurulmuştur.](https://twitter.com/YTVanced/status/1503052250268286980)" Bundan sonraki süreçte uygulama güncelleme almayacaktır. [NewPipe](https://newpipe.net/) veya diğer alternatifleri kullanmanızı tavsiye ederim.
 
 Dikkat! Bu önerdiğim uygulamalar dışındaki uygulamalardan kaçının. Yukarıda önerdiğim uygulamalar uzun zamandır geniş bir topluluk tarafından kullanılan, test edilen ve güvenilirliğini ispatlamış uygulamalardır. Reklam engellemek uğruna telefonunuza az bilinen, kim tarafından geliştirildiği belli olmayan uygulamaları kurmayın!
