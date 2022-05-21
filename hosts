@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    11 May 2022
+# Last update:    21 May 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -39,6 +39,7 @@
 127.0.0.1 acxdyn.com
 127.0.0.1 ad-cdn.bilgin.pro
 127.0.0.1 ad-delivery.net
+127.0.0.1 ad-plus.com.tr
 127.0.0.1 ad-score.com
 127.0.0.1 ad.360yield.com
 127.0.0.1 ad.afftrck.com
@@ -871,6 +872,7 @@
 127.0.0.1 pradma.com
 127.0.0.1 pre.footprintpredict.com
 127.0.0.1 prebid.a-mo.net
+127.0.0.1 predataclient.b-cdn.net
 127.0.0.1 prfct.co
 127.0.0.1 pro-market.net
 127.0.0.1 programattik.com
