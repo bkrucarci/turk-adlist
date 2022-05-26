@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    22 May 2022
+# Last update:    26 May 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -1030,6 +1030,7 @@
 127.0.0.1 spoods.rce.veeseo.com
 127.0.0.1 spotxchange.com
 127.0.0.1 spwms.com
+127.0.0.1 srvr.dmvs-apac.com
 127.0.0.1 st.tmgrup.com.tr
 127.0.0.1 stairtuy.com
 127.0.0.1 statcounter.com
