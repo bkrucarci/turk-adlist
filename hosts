@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    26 May 2022
+# Last update:    28 May 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -329,6 +329,7 @@
 127.0.0.1 api-stg.ensonhaber.com
 127.0.0.1 api.adintext.net
 127.0.0.1 api.adnsafe.org
+127.0.0.1 api.data.ciceksepeti.com
 127.0.0.1 api.opencandy.com
 127.0.0.1 api.recommendedsw.com
 127.0.0.1 api.rubic.com.tr
