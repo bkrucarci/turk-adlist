@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    28 May 2022
+# Last update:    29 May 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -1175,6 +1175,7 @@
 127.0.0.1 winaffiliates.com
 127.0.0.1 wlgtaffiliates.eacdn.com
 127.0.0.1 ws.tapjoyads.com
+127.0.0.1 wtg-ads.com
 127.0.0.1 ww3.smartadserver.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
