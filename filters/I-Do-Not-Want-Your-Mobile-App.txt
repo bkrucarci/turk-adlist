@@ -120,6 +120,7 @@
 ! ---------------------------------------------------------
 ! Following websites NOT allowed to be generic
 ! ---------------------------------------------------------
+anadolusaglik.org##.f-apps
 nedir.com###apps
 24.hu##.-appCol
 netgazete.com##.footer-alan-sag

@@ -294,6 +294,7 @@
 /Advertisement/
 /Reklam/
 /_ajax/tebilisim.php?
+/ad_getter.js
 /adrotate-pro/
 /ads/|~duckduckgo.com
 /binance-banner
@@ -327,6 +328,10 @@
 !
 ! Diğer
 !
+||wt.bodo.ua/trackJs
+||habereko.com/wp-content/plugins/perfmatters/js/analytics.js
+||lezzetlihediye.com/index_files/analytics.js
+||odatv4.com/js/reklamistPlayer.js
 ||bolununsesi.com/ilangorsel/
 ||dizirix.*/rklm/
 ||hayat.ro/files/uploads/advert/
@@ -342,6 +347,18 @@
 ! 
 ! #################### Genel Olmayan Kurallar - Reklam #################### 
 !
+||kilavuzonline.com/wp-content/uploads/2021/05/Banner-6.png
+||hexasoft.com.my/images/all-products/ip2location*.png
+||hexasoft.com.my/images/all-products/mailboxvalidator.png
+||hexasoft.com.my/images/all-products/fraudlabspro.png
+||ip2location.com/200x200.png
+||geolocation.com/assets/img/ip2location-banner.jpg
+hdfilmcehennemi2.cc##div[class*="money"]
+rehberlikservisi.net##.code-block
+bilgenc.com###stream-item-widget-3
+mebehliyetsinavsorulari.com##div[class^="masaustureklam"]
+canlitv.center###sidebar_reklam
+filmmax.net##.alt_banner
 almanyabulteni.de##.paragraph-body
 balkangunlugu.com.tr##.balkan-masthead
 cnnturk.com##.adv-block
@@ -526,6 +543,7 @@ mail.google.com#@#.ads
 ##.si-share
 ##.single-social-media
 ##.smlIconSet
+##.smlIconSet
 ##.sns-shares
 ##.sociaPayLasim
 ##.social
@@ -612,6 +630,15 @@ mail.google.com#@#.ads
 ! 
 ! #################### Genel Olmayan Kurallar - Paylaş Butonları #################### 
 !
+kuponly.com##.modal-share
+itemsatis.com##.shareButton
+itemhesap.com##.product-share
+mamavadisi.com##.shareTitle
+mamavadisi.com##.shareBtns
+petimce.com##.social-buttons
+esenyurthaberleri.com##.rhd-social-box-wrapper
+anadolusaglik.org##.innernav-sharer
+citygross.com.tr##.product-social-buttons
 boluhavadis.net###paylas-alan
 sondakikabolu.com##.sosyalinfo
 bizbolulular.com##.paylasDesktop
@@ -761,6 +788,8 @@ sabah.com.tr##.boxShadowSet.pageTools
 ! 
 ! #################### Genel Olmayan Kurallar - Çerez Uyarıları #################### 
 ! 
+citygross.com.tr###eu-cookie-bar-notification
+bodo.com###cookieAgreement
 airbnb.com.tr##._153hgp9
 bonherre.com###shopify-section-cookies_law
 cimri.com##.kmtqNo.s1a29zcm-13
