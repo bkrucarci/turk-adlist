@@ -120,6 +120,8 @@
 ! ---------------------------------------------------------
 ! Following websites NOT allowed to be generic
 ! ---------------------------------------------------------
+markamama.com.tr###mobil-app
+anadolusaglik.org##.f-apps
 nedir.com###apps
 24.hu##.-appCol
 netgazete.com##.footer-alan-sag
