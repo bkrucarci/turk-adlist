@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    29 May 2022
+# Last update:    11 Jun 2022
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -66,6 +66,7 @@
 127.0.0.1 ad.setrowid.com
 127.0.0.1 ad.sigortagundem.biz
 127.0.0.1 ad.sxp.smartclip.net
+127.0.0.1 ad.vidverto.io
 127.0.0.1 ad.webservis.gen.tr
 127.0.0.1 ad.wslinx.com
 127.0.0.1 ad.yemeksepeti.com
