@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    19 Oct 2022
+# Last update:    15 Jan 2023
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -62,6 +62,7 @@
 127.0.0.1 ad.reklam.xyz
 127.0.0.1 ad.reklamnative.com
 127.0.0.1 ad.reklamport.com
+127.0.0.1 ad.reklm.com
 127.0.0.1 ad.reyazilim.com
 127.0.0.1 ad.sacitaslan.com
 127.0.0.1 ad.setrowid.com
@@ -185,6 +186,7 @@
 127.0.0.1 ads.garga.biz
 127.0.0.1 ads.gercekgundem.com
 127.0.0.1 ads.google.com
+127.0.0.1 ads.igfhaber.com
 127.0.0.1 ads.ihaberadserver.com
 127.0.0.1 ads.ilbetaff.com
 127.0.0.1 ads.inegolonline.com
