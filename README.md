@@ -76,7 +76,7 @@ Bu uygulamalar Google Play Store üzerinden indirilemediği için telefonunuzda 
 #### "Reklamsız" Android YouTube Uygulamaları
 
 + [NewPipe](https://newpipe.net/) özgür ve ücretsiz bir uygulamadır. Herhangi bir Google Hesabı, Google API olmadan video izleyebilir ve indirebilirsiniz. NewPipe uygulamasını arkaplanda kapanmadan çalıştırabilirsiniz.
-+ [SkyTube](https://skytube-app.com/) özgür ve ücretsiz bir uygulamadır. Herhangi bir Google Hesabı, Google API olmadan video izleyebilir hatta favori kanallarınızı takip edebilirsiniz. İstemediğiniz videoları engelleyebilirsiniz. Beğendiğiniz videolara yerimi ekleyerek daha sonra tekrar izleyebilirsiniz.
++ [SkyTube](https://github.com/SkyTubeTeam/SkyTube) özgür ve ücretsiz bir uygulamadır. Herhangi bir Google Hesabı, Google API olmadan video izleyebilir hatta favori kanallarınızı takip edebilirsiniz. İstemediğiniz videoları engelleyebilirsiniz. Beğendiğiniz videolara yerimi ekleyerek daha sonra tekrar izleyebilirsiniz.
 + [LibreTube](https://github.com/libre-tube/LibreTube) LibreTube, şu anda beta olarak kullanılabilen geliştirilmesi devam eden açık kaynaklı özgür bir YouTube arayüzüdür. Reklamsız  YouTube görüntüleme deneyimi ve video indirme gibi temel özellikleri barındırır.
 
 Dikkat! Bu önerdiğim uygulamalar dışındaki uygulamalardan kaçının. Yukarıda önerdiğim uygulamalar uzun zamandır geniş bir topluluk tarafından kullanılan, test edilen ve güvenilirliğini ispatlamış uygulamalardır. Reklam engellemek uğruna telefonunuza az bilinen, kim tarafından geliştirildiği belli olmayan uygulamaları kurmayın!
