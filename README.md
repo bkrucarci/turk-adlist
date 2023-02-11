@@ -11,7 +11,7 @@ Reklamlar ve reklam ağları çoğunlukla zararlı yazılım yaymak için kullan
 
 Birçok reklam engelleme listesi mevcut olsada Türkçe içerikli siteler ve reklamverenleri engelleyen filtre olmadığı için bu filtreyi oluşturmak istedim. Tek başına bu liste tüm reklamları engelleyemez. Zaten öyle bir amacımız yok! Yalnızca Türkçe içerikli sitelerdeki reklamları engellemek için kullanın. Tek başına hiçbir filtre veya host ile tüm reklamları engelleyemezsiniz. Uzun zamandır geliştirilen listelerle birlikte kullanıldığında daha etkin bir sonuç alabilirsiniz.
 
-Aşağıdaki başlıklarda herhangi bir platformda internetinizi reklamsız nasıl kullanırsınız anlatacağım.
+Aşağıdaki başlıklarda, herhangi bir platformda, internetinizi reklamsız bir şekilde nasıl kullanabilirsiniz onu anlatacağım.
 
 ## Reklamları Nasıl Engelleyebilirim?
 
