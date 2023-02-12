@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    11 Feb 2023
+# Last update:    12 Feb 2023
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -970,6 +970,7 @@
 127.0.0.1 rs.chip.com.tr
 127.0.0.1 rtb.adjux.com
 127.0.0.1 rubiconproject.com
+127.0.0.1 rum.cronitor.io
 127.0.0.1 rum.uptime.com
 127.0.0.1 s.adklik.com.tr
 127.0.0.1 s.webtrends.com
