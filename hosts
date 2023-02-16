@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    12 Feb 2023
+# Last update:    16 Feb 2023
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -672,6 +672,7 @@
 127.0.0.1 js.agkn.com
 127.0.0.1 js.moatads.com
 127.0.0.1 js.tagon.co
+127.0.0.1 jsc.idealmedia.io
 127.0.0.1 juicyads.com
 127.0.0.1 junbi-tracker.com
 127.0.0.1 jwpltx.com
