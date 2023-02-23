@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    22 Feb 2023
+# Last update:    23 Feb 2023
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -626,6 +626,7 @@
 127.0.0.1 hotjar.com
 127.0.0.1 howmanyview.com
 127.0.0.1 hstats.hepsiburada.com
+127.0.0.1 hstatstest.hepsiburada.com
 127.0.0.1 htpanel.com
 127.0.0.1 hyprshr.com
 127.0.0.1 i.kissmetrics.com
