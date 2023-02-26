@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    23 Feb 2023
+# Last update:    26 Feb 2023
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -297,6 +297,7 @@
 127.0.0.1 aip2.sozcu.com.tr
 127.0.0.1 aj1907.online
 127.0.0.1 aj2373.online
+127.0.0.1 aj2550.bid
 127.0.0.1 ajansblue.net
 127.0.0.1 ajansreklam.net
 127.0.0.1 alephd.com
@@ -493,6 +494,7 @@
 127.0.0.1 countly.iyzico.com
 127.0.0.1 cp.pushwoosh.com
 127.0.0.1 cpatrendreklam.com
+127.0.0.1 cplayer.pw
 127.0.0.1 crashlytics.com
 127.0.0.1 crazyegg.com
 127.0.0.1 creativecdn.com
@@ -524,6 +526,7 @@
 127.0.0.1 demand.supply
 127.0.0.1 demdex.net
 127.0.0.1 device-metrics-us-2.amazon.com
+127.0.0.1 diken.xyz
 127.0.0.1 dimml.io
 127.0.0.1 directrev.com
 127.0.0.1 dmcdn.yieldbird.com
