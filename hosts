@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    26 Feb 2023 .v2
+# Last update:    28 Feb 2023
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -483,7 +483,6 @@
 127.0.0.1 cookie-cdn.cookiepro.com
 127.0.0.1 cookiebar.eticaret.com
 127.0.0.1 cookiebot.com
-127.0.0.1 cookielaw.org
 127.0.0.1 cookiepro.com
 127.0.0.1 cookieseal.com
 127.0.0.1 core.insightexpressai.com
