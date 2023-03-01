@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    28 Feb 2023 v2
+# Last update:    01 Mar 2023
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -266,6 +266,7 @@
 127.0.0.1 adtrack.king.com
 127.0.0.1 adv.letitbit.net
 127.0.0.1 advancenative.com
+127.0.0.1 advert.livesportmedia.eu
 127.0.0.1 advertag.in
 127.0.0.1 advertising.bulurum.com
 127.0.0.1 advertising.com
@@ -757,6 +758,7 @@
 127.0.0.1 mkazanc.com
 127.0.0.1 mlstat.com
 127.0.0.1 moatads.com
+127.0.0.1 mobiadvert.livesportmedia.eu
 127.0.0.1 mobilbahis365.mobi
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-crash.newrelic.com
