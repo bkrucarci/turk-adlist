@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    02 Mar 2023 v2
+# Last update:    04 Mar 2023
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -314,6 +314,7 @@
 127.0.0.1 analytic.piri.net
 127.0.0.1 analytic.turkiyefinans.com.tr
 127.0.0.1 analytics.cervellio.com
+127.0.0.1 analytics.data.visenze.com
 127.0.0.1 analytics.dugun.com
 127.0.0.1 analytics.edgekey.net
 127.0.0.1 analytics.edgesuite.net
