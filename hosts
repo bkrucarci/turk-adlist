@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    10 Mar 2023
+# Last update:    15 Mar 2023
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -326,6 +326,7 @@
 127.0.0.1 analytics.mobile.yandex.net
 127.0.0.1 analytics.mopub.com
 127.0.0.1 analytics.olay.com.tr
+127.0.0.1 analytics.onedio.com
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.rasyotek.com.tr
 127.0.0.1 analytics.tebilisim.com
