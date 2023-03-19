@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    15 Mar 2023
+# Last update:    19 Mar 2023
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -14,6 +14,10 @@
 # --- [ Ad Networks on Turkish Sites ] --- #
 #
 #
+127.0.0.1 advertising.a2z.com
+127.0.0.1 app.tr.adjust.com
+127.0.0.1 app.adjust.world
+127.0.0.1 app.adjust.net.in
 127.0.0.1 0638.info
 127.0.0.1 109.73.75.29
 127.0.0.1 109.73.75.3
