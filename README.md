@@ -59,7 +59,9 @@ Nasıl kullanacağınızı öğrenmek istiyorsanız;
 
 **Şu an piyasada hiçbir reklam engelleme uygulaması, YouTube'un 'resmi' mobil uygulamalarındaki reklamları engelleyemez!**
 
-(Bu teknoloji bir gün mümkün olduğunda bu klavuz güncellenecektir!)
+### Ücretsiz YouTube ve YouTube Music Alternatifi
+
+- [**NewPipe & SimpMusic - Ücretsiz YouTube & YouTube Music Alternatifi**](https://github.com/bkrucarci/turk-adlist/blob/master/newpipe_simpmusic.md#newpipe--simpmusic---%C3%BCcretsiz-youtube--youtube-music-alternatifi) sayfasına gözatın.
 
 ---
 ### Telefonda-Tablette YouTube Reklamlarını Nasıl Engellenir?
