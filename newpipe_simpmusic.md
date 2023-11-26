@@ -1,4 +1,4 @@
-## NewPipe & SimpMusic - Ücretsiz YouTube & YouTube Music Alternatifi
+### NewPipe & SimpMusic - Ücretsiz YouTube & YouTube Music Alternatifi
 
 YouTube Music ve YouTube, müzik-video platformu olarak milyonlarca içeriğe sahip bir platform. Sıradan kullanıcıların her gün ziyaret ettiği bu platformlar ile müzik dinliyor ve abone olduğumuz kanalların video içeriklerini takip ediyoruz.
 
