@@ -5,7 +5,7 @@
 # License:        Creative Commons Attribution-ShareAlike 3.0 Unported
 #                 https://creativecommons.org/licenses/by-sa/3.0/
 # ------------------------------------------------------------------------
-# Last update:    02 May 2023
+# Last update:    01 Dec 2023
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -991,6 +991,7 @@
 127.0.0.1 rrx68giz-474f4415ad616d50d5fca57649d097ad94f4f069-mob.d.aa.online-metrix.net
 127.0.0.1 rs.chip.com.tr
 127.0.0.1 rtb.adjux.com
+127.0.0.1 rtb.pixad.com.tr
 127.0.0.1 rubiconproject.com
 127.0.0.1 rum.cronitor.io
 127.0.0.1 rum.uptime.com
